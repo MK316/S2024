@@ -12,4 +12,4 @@ To be updated
 ## Course tools 
 TBA
 
-<iframe src="https://time-stuff.com/embed.html" frameborder="0" scrolling="no" width="391" height="140"></iframe>
+[Stopwatch Online](https://time-stuff.com/embed.html)
