@@ -1,5 +1,5 @@
-# 🌱 Spring semester of 2024
-
+# 🌱 Spring semester of 2024 (TBA)
+To be updated
 ## Courses
 
 |Level|Credits|Course title|Description|Coding link|
