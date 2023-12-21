@@ -1,6 +1,6 @@
 # Corpus Linguistics
 
-## Statistical concepts to handle frequency data
+## How to handle frequency data
 
 1. **Data Types and Variables:**
 + Understanding different types of data (quantitative vs. qualitative) and variables (discrete vs. continuous).
