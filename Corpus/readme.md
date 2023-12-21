@@ -1,7 +1,7 @@
 # Corpus Linguistics
 
 1. **Data Types and Variables:**
-   +Understanding different types of data (quantitative vs. qualitative) and variables (discrete vs. continuous).
++ Understanding different types of data (quantitative vs. qualitative) and variables (discrete vs. continuous).
 2. **Frequency Data Basics::**
 + Definition of frequency data.
 + Differentiating between absolute frequency, relative frequency, and cumulative frequency.
