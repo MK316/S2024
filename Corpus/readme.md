@@ -2,7 +2,7 @@
 
 ## 📙 How to handle frequency data
 
-### 1. **Data Types and Variables:** [details](https://github.com/MK316/Spring2024/blob/main/Corpus/L01.md)
+### 1. **Data Types and Variables:** ➡️[details](https://github.com/MK316/Spring2024/blob/main/Corpus/L01.md)
 + Understanding different types of data (quantitative vs. qualitative) and variables (discrete vs. continuous).
 ### 2. **Frequency Data Basics::**
 + Definition of frequency data.
