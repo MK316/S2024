@@ -1,8 +1,8 @@
 # Corpus Linguistics
 
-## How to handle frequency data
+## 📙 How to handle frequency data
 
-### 🔷 1. **Data Types and Variables:**
+### 1. **Data Types and Variables:**
 + Understanding different types of data (quantitative vs. qualitative) and variables (discrete vs. continuous).
 ### 2. **Frequency Data Basics::**
 + Definition of frequency data.
