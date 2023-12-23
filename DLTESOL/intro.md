@@ -3,10 +3,14 @@
 + Graduate School of TESOL (GS TESOL)
 + Course overview: This introductory course is specifically designed for graduate students majoring in TESOL, aiming to equip them with the essential skills and knowledge in contemporary digital literacy. As we step into a digitally-driven era, the role of technology in language education becomes increasingly pivotal. This course addresses this transformation, focusing on how TESOL educators can effectively integrate digital tools into their teaching practices.
 
-1. [Course Syllabus](#course syllabus)
-2. [Weekly topics and schedules](#weekly topics)
+## Table of Contents
+1. [Course Syllabus](#syllabus)
+2. [Weekly topics and schedules](#weekly-topics)
 
-
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Usage](#usage)
+3. [FAQ](#faq)
 
 
   
@@ -34,10 +38,7 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 
 
 
-# Table of Contents
-1. [Introduction](#introduction)
-2. [Usage](#usage)
-3. [FAQ](#faq)
+
 
 ## Introduction
 Content for the introduction section goes here.
