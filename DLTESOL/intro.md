@@ -14,7 +14,7 @@
 
 
   
-## Course Syllabus
+## Syllabus
 
 Key Objectives:
 
