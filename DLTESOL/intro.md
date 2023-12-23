@@ -35,10 +35,10 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 [🔝Back to top](#course-overview)
 
 ## Weekly Topics 
-
+Tuesdays (20:10~21:30)  
 |Wk|Date|Topic(s)|Descriptions|[Lecture notes]|[Codes]|
 |--|--|--|--|--|--|
-|W01|Mar.2|||||
+|W01|Mar.5|||||
 
 [🔝Back to top](#course-overview)
 ## Class tools
