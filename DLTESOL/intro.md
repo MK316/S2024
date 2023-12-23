@@ -60,5 +60,6 @@ Tuesdays (20:10~21:30)
 ## Class tools
 
 ||Keyword|Link|
+|--|--|--|
 |01|Activity posting|[link](padlet.com/mirankim/cdltesol)|
 [🔝Back to top](#course-overview)
