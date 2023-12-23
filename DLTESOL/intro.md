@@ -1,7 +1,6 @@
-# 🌿 Contemporary Digital Literacy for TESOL Educators
-### Spring 2024
-+ Graduate School of TESOL (GS TESOL)
-+ Course overview: This introductory course is specifically designed for graduate students majoring in TESOL, aiming to equip them with the essential skills and knowledge in contemporary digital literacy. As we step into a digitally-driven era, the role of technology in language education becomes increasingly pivotal. This course addresses this transformation, focusing on how TESOL educators can effectively integrate digital tools into their teaching practices.
+# 🌿 Contemporary Digital Literacy for TESOL Educators (Spring 2024)
+### Course overview
++ This introductory course is specifically designed for graduate students majoring in TESOL, aiming to equip them with the essential skills and knowledge in contemporary digital literacy. As we step into a digitally-driven era, the role of technology in language education becomes increasingly pivotal. This course addresses this transformation, focusing on how TESOL educators can effectively integrate digital tools into their teaching practices.
 
 ##  📗Table of Contents
 1. [Course Syllabus](#course-syllabus)
@@ -31,6 +30,8 @@ Key Objectives:
 7. Ethical Considerations and Digital Citizenship: As educators in the digital age, understanding the ethical implications of technology use in the classroom is crucial. This course will cover aspects of digital citizenship, privacy, and ethical use of digital resources in education.
 
 By the end of this course, TESOL graduates will be well-equipped with the fundamental skills and knowledge to effectively incorporate digital literacy into their teaching practices. They will be prepared to navigate the digital landscape of language education, creating innovative, inclusive, and effective learning experiences for their students.
+
+[Back to top](#course-overview)
 
 ## Weekly Topics 
 
