@@ -39,6 +39,22 @@ Tuesdays (20:10~21:30)
 |Wk|Date|Topic(s)|Descriptions|[Lecture notes]|[Codes]|
 |--|--|--|--|--|--|
 |W01|Mar.5|||||
+|W02|Mar.12||||||
+|W03|Mar.||||||
+|W04|Mar.||||||
+|W05|||||||
+|W06|||||||
+|W07|||||||
+|W08|||||||
+|W09|||||||
+|W10|||||||
+|W11|||||||
+|W12|||||||
+|W13|||||||
+|W14|||||||
+|W15|||||||
+|W16|||||||
+
 
 [🔝Back to top](#course-overview)
 ## Class tools
