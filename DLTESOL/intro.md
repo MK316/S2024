@@ -6,6 +6,7 @@
 ## Table of Contents
 1. [Course Syllabus](#course-syllabus)
 2. [Weekly topics and schedules](#weekly-topics)
+3. [Class tools](#class-tools)
 
 
 
@@ -33,3 +34,7 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 
 ## Weekly Topics
 
+|Wk|Date|Topic(s)|Descriptions|[Lecture notes]|[Codes]|
+|--|--|--|--|--|--|
+|W01|Mar.2|||||
+## Class tools
