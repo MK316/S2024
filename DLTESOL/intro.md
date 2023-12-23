@@ -11,10 +11,10 @@
   
 ## Course syllabus
 
-🔸Course overview
+🔸Course overview:  
 This introductory course is specifically designed for graduate students majoring in TESOL, aiming to equip them with the essential skills and knowledge in contemporary digital literacy. As we step into a digitally-driven era, the role of technology in language education becomes increasingly pivotal. This course addresses this transformation, focusing on how TESOL educators can effectively integrate digital tools into their teaching practices.
 
-🔸Key Objectives:
+🔸Key Objectives:  
 
 1. Understanding Digital Literacy: We begin by exploring the concept of digital literacy, particularly its importance for language educators in the 21st century. Students will learn about the evolving landscape of digital technology in education and how it impacts language teaching and learning.
 
