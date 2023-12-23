@@ -31,3 +31,19 @@ Key Objectives:
 By the end of this course, TESOL graduates will be well-equipped with the fundamental skills and knowledge to effectively incorporate digital literacy into their teaching practices. They will be prepared to navigate the digital landscape of language education, creating innovative, inclusive, and effective learning experiences for their students.
 
 ## Weekly Topics
+
+
+
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Usage](#usage)
+3. [FAQ](#faq)
+
+## Introduction
+Content for the introduction section goes here.
+
+## Usage
+Details about usage go here.
+
+## FAQ
+Frequently Asked Questions are answered here.
