@@ -61,7 +61,7 @@ Tuesdays (20:10~21:30)
 
 ||Keyword|Link|
 |--|--|--|
-|01|Activity posting|[link](https://padlet.com/mirankim316/cdltesol)|
+|01|Activity posting|[link](https://padlet.com/mirankim316/dltesol)|
 |02|Choosing a star participant|[web](https://wheelofnames.com/)|
 
 [🔝Back to top](#course-overview)
