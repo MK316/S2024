@@ -15,7 +15,7 @@
 |W06||Basics of coding IV: simple applications|||
 |W07||Coding summary, Getting a live link using Gradio|||
 |W08|**_Midterm_**||||
-|W09|||||
+|W09|Markdown|Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation, which is essential for effective collaboration and communication in software development projects.|||
 |W10|||||
 |W11|||||
 |W12|||||
