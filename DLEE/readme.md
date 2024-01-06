@@ -8,7 +8,7 @@
 |Week|Key topic(s)|Description|Code page|Assignments|
 |--|--|--|--|--|
 |W01|Introduction|Course overview, syllabus, grouping; the concept of digital literacy|[DL01]||
-|W02|Coding|Using online platforms (Github, Colab) to write, run, save codes|||
+|W02|Python Coding|Using online platforms (Github, Colab) to write, run, save codes|||
 |W03||||[^1]Tools to share|
 |W04|||||
 |W05|||||
