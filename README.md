@@ -1,4 +1,4 @@
-# 🌱 Spring semester of 2024 (TBA)
+# 🌱 Spring semester of 2024
 To be updated
 ## Courses
 
