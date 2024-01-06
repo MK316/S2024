@@ -6,7 +6,9 @@
 3. [Class tools](#class-tools)
 
 
+## Class Board (files & links)
 
+| [Padlet](https://padlet.com/mirankim316/DLTESOL) |
 
   
 ## Course syllabus
