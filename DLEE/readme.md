@@ -9,11 +9,11 @@
 |--|--|--|--|--|
 |W01|Introduction|Course overview, syllabus, grouping; the concept of digital literacy|[DL01]||
 |W02|Python Coding|Using online platforms (Github, Colab) to write, run, save codes|||
-|W03||Basics of coding I; variables and operators||[^1]Tools to share|
-|W04||Basics of coding II|||
-|W05||Basics of coding III|||
-|W06|||||
-|W07|||||
+|W03||Basics of coding I: variables and operators, using Python packages||[^1]Tools to share|
+|W04||Basics of coding II: data types|||
+|W05||Basics of coding III: interactive process|||
+|W06||Basics of coding IV: simple applications|||
+|W07||Coding summary, Getting a live link using Gradio|||
 |W08|**_Midterm_**||||
 |W09|||||
 |W10|||||
