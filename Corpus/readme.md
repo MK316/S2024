@@ -1,5 +1,28 @@
 # 🌿 Corpus Linguistics (Spring 2024)
 
+## Course board & links
+| [Syllabus]() | [Padlet: inclass activity]() |
+
+## Weekly Schedule
+
+|Week|Key topic(s)|Description|Code page|Assignments|
+|--|--|--|--|--|
+|W01|Introduction|Course overview, syllabus, grouping; What is corpus?|[CL01]||
+|W02|||||
+|W03|||||
+|W04|||||
+|W05|||||
+|W06|||||
+|W07|||||
+|W08|||||
+|W09|||||
+|W10|||||
+|W11|||||
+|W12|||||
+|W13|||||
+|W14|||||
+|W15|||||
+
 ## 📙 How to handle frequency data
 
 ### 1. **Data Types and Variables:** ➡️[details](https://github.com/MK316/Spring2024/blob/main/Corpus/L01.md)
