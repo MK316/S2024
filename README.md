@@ -2,7 +2,7 @@
 To be updated
 ## Courses
 
-|Course title|Level|Credits|Description|References|
+|Digital Classrooms|Level|Credits|Description|References|
 |---|:---:|:---:|---|---|
 |**[English Pronunciation Practice](https://github.com/MK316/Spring2024/blob/main/Engpro/readme.md)**|📒 UG (1st Yr.)|3|Designed specifically for first-year English Education majors, this course enhances English pronunciation skills by exploring English sounds and their rules. Students will engage with various vowel and consonant sounds, intonation patterns, and stress rules. This knowledge is crucial for improving pronunciation and comprehension in spoken English, forming a vital foundation for effective English communication and teaching.||
 |**[Digital Literacy and English Education](https://github.com/MK316/Spring2024/blob/main/DLEE/readme.md)**|📙 UG (2nd Yr.)|2|This course for undergraduate English teacher candidates emphasizes digital literacy, with an understanding of basic coding as a helpful tool. It explores how these skills can enrich language teaching by enabling the creation of customized educational tools and interactive experiences, catering to diverse student needs in a digital world.||
