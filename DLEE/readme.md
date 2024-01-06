@@ -9,8 +9,8 @@
 |--|--|--|--|--|
 |W01|Introduction|Course overview, syllabus, grouping; the concept of digital literacy|[DL01]||
 |W02|Python Coding|Using online platforms (Github, Colab) to write, run, save codes|||
-|W03||Basics of coding; variables and operators||[^1]Tools to share|
-|W04|||||
+|W03||Basics of coding I; variables and operators||[^1]Tools to share|
+|W04||Basics of coding II|||
 |W05|||||
 |W06|||||
 |W07|||||
