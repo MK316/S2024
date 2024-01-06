@@ -7,7 +7,7 @@
 
 |Week|Key topic(s)|Description|Code page|Assignments|
 |--|--|--|--|--|
-|W01|Introduction|Course overview, syllabus, grouping; the concept of digital literacy|[DL01]||
+|W01|Introduction|Course overview, syllabus, grouping; the concept of digital literacy|[DL01]()[Act#1]()||
 |W02|Python Coding|Using online platforms (Github, Colab) to write, run, save codes|||
 |W03||Basics of coding I: variables and operators, using Python packages||[^1]Tools to share|
 |W04||Basics of coding II: data types|||
