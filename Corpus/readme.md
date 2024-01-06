@@ -1,4 +1,4 @@
-# Corpus Linguistics
+# 🌿 Corpus Linguistics (Spring 2024)
 
 ## 📙 How to handle frequency data
 
