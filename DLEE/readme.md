@@ -23,5 +23,5 @@
 |W14|||||
 |W15|**_Final_**|_Project presentation_|||
 
-[^1] Digital tools to share: 
+[^1]: Digital tools to share: 
 
