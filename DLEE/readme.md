@@ -1,2 +1,2 @@
-# Digital Literacy and English Education (DLEE Spring 2024)
+# 🌿 Digital Literacy and English Education (DLEE Spring 2024)
 
