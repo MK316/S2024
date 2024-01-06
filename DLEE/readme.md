@@ -1,7 +1,7 @@
 # 🌿 Digital Literacy and English Education (DLEE Spring 2024)
 
 ## Course board & links
-| [Syllabus]() | [Padlet: inclass activity] |
+| [Syllabus]() | [Padlet: inclass activity]() |
 
 ## Weekly Schedule
 
