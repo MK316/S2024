@@ -1,7 +1,7 @@
 # 🌿 Digital Literacy and English Education (DLEE Spring 2024)
 
 ## Course board & links
-| [Syllabus]() | [Padlet: inclass activity]() | 📘[Jump to Python](https://wikidocs.net/5) |
+| [Syllabus]() | [Padlet: inclass activity]() | 📘[Jump to Python (Manual)](https://wikidocs.net/5) |
 
 ## Weekly Schedule
 
