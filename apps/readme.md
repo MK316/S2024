@@ -16,6 +16,16 @@ Description: A quiz application where students answer multiple-choice questions 
 Learning Objective: Reinforce grammar rules and enable students to self-assess their understanding.
 Python Concepts: Conditional statements, data storage, user input handling.
 
+To create an interactive English Grammar Quiz in Python, we'll focus on the core requirements you mentioned. The quiz will present multiple-choice questions about English grammar, provide immediate feedback, and track student progress. We'll use conditional statements for the quiz logic, data storage to track progress, and handle user input for responses.
+
+Here's a basic structure for such a quiz application:
+
+Question Set-Up: We'll define a set of questions and associated options.
+User Input: The program will ask users to choose an option for each question.
+Immediate Feedback: After each question, the program will inform the user if their answer was correct or incorrect.
+Tracking Progress: The program will keep track of the number of correct answers.
+Final Score: At the end of the quiz, the user's score will be displayed.
+
 3. Text-to-Speech (TTS) for Pronunciation Practice:
 
 Description: Using a TTS library, this application converts written text into spoken words. Students can listen to correct pronunciation and practice alongside.
