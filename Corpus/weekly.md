@@ -3,7 +3,7 @@
 ### Week 1: Introduction to Corpus Linguistics
 
 + What is corpus linguistics?
-  >- Define corpus linguistics and its role in understanding English usage. 
+  > Define corpus linguistics and its role in understanding English usage. 
 
 + Its relevance to English teaching
 + Basic concepts and terminology
