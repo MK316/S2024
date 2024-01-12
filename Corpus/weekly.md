@@ -3,10 +3,15 @@
 ### Week 1: Introduction to Corpus Linguistics
 
 + What is corpus linguistics?
-  > Define corpus linguistics and its role in understanding English usage. 
+  > The study of language as expressed in corpora (samples) of "real world" text. Corpus linguistics is a systematic, data-driven method analyzing diverse language forms (written, spoken, web content) using representative data samples. It utilizes computational and statistical techniques to explore language structure, usage, and function across extensive text corpora. Distinguishing itself by focusing on natural language contexts, it offers insights into linguistic nuances and the evolution of language, beyond what traditional studies provide.
+  > Spoken vs. written corpus
 
 + Its relevance to English teaching
+  > How corpus linguistics can inform and improve English language teaching
+  > Corpus based vs. prscriptive grammar rules
+  
 + Basic concepts and terminology
+  > Frequency, Collocation, Concordance, Corpus annotation, Register, etc.
 
 ### Weeks 2-3: Exploring Online Open Corpora
 
