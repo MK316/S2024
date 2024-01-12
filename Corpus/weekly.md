@@ -8,19 +8,20 @@
 
 + Its relevance to English teaching
   > How corpus linguistics can inform and improve English language teaching: Corpus linguistics significantly informs English teaching by providing real-world language usage data. It helps educators understand actual language patterns, moving beyond textbook examples to include authentic, current linguistic forms. This approach enriches vocabulary and grammar teaching, aids in developing materials that reflect actual language use, and supports a more practical and relevant approach to language instruction. Corpus linguistics thus bridges the gap between theoretical language knowledge and practical language application, enhancing the effectiveness of English education.
+  
   > Corpus based vs. prscriptive grammar rules: Corpus-based grammar, derived from analyzing real-world language use, contrasts with prescriptive grammar rules that dictate how language should be used. Corpus-based approaches reflect authentic, current language patterns, offering a more accurate and practical understanding of grammar in everyday communication. This method provides a realistic view of language variability and change, challenging the fixed norms of prescriptive grammar and aligning grammar teaching with actual language usage.
   
 + Basic concepts and terminology
   > Frequency, Collocation, Concordance, Corpus annotation, Register, etc.
-    > Frequency: Refers to how often a word or phrase appears in a corpus. High-frequency words are common in language use, whereas low-frequency ones are rarer. Frequency analysis helps in identifying commonly used language elements.
+    - Frequency: Refers to how often a word or phrase appears in a corpus. High-frequency words are common in language use, whereas low-frequency ones are rarer. Frequency analysis helps in identifying commonly used language elements.
 
-    > Collocation: The tendency of certain words to occur together more often than by chance. For example, "strong coffee" is a common collocation. Studying collocations helps understand natural word pairings and language patterns.
+    - Collocation: The tendency of certain words to occur together more often than by chance. For example, "strong coffee" is a common collocation. Studying collocations helps understand natural word pairings and language patterns.
 
-    > Concordance: A list of all occurrences of a particular word or phrase in a corpus, presented within their immediate context. Concordances are used to study how words are used in different situations.
+    - Concordance: A list of all occurrences of a particular word or phrase in a corpus, presented within their immediate context. Concordances are used to study how words are used in different situations.
 
-    > Corpus Annotation: The process of adding extra information to a corpus, such as part-of-speech tags, semantic labels, or syntactic structures. Annotations help in more detailed and specific analyses of the corpus.
+    - Corpus Annotation: The process of adding extra information to a corpus, such as part-of-speech tags, semantic labels, or syntactic structures. Annotations help in more detailed and specific analyses of the corpus.
 
-    > Register: The variety of language used in a particular social setting or for a specific purpose. For instance, academic writing and casual conversation represent different registers. Understanding register is crucial for teaching appropriate language use in different contexts.
+    - Register: The variety of language used in a particular social setting or for a specific purpose. For instance, academic writing and casual conversation represent different registers. Understanding register is crucial for teaching appropriate language use in different contexts.
 
 ### Weeks 2-3: Exploring Online Open Corpora
 
