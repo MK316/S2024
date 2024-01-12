@@ -24,10 +24,24 @@
     - Register: The variety of language used in a particular social setting or for a specific purpose. For instance, academic writing and casual conversation represent different registers. Understanding register is crucial for teaching appropriate language use in different contexts.
 
 ### Weeks 2-3: Exploring Online Open Corpora
+: Present an overview of several prominent open corpora that are accessible online. Discuss their characteristics, strengths, and types of language data they contain.
 
-Introduction to widely-used open corpora
-Navigating and utilizing these corpora for teaching
-Hands-on activities: Simple searches and understanding results
++ Introduction to widely-used open corpora
+  > British National Corpus (BNC): A snapshot of British English in the late 20th century.
+  > Corpus of Contemporary American English (COCA): Provides a comprehensive look at American English, updated regularly.
+  > Corpus of Historical American English (COHA): Useful for understanding language change over time.
+  > Google Books Ngram Viewer: Allows for tracking the frequency of words/phrases over decades.
+  
++ Navigating and utilizing these corpora for teaching
+  > how to effectively navigate and use these corpora for educational purposes.
+  > Focus on practical skills like searching for specific words or phrases, comparing usage over time, and understanding differences in regional or contextual usage.
+  > Practical Applications: Developing lesson content based on real language use (e.g., creating vocabulary lists or grammar exercises using authentic examples).
+Analyzing language trends and changes for advanced classes or linguistic awareness.
+  
++ Hands-on activities: Simple searches and understanding results
+  > Find examples of a particular grammatical structure and compare its usage in different registers.
+  > Track the change in the meaning of a word over time.
+  > Identify common collocations for a set of vocabulary relevant to an ESL/EFL syllabus.
 
 ### Week 4: Basic Corpus Analysis Techniques
 
