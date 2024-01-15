@@ -1,4 +1,4 @@
-# Digital Classroom
+# CDL
 # 🌿 Contemporary Digital Literacy for TESOL Educators (Spring 2024)
 
 ##  Table of Contents
@@ -36,7 +36,7 @@ This introductory course is specifically designed for graduate students majoring
 
 By the end of this course, TESOL graduates will be well-equipped with the fundamental skills and knowledge to effectively incorporate digital literacy into their teaching practices. They will be prepared to navigate the digital landscape of language education, creating innovative, inclusive, and effective learning experiences for their students.
 
-[🔝Back to top](#digital-classroom)
+[🔝Back to top](#cdl)
 
 ## Weekly Topics 
 Tuesdays (20:10~21:30)  
@@ -60,7 +60,7 @@ Tuesdays (20:10~21:30)
 |W16|June 18 ||||||
 
 
-[🔝Back to top](#digital-classroom)
+[🔝Back to top](#cdl)
 ## Class tools
 
 ||Keyword|Link|
@@ -70,4 +70,4 @@ Tuesdays (20:10~21:30)
 
 ## Assignments
 
-[🔝Back to top](#digital-classroom)
+[🔝Back to top](#cdl)
