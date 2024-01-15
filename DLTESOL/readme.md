@@ -5,7 +5,7 @@
 1. [Course Syllabus](#course-syllabus)
 2. [Weekly topics and schedules](#weekly-topics)
 3. [Class tools](#class-tools)
-4. [Assignments]()
+4. [Assignments](#assignments)
 
 
 ## Class Board (files & links)
@@ -67,5 +67,7 @@ Tuesdays (20:10~21:30)
 |--|--|--|
 |01|Activity posting|[link](https://padlet.com/mirankim316/dltesol)|
 |02|Choosing a star participant|[web](https://wheelofnames.com/)|
+
+## Assignments
 
 [🔝Back to top](#digital-classroom)
