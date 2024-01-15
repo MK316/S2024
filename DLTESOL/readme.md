@@ -59,7 +59,7 @@ Tuesdays (20:10~21:30)
 |W16|June 18 ||||||
 
 
-[🔝Back to top](## Course syllabus)
+[🔝Back to top](#digital-classroom)
 ## Class tools
 
 ||Keyword|Link|
@@ -67,4 +67,4 @@ Tuesdays (20:10~21:30)
 |01|Activity posting|[link](https://padlet.com/mirankim316/dltesol)|
 |02|Choosing a star participant|[web](https://wheelofnames.com/)|
 
-[🔝Back to top](#course-overview)
+[🔝Back to top](#digital-classroom)
