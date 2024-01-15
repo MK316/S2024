@@ -1,7 +1,7 @@
 # 🌿 Digital Literacy and English Education (DLEE Spring 2024)
 
 ## 🔶 Course board (Files & links)
-| [Syllabus]() | [Padlet: inclass activity](https://padlet.com/mirankim316/DLEES24) | 📘 [Jump to Python (Manual)](https://wikidocs.net/5) | :octocat: [Github IDs](https://docs.google.com/spreadsheets/d/1rcJ6c2BuAIbodEft7ZUsgwFOwiNK9nO2siZ6VUAgcgI/edit?usp=sharing) |
+| [Syllabus]() | [Padlet: inclass activity](https://padlet.com/mirankim316/DLEES24) | 📘 [Jump to Python (Manual)](https://wikidocs.net/5) | :octocat: [Github IDs](https://docs.google.com/spreadsheets/d/1rcJ6c2BuAIbodEft7ZUsgwFOwiNK9nO2siZ6VUAgcgI/edit?usp=sharing) | [Supplementary](https://wikidocs.net/book/14141)|
 
 ## 🔶 Weekly Schedule
 
