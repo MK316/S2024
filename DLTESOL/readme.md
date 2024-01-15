@@ -1,5 +1,5 @@
 # 🌿 Contemporary Digital Literacy for TESOL Educators (Spring 2024)
-
+# Course overview
 ##  📗Table of Contents
 1. [Course Syllabus](#course-syllabus)
 2. [Weekly topics and schedules](#weekly-topics)
