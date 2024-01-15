@@ -5,6 +5,7 @@
 1. [Course Syllabus](#course-syllabus)
 2. [Weekly topics and schedules](#weekly-topics)
 3. [Class tools](#class-tools)
+4. [Assignments]()
 
 
 ## Class Board (files & links)
