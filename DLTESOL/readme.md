@@ -1,4 +1,6 @@
-# Digital Classroom:🌿 Contemporary Digital Literacy for TESOL Educators (Spring 2024)
+# Digital Classroom:
+
+🌿 Contemporary Digital Literacy for TESOL Educators (Spring 2024)
 
 ##  Table of Contents
 1. [Course Syllabus](#course-syllabus)
