@@ -1,5 +1,6 @@
-# 🌿 Contemporary Digital Literacy for TESOL Educators (Spring 2024)
 # Course overview
+# 🌿 Contemporary Digital Literacy for TESOL Educators (Spring 2024)
+
 ##  📗Table of Contents
 1. [Course Syllabus](#course-syllabus)
 2. [Weekly topics and schedules](#weekly-topics)
@@ -34,7 +35,7 @@ This introductory course is specifically designed for graduate students majoring
 
 By the end of this course, TESOL graduates will be well-equipped with the fundamental skills and knowledge to effectively incorporate digital literacy into their teaching practices. They will be prepared to navigate the digital landscape of language education, creating innovative, inclusive, and effective learning experiences for their students.
 
-[🔝Back to top](#course-overview)
+[🔝Back to top](# 🌿 Contemporary)
 
 ## Weekly Topics 
 Tuesdays (20:10~21:30)  
