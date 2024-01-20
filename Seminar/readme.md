@@ -17,9 +17,9 @@ This one-credit Graduate Seminar in Frequency Data Analysis focuses on key stati
 
 |Week|Key topic(s)|Description|Code page|Assignments|
 |--|--|--|--|--|
-|Meeting 01|Introduction|Course overview, Why statistics? Steps of statistical approach, Types of data, Software|[DL01]||
-|Meeting 02|Descriptive Statistics|Purpose, Key measures, Visualize data I|||
-|Meeting 03|Descriptive Statistics|Visualize data II, Real data practice, Applications and limitations|||
-|Meeting 04|Chi-squared test|Purpose, Types of Chi-squared tests, Concepts|||
-|Meeting 05|Chi-squared test|Visualize frequency data results, Interpretation of results, Practice with examples, Assumptions and limitations|||
+|Meeting 01|Introduction, Descriptive statistics I|Course overview, Why statistics? Steps of statistical approach, Types of data, Software|[DL01]||
+|Meeting 02|Descriptive Statistics II|Purpose, Key measures, Visualize data I|||
+|Meeting 03|Descriptive Statistics III, Frequency data|Visualize data II, Real data practice, Applications and limitations, Frequency data handling|||
+|Meeting 04|Chi-squared test I|Purpose, Types of Chi-squared tests, Concepts|||
+|Meeting 05|Chi-squared test II|Visualize frequency data results, Interpretation of results, Practice with examples, Assumptions and limitations|||
 
