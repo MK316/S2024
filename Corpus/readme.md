@@ -8,7 +8,7 @@
 |Week|Key topic(s)|Description|Code page|Assignments|
 |--|--|--|--|--|
 |W01|Introduction|Course overview, syllabus, grouping; What is corpus?|[CL01]||
-|W02|Online Corpora|Types of corpora|[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md)||
+|W02|Online Corpora|COCA, BNC, Types of corpora|[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md)||
 |W03|||||
 |W04|||||
 |W05|||||
