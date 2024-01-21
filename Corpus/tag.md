@@ -33,6 +33,6 @@ print(f"Word: {word_info['word']}")
 print(f"Part of Speech: {word_info['part_of_speech']}")
 print(f"Meaning: {word_info['meaning']}")
 print(f"Pronunciation: {word_info['pronunciation']}")
-
+```
 
 This Markdown documentation provides a clear and concise explanation of the concept of 'tags' in a corpus, using the word "word" as an example. It covers parts of speech, meaning, and pronunciation, making it suitable for readers with an English education background.
