@@ -12,7 +12,7 @@
 |W03|Python basics #2|Data types|📗||
 |W04|Project #1| 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)||[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
 |W05|||||
-|W06|||||
+|W06|Lexical diversity|Type vs. token, TTS measures|||
 |W07|||||
 |W08|Midterm|Mini-project|||
 |W09|||||
