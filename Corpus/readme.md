@@ -1,7 +1,7 @@
 # 🌿 Corpus Linguistics (Spring 2024)
 
 ## Course board & links
-| [Syllabus]() | [Padlet: inclass activity]() |
+| [Syllabus]() | [Padlet: inclass activity]() | 📗[Python basics manual](https://github.com/MK316/Coding4ET/blob/main/README.md) |
 
 ## Weekly Schedule
 
