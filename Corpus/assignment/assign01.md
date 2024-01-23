@@ -20,9 +20,17 @@ Create a Markdown (MD) file for a reading lesson using a selected text. Include 
 
 5. **Create a Word Frequency List:** Manually list the most frequently occurring words in the text, including word and frequency count.
 
++ Save the csv file on your github account
++ Use a hyper link as follows:
+
+```
+#Note that the csv file address should be raw form: on Github there is a raw menu to get the address.
+
+[Word Frequency list](https://raw....)
+```
 6. **Write Instructions:** In your MD file, provide instructions for using the word cloud and word frequency list in the lesson. Explain their purpose and suggest interactive activities or discussions.
 
-7. **Lesson Plan:** Develop a brief lesson plan that includes:
+7. **Lesson Plan:** Develop a brief lesson plan that can show how to use the image and the list:
    - Introduction to the text and context.
    - Engaging activities or questions related to the text.
    - How to incorporate the word cloud and word frequency list.
@@ -30,14 +38,6 @@ Create a Markdown (MD) file for a reading lesson using a selected text. Include 
 
 8. **Proofread and Format:** Review your MD file for errors in formatting, spelling, and grammar. Ensure it's well-organized.
 
-9. **Submission:** Submit your completed MD file as your assignment.
-
-### Evaluation Criteria
-Your assignment will be assessed based on:
-- Appropriateness of the selected text.
-- Clarity and organization of the MD document.
-- Quality of the word cloud and word frequency list.
-- Effectiveness of the instructions for using these visualizations.
-- Creativity and engagement in the brief lesson plan.
+9. **Submission:** Submit your completed MD file link as your assignment on our Padlet page
 
 **Note:** Reference external sources and tools used in your assignment.
