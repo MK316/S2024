@@ -13,7 +13,7 @@
 |W04|Project #1| 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)||[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
 |W05|||||
 |W06|Lexical diversity|Type vs. token, TTS measures|Reading[^1]||
-|W07|||||
+|W07|Readability|Readability measures|||
 |W08|Midterm|Mini-project|||
 |W09|||||
 |W10|||||
