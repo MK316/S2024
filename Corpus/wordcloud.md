@@ -1,4 +1,4 @@
-# Creating a Word Cloud in Python
+# 🌱Creating a Word Cloud in Python
 
 A word cloud is a visual representation of text data where the size of each word indicates its frequency or importance. In this guide, we'll learn how to create a word cloud in Python.
 
