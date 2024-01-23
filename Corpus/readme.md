@@ -10,7 +10,7 @@
 |W01|Introduction|Course overview, syllabus, grouping; What is corpus?|[CL01]||
 |W02|Online Corpora|COCA, BNC, Types of corpora; Python basics #1|[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md), 📗||
 |W03|Python basics #2|Data types|📗||
-|W04|Project #1| Word cloud, Word Frequency list|||
+|W04|Project #1| [Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), Word Frequency list|||
 |W05|||||
 |W06|||||
 |W07|||||
