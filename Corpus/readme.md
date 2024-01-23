@@ -21,7 +21,7 @@
 |W12|||||
 |W13|||||
 |W14|||||
-|W15|||||
+|W15|Final project|Presentations|||
 
 ## 📙 How to handle frequency data
 
