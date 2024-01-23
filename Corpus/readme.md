@@ -12,10 +12,10 @@
 |W03|Python basics #2|Data types|📗||
 |W04|Project #1| 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)||[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
 |W05|Lexical analysis|Type vs. token, lemmatization, {NLTK}|||
-|W06|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1]||
-|W07|Readability|Readability measures|||
+|W06|Keywords|Text analysis, Words in context, concordance|||
+|W07|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1]||
 |W08|Midterm|Mini-project|||
-|W09|||||
+|W09|Readability|Readability measures|||
 |W10|||||
 |W11|||||
 |W12|||||
