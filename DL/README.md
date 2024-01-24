@@ -7,9 +7,7 @@ This course, designed for second-year college students, focuses on integrating d
 ## Weekly schedule
 |Week|Date|Topics|Code link|Assign|
 |--|--|--|--|--|
-|Wk01|Mar. 5|Introduction to Digital Literacy
-• Understanding digital literacy and its importance
-• Basic digital tools for English learning|||
+|Wk01|Mar. 5|Introduction to Digital Literacy <br> Understanding digital literacy and its importance <br> Basic digital tools for English learning|||
 |Wk02|Mar. 12||||
 |Wk03|Mar. 19||||
 |Wk04|Mar. 26||||
