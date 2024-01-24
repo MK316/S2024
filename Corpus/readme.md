@@ -15,7 +15,7 @@
 |W06|Keywords|Text analysis, Words in context, concordance, collocations|||
 |W07|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1]|[code](https://github.com/MK316/Spring2024/blob/main/Corpus/Lexical-Diversity.ipynb)|
 |W08|Midterm|Mini-project|||
-|W09|Readability|Readability measures|||
+|W09|Readability|Readability measures|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability.ipynb)||
 |W10|Topic-modeling| NLP preprocessing, topic-modeling|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
 |W11|Sentiment Analysis|Data collection, Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentAnalysis.ipynb)||
 |W12|Clustering Analysis|Data collection, Clustering Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
