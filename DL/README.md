@@ -21,7 +21,7 @@ This course, designed for second-year college students, focuses on integrating d
 |Wk012|May 21|Preview of final project: in-class presentation <Br> English learning app development|||
 |Wk013|May 28|English learning app development|||
 |Wk014|June 4|English learning app development|||
-|Wk015|June 11|Final project submission|||
+|Wk015|June 11|**Final project submission**|||
 
 ## Course Evaluation
 
