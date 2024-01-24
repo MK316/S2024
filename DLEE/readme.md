@@ -12,14 +12,14 @@ This course, designed for second-year college students, focuses on integrating d
 |Week|date|Key topic(s)|Code page|Assignments|
 |--|--|--|--|--|
 |W01|Mar. 5|Introduction, Course overview, syllabus, grouping; the concept of digital literacy|[DL01](), [GA01]()||
-|W02|Mar. 12|Python Coding|Using online platforms (Github, Colab) to write, run, save codes|||
+|W02|Mar. 12|Python Coding: Using online platforms (Github, Colab) to write, run, save codes|||
 |W03|Mar. 19|Basics of coding I: variables and operators, using Python packages||[^1]Tools to share|
 |W04|Mar. 26|Basics of coding II: data types|||
 |W05|Apr. 2|Basics of coding III: interactive process, TTS|||
 |W06|Apr. 9|Basics of coding IV: simple applications, TTS|||
 |W07|Apr. 16|Coding summary, Getting a live link using Gradio|||
 |W08|Apr. 23|**_Midterm_**||||
-|W09|Apr. 30|Markdown|Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation, which is essential for effective collaboration and communication in software development projects.|[GA: Discussion forum]||
+|W09|Apr. 30|Markdown: Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation, which is essential for effective collaboration and communication in software development projects.|[GA: Discussion forum]||
 |W10|May 7|||||
 |W11|May 14||||
 |W12|May 21||||
