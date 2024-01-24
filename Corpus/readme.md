@@ -8,9 +8,9 @@
 |Week|Key topic(s)|Description|Code page|Assignments|
 |--|--|--|--|--|
 |W01|Introduction|Course overview, syllabus, grouping; What is corpus?|[CL01]||
-|W02|Python basics #1| Online Corpora: COCA, BNC, Types of corpora|[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md), 📗||
-|W03|Python basics #2|Data types|📗||
-|W04|Project #1| 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)||[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
+|W02|Python basics #1| Online Corpora: COCA, BNC, Types of corpora; [nltk](https://www.nltk.org/book/ch01.html)|[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md), 📗||
+|W03|Python basics #2|Data types, [nltk](https://www.nltk.org/book/ch01.html)|📗||
+|W04|Project #1| [nltk](https://www.nltk.org/book/ch01.html),🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)||[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
 |W05|Lexical analysis|Type vs. token, lemmatization, {NLTK}|||
 |W06|Keywords|Text analysis, Words in context, concordance, collocations|||
 |W07|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1]||
