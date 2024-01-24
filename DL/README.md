@@ -7,12 +7,12 @@ This course, designed for second-year college students, focuses on integrating d
 ## Weekly schedule
 |Week|Date|Topics|Code link|Assign|
 |--|--|--|--|--|
-|Wk01|Mar. 5|Introduction to Digital Literacy <br> Understanding digital literacy and its importance <br> Demo: Basic digital tools for English learning|||
-|Wk02|Mar. 12||||
-|Wk03|Mar. 19||||
-|Wk04|Mar. 26||||
-|Wk05|Apr. 2||||
-|Wk06|Apr. 9||||
+|Wk01|Mar. 5|Introduction to Digital Literacy <br> Understanding digital literacy and its importance in language education<br> Demo: Basic digital tools for English learning||Survey 01|
+|Wk02|Mar. 12|Exploring digital tools, AI tools for language learning & teaching|||
+|Wk03|Mar. 19|Online Resources for English Learning <br> Exploring online dictionaries and language learning platforms <br> Evaluating digital resources for credibility and usefulness|||
+|Wk04|Mar. 26|(continued)|||
+|Wk05|Apr. 2|Digital Content Creation <Br> Blogging and content writing in English <br> Creating digital presentations in English|||
+|Wk06|Apr. 9|(continued)|||
 |Wk07|Apr. 16||||
 |Wk08|Apr. 23||||
 |Wk09|Apr. 30|Midterm|||
