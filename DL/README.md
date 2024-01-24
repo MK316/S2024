@@ -15,7 +15,7 @@ This course, designed for second-year college students, focuses on integrating d
 |Wk06|Apr. 9|(continued)|||
 |Wk07|Apr. 16|Multimedia and English Learning <br> Using videos for language improvement <br> Creating multimedia content in English|||
 |Wk08|Apr. 23|(continued)|||
-|Wk09|Apr. 30|Midterm|||
+|Wk09|Apr. 30|**Midterm**|||
 |Wk010|May 7|English learning app development <br> Conducting online research for English projects|||
 |Wk011|May 14|English learning app developmentCiting digital sources and avoiding plagiarism|||
 |Wk012|May 21|Preview of final project: in-class presentation <Br> English learning app development|||
