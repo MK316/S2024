@@ -8,20 +8,20 @@ This course, designed for second-year college students, focuses on integrating d
 |Week|Date|Topics|Code link|Assign|
 |--|--|--|--|--|
 |Wk01|Mar. 5|Introduction to Digital Literacy <br> Understanding digital literacy and its importance in language education<br> Demo: Basic digital tools for English learning||Survey 01|
-|Wk02|Mar. 12|Exploring digital tools, AI tools for language learning & teaching|||
-|Wk03|Mar. 19|Online Resources for English Learning <br> Exploring online dictionaries and language learning platforms <br> Evaluating digital resources for credibility and usefulness|||
+|Wk02|Mar. 12|Python basics <br> Exploring digital tools, AI tools for language learning & teaching|||
+|Wk03|Mar. 19|Python basics <br>Online Resources for English Learning <br> Exploring online dictionaries and language learning platforms <br> Evaluating digital resources for credibility and usefulness|||
 |Wk04|Mar. 26|(continued)|||
-|Wk05|Apr. 2|Digital Content Creation <Br> Blogging and content writing in English <br> Creating digital presentations in English|||
+|Wk05|Apr. 2|Python basics <br>Digital Content Creation <Br> Blogging and content writing in English <br> Creating digital presentations in English|||
 |Wk06|Apr. 9|(continued)|||
-|Wk07|Apr. 16||||
-|Wk08|Apr. 23||||
+|Wk07|Apr. 16|Multimedia and English Learning <br> Using videos for language improvement <br> Creating multimedia content in English|||
+|Wk08|Apr. 23|(continued)|||
 |Wk09|Apr. 30|Midterm|||
-|Wk010|May 7||||
-|Wk011|May 14||||
-|Wk012|May 21||||
-|Wk013|May 28||||
-|Wk014|June 4||||
-|Wk015|June 11||||
+|Wk010|May 7|English learning app development <br> Conducting online research for English projects|||
+|Wk011|May 14|English learning app developmentCiting digital sources and avoiding plagiarism|||
+|Wk012|May 21|Preview of final project: in-class presentation <Br> English learning app development|||
+|Wk013|May 28|English learning app development|||
+|Wk014|June 4|English learning app development|||
+|Wk015|June 11|Final project submission|||
 
 ## Course Evaluation
 
