@@ -7,7 +7,7 @@ This course, designed for second-year college students, focuses on integrating d
 ## Course Evaluation
 
 |Category| Weight|
-|===|===|
+|:--:|:--:|
 |Attendance & Class participation| 10% |
 |Midterm|40%|
 |Final project|30%|
