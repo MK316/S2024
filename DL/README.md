@@ -7,15 +7,15 @@ This course, designed for second-year college students, focuses on integrating d
 ## Weekly schedule
 |Week|Date|Topics|Code link|Assign|
 |--|--|--|--|--|
-|Wk01|Mar.5||||
-|Wk02|Mar.12||||
-|Wk03|Mar.19||||
-|Wk04|Mar.26||||
-|Wk05|Apr.2||||
-|Wk06|Apr.9||||
-|Wk07|Apr.16||||
-|Wk08|Apr.23||||
-|Wk09|Apr.30|Midterm|||
+|Wk01|Mar. 5||||
+|Wk02|Mar. 12||||
+|Wk03|Mar. 19||||
+|Wk04|Mar. 26||||
+|Wk05|Apr. 2||||
+|Wk06|Apr. 9||||
+|Wk07|Apr. 16||||
+|Wk08|Apr. 23||||
+|Wk09|Apr. 30|Midterm|||
 |Wk010|May 7||||
 |Wk011|May 14||||
 |Wk012|May 21||||
