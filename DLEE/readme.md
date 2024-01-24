@@ -10,7 +10,7 @@ This course, designed for second-year college students, focuses on integrating d
 ## 🔶 Weekly Schedule
 
 |Week|date|Key topic(s)|Code page|Assignments|
-|--|--|--|--|--|--|
+|--|--|--|--|--|
 |W01|Mar. 5|Introduction|Course overview, syllabus, grouping; the concept of digital literacy|[DL01](), [GA01]()||
 |W02|Mar. 12|Python Coding|Using online platforms (Github, Colab) to write, run, save codes|||
 |W03|Mar. 19|Basics of coding I: variables and operators, using Python packages||[^1]Tools to share|
