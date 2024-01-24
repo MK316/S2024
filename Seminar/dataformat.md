@@ -14,6 +14,13 @@ Data arrangement in wide format and narrow format (also known as long format) re
 | 003       | 130                 | 135                 | 140                 |
 
 
+| StudentID | English_Grade_Semester1 | English_Grade_Semester2 | Spanish_Grade_Semester1 | Spanish_Grade_Semester2 |
+|-----------|--------------------|--------------------|--------------------|--------------------|
+| 001       | A                  | A-                 | B                  | B+                 |
+| 002       | B+                 | B                  | A                  | A                  |
+| 003       | C                  | B-                 | B+                 | A-                 |
+
+
 ## 2. Narrow Format
 + Characteristics: In narrow (or long) format, each row represents a single observation, often a single time point or measurement, and usually includes columns to indicate the subject and the nature of the observation.
 + Use Cases: Narrow format is generally more amenable to analysis in many statistical software packages, particularly for repeated measures or time series data. It is also more flexible and can be easier to manage when dealing with varying numbers of observations per subject.
@@ -30,6 +37,21 @@ Data arrangement in wide format and narrow format (also known as long format) re
 | 003       | Time1     | 130           |
 | 003       | Time2     | 135           |
 | 003       | Time3     | 140           |
+
+| StudentID | Semester    | Subject | Grade |
+|-----------|-------------|---------|-------|
+| 001       | Semester 1  | English | A     |
+| 001       | Semester 2  | English | A-    |
+| 001       | Semester 1  | Spanish | B     |
+| 001       | Semester 2  | Spanish | B+    |
+| 002       | Semester 1  | English | B+    |
+| 002       | Semester 2  | English | B     |
+| 002       | Semester 1  | Spanish | A     |
+| 002       | Semester 2  | Spanish | A     |
+| 003       | Semester 1  | English | C     |
+| 003       | Semester 2  | English | B-    |
+| 003       | Semester 1  | Spanish | B+    |
+| 003       | Semester 2  | Spanish | A-    |
 
 
 ## Choosing the Format:
