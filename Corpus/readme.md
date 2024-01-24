@@ -16,11 +16,11 @@
 |W07|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1]||
 |W08|Midterm|Mini-project|||
 |W09|Readability|Readability measures|||
-|W10|||||
-|W11|||||
-|W12|||||
-|W13|||||
-|W14|||||
+|W10|Topic-modeling| NLP preprocessing, topic-modeling|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
+|W11|Sentiment Analysis|Data collection, Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentAnalysis.ipynb)||
+|W12|Clustering Analysis|Data collection, Clustering Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
+|W13|Project #2|Idea brainstorming, individual project discussions, samples|||
+|W14|Project #3|individual project discussions, samples|||
 |W15|Final project|Presentations|||
 
 ## 📙 How to handle frequency data
