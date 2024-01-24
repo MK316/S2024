@@ -18,10 +18,10 @@ This course, designed for second-year college students, focuses on integrating d
 |W05|Apr.2|Basics of coding III: interactive process, TTS|||
 |W06|Apr.9|Basics of coding IV: simple applications, TTS|||
 |W07|Apr.16|Coding summary, Getting a live link using Gradio|||
-|W08|Apr.23|**_Midterm_**||||
-|W09|Apr.30|Markdown: Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation, which is essential for effective collaboration and communication in software development projects.|[GA: Discussion forum]||
-|W10|May7|Multimedia and English Learning <br> Using videos and podcasts for language improvement|||
-|W11|May14|Creating multimedia content in English, (group activities)|||
+|W08|Apr.23|||||
+|W09|Apr.30|**_Midterm_**|[GA: Discussion forum]||
+|W10|May7|Markdown: Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation.|||
+|W11|May14|Multimedia and English Learning <br> Using videos and podcasts for language improvement <br> Creating multimedia content in English, (group activities)|||
 |W12|May21|Final project preview (inclass presentation)|||
 |W13|May28|English learning app development: Coding based Learner-centered learning applications|||
 |W14|June4|English learning app development: Coding based Learner-centered learning applications|||
