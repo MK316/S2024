@@ -5,7 +5,7 @@ This course, designed for second-year college students, focuses on integrating d
 
 ## 🔶 Course board (Files & links)
 | :octocat: [Github IDs](https://docs.google.com/spreadsheets/d/1rcJ6c2BuAIbodEft7ZUsgwFOwiNK9nO2siZ6VUAgcgI/edit?usp=sharing) | [Padlet: inclass activity](https://padlet.com/mirankim316/DLEES24) | 📘 [Jump to Python (Manual)](https://wikidocs.net/5) | 🌱 
-[Supplementary](https://wikidocs.net/book/14141)| 
+[Supplementary](https://wikidocs.net/book/14141) | ⛄[MK316 AppHub](https://mrkim21.github.io) |
 
 ## 🔶 Weekly Schedule
 
