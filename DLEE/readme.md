@@ -11,7 +11,7 @@ This course, designed for second-year college students, focuses on integrating d
 
 |Week|date|Key topic(s)|Code page|Assts.|
 |--|--|--|--|--|
-|W01|Mar.5|Introduction, Course overview, syllabus, grouping; the concept of digital literacy|🌀[DLW01](https://colab.research.google.com/github/MK316/Spring2023/blob/main/DL/DLW01.ipynb#scrollTo=fkVkXhLoOGMz)||
+|W01|Mar.5|Introduction, Course overview, syllabus, grouping; the concept of digital literacy|🌀[DLW01](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW01.ipynb)||
 |W02|Mar.12|Python Coding: Using online platforms (Github, Colab) to write, run, save codes|||
 |W03|Mar.19|Basics of coding I: variables and operators, using Python packages||[^1]Tools to share|
 |W04|Mar.26|Basics of coding II: data types|||
