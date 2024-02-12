@@ -1,7 +1,7 @@
 # 🌿 English Pronunciation Practice (Spring 2024)
 
 ## Course board & links
-| [Syllabus]() | [Padlet: inclass activity]() |
+| [Syllabus]() | [Padlet: inclass activity]() | [MK316 APP Hub](https://mrkim21.github.io/classes/classmain.html) |
 
 ## Weekly Schedule
 
