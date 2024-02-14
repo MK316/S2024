@@ -1,4 +1,4 @@
-# Good teacher?
+# 💕 Good teacher?
 
 Envisioning the role of a good teacher for future generations involves anticipating the evolving educational landscape, technology advancements, and the changing needs of society. Here are ten variations of answers to what characterizes a good teacher for the future generation:
 
