@@ -7,9 +7,9 @@
 
 |Week|Key topic(s)|Description|Code page|Assignments|
 |--|--|--|--|--|
-|W01|Introduction|Course overview, syllabus, grouping; the concept of digital literacy|[DL01]||
-|W02|||||
-|W03|||||
+|W01|Introduction|Course overview, syllabus, grouping|[Week01](https://github.com/MK316/Spring2024/blob/main/Engpro/Engpro_W01.ipynb)||
+|W02|Part I. Understanding English sounds|[Week02](https://github.com/MK316/Spring2024/blob/main/Engpro/Engpro_Part01.ipynb)|||
+|W03|Lesson 1 & 2: tense vs. lax vowels|[Lesson1](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson01.ipynb)<br>[Lesson2](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson02.ipynb)|||
 |W04|||||
 |W05|||||
 |W06|||||
