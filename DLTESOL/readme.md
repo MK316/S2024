@@ -30,9 +30,7 @@ This introductory course is specifically designed for graduate students majoring
 
 5. Exploring Contemporary AI Tools: With the advent of AI in education, this course provides an insight into how AI tools can be leveraged in language teaching. We will explore current AI technologies, their applications in language education, and how they can benefit both teachers and learners.
 
-6. Practical Applications and Case Studies: Throughout the course, students will engage with various case studies and practical exercises. These activities are designed to deepen their understanding of how digital tools can be integrated into real-world teaching scenarios.
-
-7. Ethical Considerations and Digital Citizenship: As educators in the digital age, understanding the ethical implications of technology use in the classroom is crucial. This course will cover aspects of digital citizenship, privacy, and ethical use of digital resources in education.
+6. Ethical Considerations and Digital Citizenship: As educators in the digital age, understanding the ethical implications of technology use in the classroom is crucial. This course will cover aspects of digital citizenship, privacy, and ethical use of digital resources in education.
 
 By the end of this course, TESOL graduates will be well-equipped with the fundamental skills and knowledge to effectively incorporate digital literacy into their teaching practices. They will be prepared to navigate the digital landscape of language education, creating innovative, inclusive, and effective learning experiences for their students.
 
