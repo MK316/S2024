@@ -5,7 +5,7 @@ This course, designed for second-year college students, focuses on integrating d
 
 ## Course board (Files & links)
 | 💾 [Syllabus](https://github.com/MK316/Spring2024/blob/main/DLEE/data/S24_Syllabus_DL.pdf) | :octocat: [Github IDs](https://docs.google.com/spreadsheets/d/1rcJ6c2BuAIbodEft7ZUsgwFOwiNK9nO2siZ6VUAgcgI/edit?usp=sharing) | 🌱[Padlet: inclass activity](https://padlet.com/mirankim316/DLEES24) | 📘 [Jump to Python (Manual)](https://wikidocs.net/5) | 📗 
-[Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md) | ⛄[MK316 AppHub](https://mrkim21.github.io) |
+[Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md) | ⛄[MK316 AppHub](https://mrkim21.github.io) | 🌺 [Class log](https://github.com/MK316/Spring2024/blob/main/log-dlee.md) |
 
 ## Weekly Schedule
 
