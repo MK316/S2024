@@ -15,10 +15,10 @@
 |W06|Schwa, R-colored vowels|Lessons 8 Schwa vowel & Lesson 9 R-colored vowels|[Lesson8](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson8.ipynb), [Lesson9](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson9.ipynb)||
 |W07|Lexical stress|English prosody - Lesson 10: lexical stress|[Lesson10](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson10.ipynb)||
 |W08||Midterm exam|||
-|W09||English Prosody - Lesson 11 & 12|||
-|W10||English consonants I|||
-|W11||English consonants II|||
-|W12||English consonants III|||
-|W13||Consonant clusters, sound linking|||
+|W09|Accents, intonation, thought grouping|English Prosody - Lesson 11 & 12|||
+|W10|English stops|English consonants I|||
+|W11|English fricatives|English consonants II|||
+|W12|Consonant rules|English consonants III|||
+|W13|Rhythm|Consonant clusters, sound linking|||
 |W14||Review|||
 |W15||Final presentation: 3 minute presentation|||
