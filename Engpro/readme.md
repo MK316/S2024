@@ -1,7 +1,7 @@
 # 🌿 English Pronunciation Practice (Spring 2024)
 
 ## Course board & links
-| [Syllabus](https://github.com/MK316/Spring2024/raw/main/Engpro/Syllabus_Engpro_topost.pdf) | [Padlet: inclass activity](https://padlet.com/mirankim316/S24Engpro) | [MK316 APP Hub](https://mrkim21.github.io/classes/classmain.html) |
+| 💾 [Syllabus](https://github.com/MK316/Spring2024/raw/main/Engpro/Syllabus_Engpro_topost.pdf) | 🌀 [Padlet: inclass activity](https://padlet.com/mirankim316/S24Engpro) | 🌀 [MK316 APP Hub](https://mrkim21.github.io/classes/classmain.html) |
 
 ## Weekly Schedule
 
