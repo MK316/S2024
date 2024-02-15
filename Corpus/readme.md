@@ -4,7 +4,7 @@
 This graduate-level course, designed for in-service English teachers at the secondary education level, offers an insightful exploration into corpus linguistics, combined with a practical introduction to Natural Language Processing (NLP) using basic Python coding. By integrating these computational techniques, the course aims to enhance the study of large electronic text collections (corpora) and their application in understanding language use and patterns. Participants will gain a deeper comprehension of language variation and how it can inform and improve teaching practices, leading to more effective development of teaching materials and activities. The course provides a balanced mix of theoretical instruction and practical application, focusing on the analysis and interpretation of corpus data in English language usage and introducing essential NLP techniques through Python programming.
 
 ## Course board & links
-| 💾 [Syllabus](https://github.com/MK316/Spring2024/blob/main/Corpus/data/S24_Syllabus_Corpus_Linguistics.pdf) | [Padlet: inclass activity]() | 📗[Python basics manual](https://github.com/MK316/Coding4ET/blob/main/README.md) |
+| 💾 [Syllabus](https://github.com/MK316/Spring2024/blob/main/Corpus/data/S24_Syllabus_Corpus_Linguistics.pdf) | 👭 [Padlet: inclass activity](https://padlet.com/mirankim316/S24Corpus) | 📗[Python basics manual](https://github.com/MK316/Coding4ET/blob/main/README.md) |
 
 ## Weekly Schedule
 
