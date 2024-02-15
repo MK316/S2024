@@ -11,7 +11,7 @@ This one-credit Graduate Seminar in Frequency Data Analysis focuses on key stati
 3. Conduct hypothesis testing using the Chi-squared test and Python.
 
 ## Course board & links
-| [Syllabus]() | [Padlet: inclass activity]() |
+| 💾 [Syllabus]() | 🌱 [Padlet: inclass activity]() | 🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-seminar.md) |
 
 ## Weekly Schedule
 
