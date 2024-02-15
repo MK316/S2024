@@ -36,9 +36,9 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 
 [🔝Back to top](#cdl)
 
-## Weekly Topics 
+# Weekly Topics 
 Tuesdays (20:10~21:30)  
-|Wk|Date|Topic(s)|Lecture|Codes|Assignment|
+|Wk|Date|Topic(s)|Lecture|Assignment|Log|
 |--|--|--|--|--|--|
 |W01|Mar.5|Course overview||||
 |W02|Mar.12|Topic [1] Understanding digital literacy|||||
