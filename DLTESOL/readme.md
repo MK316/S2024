@@ -40,24 +40,24 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 
 ## Weekly Topics 
 Tuesdays (20:10~21:30)  
-|Wk|Date|Topic(s)|Descriptions|[Lecture notes]|[Codes]|
+|Wk|Date|Topic(s)|Lecture|Codes|Assignment|
 |--|--|--|--|--|--|
-|W01|Mar.5|||||
-|W02|Mar.12||||||
-|W03|Mar.19||||||
-|W04|Mar.26||||||
-|W05|Apr.2||||||
-|W06|Apr.9||||||
-|W07|Apr.16||||||
-|W08|Apr.23||||||
-|W09|Apr.30||||||
-|W10|May 7||||||
-|W11|May 14||||||
-|W12|May 21||||||
-|W13|May 28||||||
-|W14|June 4||||||
-|W15|June 11||||||
-|W16|June 18 ||||||
+|W01|Mar.5|Course overview||||
+|W02|Mar.12|Topic [1] Understanding digital literacy|||||
+|W03|Mar.19|Topic [2] Introduction to Python|||||
+|W04|Mar.26|Topic [2] Introduction to Python|||||
+|W05|Apr.2|Topic [3] Learner-centered digital tools||||Mini project|
+|W06|Apr.9|Topic [3] Learner-centered digital tools|||||
+|W07|Apr.16|Topic [4] Exploring Contemporary AI Tools|||||
+|W08|Apr.23|Midterm exam|||||
+|W09|Apr.30|Topic [5] Application Development for Language Learning & Teaching|||||
+|W10|May 7|Topic [5] Application Development for Language Learning & Teaching; Guidelines for final project|||||
+|W11|May 14|Topic [5] Application Development for Language Learning & Teaching||||Mini project|
+|W12|May 21|Topic [6] Practical Applications|||||
+|W13|May 28|Topic [6] Practical Applications|||||
+|W14|June 4|Topic [7] Ethical Considerations|||||
+|W15|June 11|Language Learning Applications (Final presentation)||||Final project|
+
 
 
 [🔝Back to top](#cdl)
