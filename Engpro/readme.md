@@ -13,7 +13,7 @@
 |W04|Mid vowels: |Lessons 4 & 5: vowels [ɛ], [æ], [ɑ]|[Lesson4](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson04.ipynb), [Lesson5](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson5.ipynb)|[HW02]|
 |W05||Lessons 6 & 7 Diphthongs|[Lesson6](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson6.ipynb), [Lesson7](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson7.ipynb)||
 |W06||Lessons 8 Schwa vowel & Lesson 9 R-colored vowels|[Lesson8](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson8.ipynb), [Lesson9](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson9.ipynb)||
-|W07||English prosody: lexical stress|||
+|W07||English prosody - Lesson 10: lexical stress|[Lesson10](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson10.ipynb)||
 |W08||Midterm exam|||
 |W09|||||
 |W10|||||
