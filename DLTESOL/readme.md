@@ -10,7 +10,7 @@
 
 ## Class Board (files & links)
 
-| ✅ [Padlet](https://padlet.com/mirankim316/DLTESOL) | ✅ [Github IDs](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | ✅ [Jump to Python (manual)](https://wikidocs.net/5) |
+| 👭 [Padlet](https://padlet.com/mirankim316/DLTESOL) | ⛄ [Github IDs](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | 📗 [Jump to Python (manual)](https://wikidocs.net/5) | 🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)
 
   
 ## Course syllabus
@@ -38,7 +38,7 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 
 # Weekly Topics 
 Tuesdays (20:10~21:30)  
-|Wk|Date|Topic(s)|Lecture|Assignment|Log|
+|Wk|Date|Topic(s)|Lecture|Coding|Assignment|
 |--|--|--|--|--|--|
 |W01|Mar.5|Course overview||||
 |W02|Mar.12|Topic [1] Understanding digital literacy|||||
