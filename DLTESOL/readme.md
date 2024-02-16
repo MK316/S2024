@@ -5,11 +5,11 @@
 This introductory course is specifically designed for graduate students majoring in TESOL, aiming to equip them with the essential skills and knowledge in contemporary digital literacy. As we step into a digitally-driven era, the role of technology in language education becomes increasingly pivotal. This course addresses this transformation, focusing on how TESOL educators can effectively integrate digital tools into their teaching practices.
 
 
-## 🔸 Class Board (files & links)
+### 🔸 Class Board (files & links)
 
 #### | 👭 [Padlet](https://padlet.com/mirankim316/DLTESOL) | ⛄ [Github IDs](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | 📗 [Jump to Python (manual)](https://wikidocs.net/5) | 🌱 [App Hub](https://mrkim21.github.io)| 🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)|
 
-## 🔸 Weekly Topics 
+### 🔸 Weekly Topics 
 
 **Class meetings: Tuesdays (20:10~21:30)** 
 
