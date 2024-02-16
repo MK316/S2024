@@ -17,9 +17,9 @@ This introductory course is specifically designed for graduate students majoring
 
 |Wk|Date|Topic(s)|Lecture|Coding|Assignment|
 |--|--|--|--|--|--|
-|W01|Mar.5|Course overview|[Syllabus](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL.pdf)|[Lesson01](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDLW01.ipynb)|🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)|
-|W02|Mar.12|Topic [1] Understanding digital literacy, Coding Intro||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDLW02.ipynb)|||
-|W03|Mar.19|Topic [2] Python basics||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDLW02.ipynb)|||
+|W01|Mar.5|Course overview|[Syllabus](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL.pdf)|[Lesson01](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson01.ipynb)|🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)|
+|W02|Mar.12|Topic [1] Understanding digital literacy, Coding Intro||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|||
+|W03|Mar.19|Topic [2] Python basics||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|||
 |W04|Mar.26|Topic [2] Python basics|||||
 |W05|Apr.2|Topic [3] Learner-centered digital tools||||Mini project|
 |W06|Apr.9|Topic [3] Learner-centered digital tools|||||
