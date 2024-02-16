@@ -15,7 +15,7 @@
 |W06||Schwa, R-colored vowels|Lessons 8 Schwa vowel & Lesson 9 R-colored vowels|[Lesson8](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson8.ipynb), [Lesson9](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson9.ipynb)||
 |W07||Lexical stress|English prosody - Lesson 10: lexical stress|[Lesson10](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson10.ipynb)||
 |W08|||**Midterm exam**|||
-|W09||Accents, intonation, thought grouping|English Prosody - Lesson 11 & 12|[Lesson11](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson11.ipynb), [Lesson12]||
+|W09||Accents, intonation, thought grouping|English Prosody - Lesson 11 & 12|[Lesson11](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson11.ipynb), [Lesson12](https://github.com/MK316/Spring2024/blob/main/Engpro/Lesson12.ipynb)||
 |W10||English stops|English consonants I|||
 |W11||English fricatives|English consonants II|||
 |W12||Consonant rules|English consonants III|||
