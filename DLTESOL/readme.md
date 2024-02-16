@@ -21,7 +21,7 @@ This introductory course is specifically designed for graduate students majoring
 |W02|Mar.12|Topic [1] Understanding digital literacy, Coding Intro||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|||
 |W03|Mar.19|Topic [2] Python basics||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|||
 |W04|Mar.26|Topic [2] Python basics||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|||
-|W05|Apr.2|Topic [3] Learner-centered digital tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)||Mini project (TBA)|
+|W05|Apr.2|Topic [3] Learner-centered digital tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|Mini project (TBA)|
 |W06|Apr.9|Topic [3] Learner-centered digital tools|||||
 |W07|Apr.16|Topic [4] Exploring Contemporary AI Tools|||||
 |W08|Apr.23|Midterm exam|||||
