@@ -12,35 +12,11 @@
 
 | 👭 [Padlet](https://padlet.com/mirankim316/DLTESOL) | ⛄ [Github IDs](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | 📗 [Jump to Python (manual)](https://wikidocs.net/5) | 🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)
 
-  
-## Course syllabus
-
-🔸Course overview:  
-This introductory course is specifically designed for graduate students majoring in TESOL, aiming to equip them with the essential skills and knowledge in contemporary digital literacy. As we step into a digitally-driven era, the role of technology in language education becomes increasingly pivotal. This course addresses this transformation, focusing on how TESOL educators can effectively integrate digital tools into their teaching practices.
-
-🔸Key Objectives:  
-
-1. **Understanding Digital Literacy**: We begin by exploring the concept of digital literacy, particularly its importance for language educators in the 21st century. Students will learn about the evolving landscape of digital technology in education and how it impacts language teaching and learning.
-
-2. **Basic Coding Skills**: Recognizing the growing relevance of coding in educational contexts, the course provides an introduction to basic coding skills. This foundational knowledge will enable TESOL educators to understand and utilize various digital platforms and tools more effectively.
-
-3. **Learner-Centered Digital Tools**: A significant part of the course is dedicated to identifying and utilizing digital tools for creating learner-centered or customized teaching materials. Students will learn to assess and apply these tools to design engaging and effective language learning experiences.
-
-4. **Application Development for Language Learning**: The course will introduce simple methods of developing applications tailored to language learning. This includes an overview of user-friendly platforms that do not require advanced coding skills, enabling educators to create interactive and immersive learning environments.
-
-5. **Exploring Contemporary AI Tools**: With the advent of AI in education, this course provides an insight into how AI tools can be leveraged in language teaching. We will explore current AI technologies, their applications in language education, and how they can benefit both teachers and learners.
-
-6. **Ethical Considerations and Digital Citizenship**: As educators in the digital age, understanding the ethical implications of technology use in the classroom is crucial. This course will cover aspects of digital citizenship, privacy, and ethical use of digital resources in education.
-
-By the end of this course, TESOL graduates will be well-equipped with the fundamental skills and knowledge to effectively incorporate digital literacy into their teaching practices. They will be prepared to navigate the digital landscape of language education, creating innovative, inclusive, and effective learning experiences for their students.
-
-[🔝Back to top](#cdl)
-
 # Weekly Topics 
 Tuesdays (20:10~21:30)  
 |Wk|Date|Topic(s)|Lecture|Coding|Assignment|
 |--|--|--|--|--|--|
-|W01|Mar.5|Course overview||||
+|W01|Mar.5|Course overview||[Week01](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDLW01.ipynb)||
 |W02|Mar.12|Topic [1] Understanding digital literacy|||||
 |W03|Mar.19|Topic [2] Introduction to Python|||||
 |W04|Mar.26|Topic [2] Introduction to Python|||||
@@ -66,6 +42,27 @@ Tuesdays (20:10~21:30)
 |01|Activity posting|[link](https://padlet.com/mirankim316/dltesol)|
 |02|Choosing a star participant|[web](https://wheelofnames.com/)|
 
-## Assignments
+## Course syllabus
+
+🔸Course overview:  
+This introductory course is specifically designed for graduate students majoring in TESOL, aiming to equip them with the essential skills and knowledge in contemporary digital literacy. As we step into a digitally-driven era, the role of technology in language education becomes increasingly pivotal. This course addresses this transformation, focusing on how TESOL educators can effectively integrate digital tools into their teaching practices.
+
+🔸Key Objectives:  
+
+1. **Understanding Digital Literacy**: We begin by exploring the concept of digital literacy, particularly its importance for language educators in the 21st century. Students will learn about the evolving landscape of digital technology in education and how it impacts language teaching and learning.
+
+2. **Basic Coding Skills**: Recognizing the growing relevance of coding in educational contexts, the course provides an introduction to basic coding skills. This foundational knowledge will enable TESOL educators to understand and utilize various digital platforms and tools more effectively.
+
+3. **Learner-Centered Digital Tools**: A significant part of the course is dedicated to identifying and utilizing digital tools for creating learner-centered or customized teaching materials. Students will learn to assess and apply these tools to design engaging and effective language learning experiences.
+
+4. **Application Development for Language Learning**: The course will introduce simple methods of developing applications tailored to language learning. This includes an overview of user-friendly platforms that do not require advanced coding skills, enabling educators to create interactive and immersive learning environments.
+
+5. **Exploring Contemporary AI Tools**: With the advent of AI in education, this course provides an insight into how AI tools can be leveraged in language teaching. We will explore current AI technologies, their applications in language education, and how they can benefit both teachers and learners.
+
+6. **Ethical Considerations and Digital Citizenship**: As educators in the digital age, understanding the ethical implications of technology use in the classroom is crucial. This course will cover aspects of digital citizenship, privacy, and ethical use of digital resources in education.
+
+By the end of this course, TESOL graduates will be well-equipped with the fundamental skills and knowledge to effectively incorporate digital literacy into their teaching practices. They will be prepared to navigate the digital landscape of language education, creating innovative, inclusive, and effective learning experiences for their students.
+
+[🔝Back to top](#cdl)
 
 [🔝Back to top](#cdl)
