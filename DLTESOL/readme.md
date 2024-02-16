@@ -6,12 +6,14 @@
 + Weekly schedule
 
 
-## Class Board (files & links)
+# Class Board (files & links)
 
 | 👭 [Padlet](https://padlet.com/mirankim316/DLTESOL) | ⛄ [Github IDs](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | 📗 [Jump to Python (manual)](https://wikidocs.net/5) | [App Hub](https://mrkim21.github.io)| 🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)|
 
 # Weekly Topics 
-Tuesdays (20:10~21:30)  
+
+**Class meetings: Tuesdays (20:10~21:30)** 
+
 |Wk|Date|Topic(s)|Lecture|Coding|Assignment|
 |--|--|--|--|--|--|
 |W01|Mar.5|Course overview||[Week01](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDLW01.ipynb)||
