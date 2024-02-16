@@ -1,6 +1,6 @@
 # 🌿 Contemporary Digital Literacy for TESOL Educators (Spring 2024)
 
-## Course overview:
+### Course overview:
 
 This introductory course is specifically designed for graduate students majoring in TESOL, aiming to equip them with the essential skills and knowledge in contemporary digital literacy. As we step into a digitally-driven era, the role of technology in language education becomes increasingly pivotal. This course addresses this transformation, focusing on how TESOL educators can effectively integrate digital tools into their teaching practices.
 
