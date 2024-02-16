@@ -11,7 +11,6 @@ Imagine you want to convert the sentence "Hello, world!" into spoken words using
 
 ```
 !pip install gTTS
-
 ```
 
 2. Then, you write a small Python script to use gTTS:
@@ -37,7 +36,6 @@ my_obj.save("hello_world.mp3")
 
 # Playing the converted file
 os.system("mpg321 hello_world.mp3")
-
 ```
 
 3. In this example, gTTS takes the string "Hello, world!" and converts it into an audio file in English ('en'). The slow=False parameter tells gTTS that you want the speech to be at a normal speed. After generating the audio, it's saved to a file named hello_world.mp3, which you can play with any media player that supports MP3 files.
