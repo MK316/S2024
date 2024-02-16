@@ -17,7 +17,7 @@ Tuesdays (20:10~21:30)
 |Wk|Date|Topic(s)|Lecture|Coding|Assignment|
 |--|--|--|--|--|--|
 |W01|Mar.5|Course overview||[Week01](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDLW01.ipynb)||
-|W02|Mar.12|Topic [1] Understanding digital literacy|||||
+|W02|Mar.12|Topic [1] Understanding digital literacy, Coding Intro|||||
 |W03|Mar.19|Topic [2] Python basics|||||
 |W04|Mar.26|Topic [2] Python basics|||||
 |W05|Apr.2|Topic [3] Learner-centered digital tools||||Mini project|
