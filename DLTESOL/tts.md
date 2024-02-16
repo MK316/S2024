@@ -17,25 +17,19 @@ Imagine you want to convert the sentence "Hello, world!" into spoken words using
 
 ```
 from gtts import gTTS
-import os
+from IPython.display import Audio, display
 
 # The text you want to convert to audio
-my_text = "Hello, world!"
+text = "Welcome to Python!"
 
-# Language we want to use
-language = 'en'
+# Creating a gTTS object
+tts = gTTS(text=text, lang="en")
 
-# Passing the text and language to the engine,
-# here we mark slow=False to tell the module that
-# we want the converted audio to have a high speed
-my_obj = gTTS(text=my_text, lang=language, slow=False)
+# Save the object as mp3 file
+tts.save("output.mp3")
 
-# Saving the converted audio in a mp3 file named
-# 'welcome.mp3'
-my_obj.save("hello_world.mp3")
-
-# Playing the converted file
-os.system("mpg321 hello_world.mp3")
+# Use IPython's Audio class to play the sound
+Audio("output.mp3")
 ```
 
 3. In this example, gTTS takes the string "Hello, world!" and converts it into an audio file in English ('en'). The slow=False parameter tells gTTS that you want the speech to be at a normal speed. After generating the audio, it's saved to a file named hello_world.mp3, which you can play with any media player that supports MP3 files.
