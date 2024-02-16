@@ -31,7 +31,7 @@ This introductory course is specifically designed for graduate students majoring
 |W12|May 21|Topic [6] Practical Applications|||||
 |W13|May 28|Topic [6] Practical Applications|||||
 |W14|June 4|Topic [7] Ethical Considerations|||||
-|W15|June 11|Language Learning Applications (Final presentation)||||Final project|
+|W15|June 11|Language Learning Applications (Final presentation)|||Final project|
 
 
 
