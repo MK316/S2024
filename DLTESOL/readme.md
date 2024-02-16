@@ -8,7 +8,7 @@ This introductory course is specifically designed for graduate students majoring
 
 ### 🔸 Class Board (files & links)
 
-#### | [⏰](https://time-stuff.com/embed.html) | 👭 [Padlet](https://padlet.com/mirankim316/DLTESOL) | ⛄ [Github IDs](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | 📗 [Jump to Python (manual)](https://wikidocs.net/5) | 🌱 [App Hub](https://mrkim21.github.io)| 🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)|
+#### | [⏰](https://time-stuff.com/embed.html) | 👭 [Padlet](https://padlet.com/mirankim316/DLTESOL) | ⛄ [Github IDs](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | 📗 [Jump to Python (manual)](https://wikidocs.net/5) | 🌱 [App Hub](https://mrkim21.github.io)|
 
 
 ### 🔸 Weekly Topics 
@@ -17,7 +17,7 @@ This introductory course is specifically designed for graduate students majoring
 
 |Wk|Date|Topic(s)|Lecture|Coding|Assignment|
 |--|--|--|--|--|--|
-|W01|Mar.5|Course overview|[Syllabus](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL.pdf)|[Week01](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDLW01.ipynb)||
+|W01|Mar.5|Course overview|[Syllabus](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL.pdf)|[Week01](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDLW01.ipynb)|🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)|
 |W02|Mar.12|Topic [1] Understanding digital literacy, Coding Intro|||||
 |W03|Mar.19|Topic [2] Python basics|||||
 |W04|Mar.26|Topic [2] Python basics|||||
