@@ -10,7 +10,7 @@ Imagine you want to convert the sentence "Hello, world!" into spoken words using
 1. First, you need to install the gTTS library. You can do this by running the command:
 
 ```
-pip install gTTS
+!pip install gTTS
 
 ```
 
