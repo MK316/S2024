@@ -26,8 +26,8 @@ This introductory course is specifically designed for graduate students majoring
 |W07|Apr.16|Topic [4] Exploring Contemporary AI Tools|||||
 |W08|Apr.23|Midterm exam|||||
 |W09|Apr.30|Topic [5] Application Development for Language Learning & Teaching|||||
-|W10|May 7|Topic [5] Application Development for Language Learning & Teaching; Guidelines for final project|||||
-|W11|May 14|Topic [5] Application Development for Language Learning & Teaching|||Mini project|
+|W10|May 7|Topic [5] Application Development for Language Learning & Teaching; Guidelines for final project||||Mini project (individual)|
+|W11|May 14|Topic [5] Application Development for Language Learning & Teaching||||
 |W12|May 21|Topic [6] Practical Applications|||||
 |W13|May 28|Topic [6] Practical Applications|||||
 |W14|June 4|Topic [7] Ethical Considerations|||||
