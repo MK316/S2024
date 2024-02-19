@@ -20,7 +20,7 @@ This course, designed for second-year college students, focuses on integrating d
 |W07|Apr.16|Coding summary, Getting a live link using Gradio|||
 |W08|Apr.23|||||
 |W09|Apr.30|**_Midterm_**|[GA: Discussion forum]||
-|W10|May7|Markdown: Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation.|||
+|W10|May7|Markdown: Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation.||Individual project|
 |W11|May14|Multimedia and English Learning <br> Using videos and podcasts for language improvement <br> Creating multimedia content in English, (group activities)|||
 |W12|May21|Final project preview (inclass presentation)|||
 |W13|May28|English learning app development: Coding based Learner-centered learning applications|||
