@@ -9,7 +9,10 @@ This one-credit Graduate Seminar in Frequency Data Analysis focuses on key stati
 1. Analyze and interpret frequency data effectively.
 2. Apply descriptive statistics to summarize, visualize and communicate findings.
 3. Conduct hypothesis testing using the Chi-squared test and Python.
-
+** Evaluation
+1. Attendance (20%)
+2. Assignments (80%)
+   
 ## Course board & links
 | 🌱 [Padlet: inclass activity](https://padlet.com/mirankim316/S24Seminar) | 🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-seminar.md) |
 
