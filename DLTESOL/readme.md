@@ -14,7 +14,8 @@ This course is designed for TESOL graduate students to equip them with critical 
 
 ### 🔸 Weekly Topics 
 
-**Class meetings: Tuesdays (20:10~21:30)** 
+**Class meetings: Tuesdays (20:10~21:30)**
+**Online Zoom Meeting**
 
 |Wk|Date|Topic(s)|Lecture|Coding|Assignment|
 |--|--|--|--|--|--|
