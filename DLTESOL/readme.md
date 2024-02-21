@@ -2,7 +2,7 @@
 
 ### 🔸 Course overview:
 
-This introductory course is specifically designed for graduate students majoring in TESOL, aiming to equip them with the essential skills and knowledge in contemporary digital literacy. As we step into a digitally-driven era, the role of technology in language education becomes increasingly pivotal. This course addresses this transformation, focusing on how TESOL educators can effectively integrate digital tools into their teaching practices.
+This course is designed for TESOL graduate students to equip them with critical digital literacy skills and an understanding of technology's evolving role in language education. Recognizing the indispensability of digital tools in today’s educational landscape, the curriculum extends beyond traditional digital literacy to include basic coding skills essential for designing and developing learner-centered language apps. Students will gain hands-on experience in coding, enabling them to create customized, interactive language learning tools. This approach aims to empower educators to not only navigate but also innovate within the digital era of language teaching. By the end of the course, participants will be adept at integrating coding skills in pedagogically sound ways, enhancing both their teaching practices and their students’ learning experiences.
 
 ---
 
@@ -43,7 +43,9 @@ This introductory course is specifically designed for graduate students majoring
 ## Course syllabus
 
 🔸Course overview:  
-This introductory course is specifically designed for graduate students majoring in TESOL, aiming to equip them with the essential skills and knowledge in contemporary digital literacy. As we step into a digitally-driven era, the role of technology in language education becomes increasingly pivotal. This course addresses this transformation, focusing on how TESOL educators can effectively integrate digital tools into their teaching practices.
+
+This course is designed for TESOL graduate students to equip them with critical digital literacy skills and an understanding of technology's evolving role in language education. Recognizing the indispensability of digital tools in today’s educational landscape, the curriculum extends beyond traditional digital literacy to include basic coding skills essential for designing and developing learner-centered language apps. Students will gain hands-on experience in coding, enabling them to create customized, interactive language learning tools. This approach aims to empower educators to not only navigate but also innovate within the digital era of language teaching. By the end of the course, participants will be adept at integrating coding skills in pedagogically sound ways, enhancing both their teaching practices and their students’ learning experiences.
+
 
 🔸Key Objectives:  
 
