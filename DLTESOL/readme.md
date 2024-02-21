@@ -21,16 +21,16 @@ This introductory course is specifically designed for graduate students majoring
 |W02|Mar.12|Topic [1] Understanding digital literacy, Coding Intro||[AppDemo#1](https://github.com/MK316/Spring2024/blob/main/apps/AppSample01.ipynb)|||
 |W03|Mar.19|Topic [2] Python basics|[Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|||
 |W04|Mar.26|Topic [2] Python basics||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|||
-|W05|Apr.2|Topic [3] Learner-centered digital tools, Exploring Contemporary AI Tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|Mini project (TBA)|
-|W06|Apr.9|Topic [3] Learner-centered digital tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|||
+|W05|Apr.2|Topic [3] Interactive digital tools, Exploring Contemporary AI Tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|Mini project (TBA)|
+|W06|Apr.9|Topic [3] Interactive digital tools, Exploring Contemporary AI Tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|||
 |W07|Apr.16|Topic [4] Markdown md file handling|📗 [manual](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown.md)||||
 |W08|Apr.23|Midterm exam|||||
-|W09|Apr.30|Topic [5] Application Development for Language Learning & Teaching|||||
-|W10|May 7|Topic [5] Application Development for Language Learning & Teaching; Guidelines for final project|||Mini project (individual)|
-|W11|May 14|Topic [5] Application Development for Language Learning & Teaching||||
-|W12|May 21|Topic [6] Practical Applications|||||
-|W13|May 28|Topic [6] Practical Applications|||||
-|W14|June 4|Topic [7] Ethical Considerations|||||
+|W09|Apr.30|Topic [5] Learner-centered digital application|||||
+|W10|May 7|Topic [6] Application Design for Language Learning & Teaching; Guidelines for final project|||Mini project (individual)|
+|W11|May 14|Topic [6] Application Design for Language Learning & Teaching|Group activities|||
+|W12|May 21|Topic [7] Application Development for Language Learning & Teaching|Group activities||||
+|W13|May 28|Topic [7] Application Development for Language Learning & Teaching|Group activities||||
+|W14|June 4|Topic [8] Ethical Considerations|||||
 |W15|June 11|Language Learning Applications (Final presentation)|||Final project|
 
 
