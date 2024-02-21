@@ -61,4 +61,20 @@ This introductory course is specifically designed for graduate students majoring
 
 By the end of this course, TESOL graduates will be well-equipped with the fundamental skills and knowledge to effectively incorporate digital literacy into their teaching practices. They will be prepared to navigate the digital landscape of language education, creating innovative, inclusive, and effective learning experiences for their students.
 
+## Course assignments
 
+🔵 Mini-Project #1: Digital Tool In-Class Activity Video
+
++ Objective: In groups, students will create a 5-minute video clip that showcases how to integrate available digital tools into in-class activities. The goal is to share innovative methods for enhancing language learning through technology and to evaluate the technologies with which teachers are already familiar.
++ Requirements:
+  + Select digital tools that are applicable to TESOL settings.
+  + Design an in-class activity that effectively incorporates the chosen digital tools.
+  + Produce a 5-minute video presenting the activity, highlighting its learning objectives, implementation steps, and expected outcomes.
+🔵 Mini-project #2: Language Learning App Development
++ Objective: Groups will design language learning activities and then use Python to code and develop a functional language learning application based on these activities.
++ Requirements:
+  + Conceptualize a set of language learning activities suitable for TESOL students.
+  + Ensure the activities are interactive, user-friendly, and educational.
+  + Provide a brief documentation explaining the app’s features, usage instructions, and learning goals.
+🔵 Final project: Lesson Demonstration with Language Apps
++ Utilizing the language applications and digital tools developed earlier, students will conduct a preview of a comprehensive lesson demonstration. This project aims to showcase the practical application of their created tools in a real-world teaching scenario. These assignments are designed to foster creativity, collaboration, and technical skills, preparing students for the digital demands of contemporary language teaching. Details will be announced in time.
