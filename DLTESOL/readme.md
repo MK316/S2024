@@ -1,6 +1,5 @@
-# 🌿 Contemporary Digital Literacy for TESOL Educators (Spring 2024)
+# 🌿 Introduction to Coding and Language Application Design (Spring 2024)
 
-Course title: Introduction to Coding and Language Application Design
 
 ### 🔸 Course overview:
 
