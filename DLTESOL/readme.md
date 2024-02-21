@@ -36,12 +36,9 @@ This introductory course is specifically designed for graduate students majoring
 
 
 
-## Class tools
+## Class tools (supplementary; To be updated)
 
-||Keyword|Link|
-|--|--|--|
-|01|Activity posting|[link](https://padlet.com/mirankim316/dltesol)|
-|02|Choosing a star participant|[web](https://wheelofnames.com/)|
+
 
 ## Course syllabus
 
