@@ -21,14 +21,14 @@ This course is designed for TESOL graduate students to equip them with critical 
 |--|--|--|--|--|--|
 |W01|Mar.5|Course overview|[Syllabus](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL_topost.pdf), [roster](https://github.com/MK316/Spring2024/blob/main/DLTESOL/PronounceYourName.ipynb)|[Lesson01](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson01.ipynb)|🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)|
 |W02|Mar.12|Topic [1] Understanding digital literacy, Coding Intro||[AppDemo#1](https://github.com/MK316/Spring2024/blob/main/apps/AppSample01.ipynb)|||
-|W03|Mar.19|Topic [2] Python basics: input, output, variables|[Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)||Mini project (TBA)|
+|W03|Mar.19|Topic [2] Python basics: input, output, variables|[Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|Mini project (TBA)|
 |W04|Mar.26|Topic [2] Python basics: operators, function||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|||
 |W05|Apr.2|Topic [3] Python basics: data types, Interactive digital tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)||
 |W06|Apr.9|Topic [3] Interactive digital tools, Exploring Contemporary AI Tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|||
 |W07|Apr.16|Topic [4] Markdown md file handling, Learner-centered activities|📗 [manual](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown.md)||||
 |W08|Apr.23|Midterm exam|||||
 |W09|Apr.30|Topic [5] Learner-centered digital application|||||
-|W10|May 7|Topic [6] Application Design for Language Learning & Teaching; Guidelines for final project|||Mini project (individual)|
+|W10|May 7|Topic [6] Application Design for Language Learning & Teaching; Guidelines for final project|||Mini project|
 |W11|May 14|Topic [6] Application Design for Language Learning & Teaching|Group activities|||
 |W12|May 21|Topic [7] Application Development for Language Learning & Teaching|Group activities||||
 |W13|May 28|Topic [7] Application Development for Language Learning & Teaching|Group activities||||
