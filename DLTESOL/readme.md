@@ -9,7 +9,7 @@ This course is designed for TESOL graduate students to equip them with critical 
 
 ### 🔸 Class Board (files & links)
 
-#### | [⏰](https://time-stuff.com/embed.html) | [wheel](https://wheelofnames.com/) | ⛄ [Github IDs](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | 👭 [Padlet](https://padlet.com/mirankim316/DLTESOL) | 📗 [Jump to Python (manual)](https://wikidocs.net/5) | 🌱 [App Hub](https://mrkim21.github.io) |
+#### | [⏰](https://time-stuff.com/embed.html) | [wheel](https://wheelofnames.com/) | [roster](https://github.com/MK316/Spring2024/blob/main/DLTESOL/S24-Tofel-roster.csv) | ⛄ [Github IDs](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | 👭 [Padlet](https://padlet.com/mirankim316/DLTESOL) | 📗 [Jump to Python (manual)](https://wikidocs.net/5) | 🌱 [App Hub](https://mrkim21.github.io) |
 
 
 ### 🔸 Weekly Topics 
