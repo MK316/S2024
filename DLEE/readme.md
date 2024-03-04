@@ -5,14 +5,14 @@ This course, designed for second-year college students, focuses on integrating d
 
 ## Course board (Files & links)
 | [⏰](https://time-stuff.com/embed.html) | [wheel](https://wheelofnames.com/) | [roster](https://github.com/MK316/Spring2024/blob/main/DLEE/S24-dlee-roster.csv) | 💾 [Syllabus](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_DLEE.pdf) | :octocat: [Github IDs](https://docs.google.com/spreadsheets/d/1rcJ6c2BuAIbodEft7ZUsgwFOwiNK9nO2siZ6VUAgcgI/edit?usp=sharing) | 🌱[Padlet: inclass activity](https://padlet.com/mirankim316/DLEES24) | 📘 [Jump to Python (Manual)](https://wikidocs.net/5) | 📗 
-[Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md) | ⛄[MK316 AppHub](https://mrkim21.github.io) | 🌺 [Class log](https://github.com/MK316/Spring2024/blob/main/log-dlee.md) |
+[Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md) | ⛄[MK316 AppHub](https://mrkim21.github.io) |
 
 ## Weekly Schedule
 
 |Week|date|Key topic(s)|Code page|Assts.|
 |--|--|--|--|--|
 |W01|Mar.5|Introduction, Course overview, syllabus, grouping; the concept of digital literacy <br> Python Coding: Using online platforms (Github, Colab) to write, run, save codes|🌀[DLW01](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW01.ipynb), [pronouncenames](https://github.com/MK316/Spring2024/blob/main/DLTESOL/PronounceYourName.ipynb)|[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
-|W02|Mar.12|Basics of coding I: variables and operators, using Python packages|🌀[DLW02](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW02.ipynb)||
+|W02|Mar.12|Basics of coding I: variables and operators, using Python packages|🌀[DLW02](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW02.ipynb)| 🌺 [Class log](https://github.com/MK316/Spring2024/blob/main/log-dlee.md)|
 |W03|Mar.19|(Continued)|(continued)|[^1]Tools to share|
 |W04|Mar.26|Basics of coding II: data types|🌀[DLW04](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW04.ipynb)||
 |W05|Apr.2|Basics of coding III: interactive process, TTS|[DLW05](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW05.ipynb)|Tools to share presentation (10 mins)|
