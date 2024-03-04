@@ -5,7 +5,7 @@ This space is for guiding the given assignments and notes for the next class. Al
 # Week 01 (Mar. 5)
 + Syllabus to check
 + Pairing or grouping for collaboration
-+ Open a Github account (individual students) 
++ Open a Github account (individual students): Refer to Section 2.1 in [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md) manual.
 + Class survey
 
 ### Assignment 01
