@@ -6,3 +6,7 @@ This space is for guiding the given assignments and notes for the next class. Al
 + Syllabus to check
 + Open a Github ID (individually) and share
 + Grouping for collaboration
+
+## Week 02 (Mar. 12)
+
++ Coding4ET Lesson 01 & Lesson 02 (HW is instructed in DIY in Lesson 02)
