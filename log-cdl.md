@@ -13,4 +13,6 @@ This space is for guiding the given assignments and notes for the next class. Al
 
 # Week 02 (Mar. 12)
 + Study Coding4ET Lessons 01 & Lesson 02
-+ There is an assignment at the end of Lesson 02 (DIY)
+
+### Assignment 02
++ 📌 There is an assignment with instruction at the end of Lesson 02 (DIY)
