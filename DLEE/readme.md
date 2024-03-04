@@ -11,7 +11,7 @@ This course, designed for second-year college students, focuses on integrating d
 
 |Week|date|Key topic(s)|Code page|Assts.|
 |--|--|--|--|--|
-|W01|Mar.5|Introduction, Course overview, syllabus, grouping; the concept of digital literacy <br> Python Coding: Using online platforms (Github, Colab) to write, run, save codes|🌀[DLW01](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW01.ipynb), [pronouncenames](https://github.com/MK316/Spring2024/blob/main/DLEE/PronounceYourName.ipynb)|[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
+|W01|Mar.5|Introduction, Course overview, syllabus, grouping; the concept of digital literacy <br> Python Coding: Using online platforms (Github, Colab) to write, run, save codes|🌀[DLW01](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW01.ipynb), [pronouncenames](https://github.com/MK316/Spring2024/blob/main/DLTESOL/PronounceYourName.ipynb)|[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
 |W02|Mar.12|Basics of coding I: variables and operators, using Python packages|🌀[DLW02](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW02.ipynb)||
 |W03|Mar.19|(Continued)|(continued)|[^1]Tools to share|
 |W04|Mar.26|Basics of coding II: data types|🌀[DLW04](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW04.ipynb)||
