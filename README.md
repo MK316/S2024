@@ -1,7 +1,7 @@
 # 🌱 Spring semester of 2024
 Continuously updated as needed.
 
-
+## Course tools 
 | ⏰ [Stopwatch Online](https://time-stuff.com/embed.html)| 📍 [Padlet](https://padlet.com/mirankim316) | 🐳 [MK316 APP Hub](https://mrkim21.github.io) | 📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md) |
 
 ## Courses
@@ -13,7 +13,7 @@ Continuously updated as needed.
 |**[3. Introduction to Coding and Language App Design](https://github.com/MK316/Spring2024/blob/main/DLTESOL/readme.md)** |📗 Grad (TESOL)|Tu|2|In this course, we focus on learner-centered, customized digital tools to enhance TESOL teaching. Discover how digital literacy for educators enables the creation of adaptive learning environments, where technology is tailored to meet diverse student needs and foster more effective and engaging language instruction.|
 |**[4. Corpus Linguistics and English Education](https://github.com/MK316/Spring2024/blob/main/Corpus/readme.md)** |📘 Grad (MA, PhD)|Wed|3|This is an introductory course exploring corpus analysis methods to innovate English teaching and curriculum design. Graduate students will engage with real-world language data, applying findings to enhance teaching methodologies, material development and assessment strategies in language education.|
 |**[5. Seminar](https://github.com/MK316/Spring2024/blob/main/Seminar/readme.md)**|📘 Grad (MA, PhD)|Thur (Mon)|1|This seminar focuses on frequency data handling and relevant basic statistics, offering lectures and practical sessions to develop foundational skills in statistical analysis and data interpretation. Using Python coding, students will learn how to summarize the frequency data visually (e.g., pie, bar, associate plots), frequency data tables, Chi-Squared tests, and related quantitative analysis methods. |
-## Course tools 
-TBA
+
+
 
 
