@@ -4,7 +4,7 @@ Continuously updated as needed.
 ## Course tools 
 | ⏰ [Stopwatch Online](https://time-stuff.com/embed.html)| 📍 [Padlet](https://padlet.com/mirankim316) | 🐳 [MK316 APP Hub](https://mrkim21.github.io) | 📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md) |
 
-## Courses
+## Course Schedules
 
 |Digital Classrooms|Level|Days|Credits|Description|
 |---|:---:|:---:|---|---|
