@@ -1,7 +1,7 @@
 # 🌿 English Pronunciation Practice (Spring 2024)
 
 ## Course board & links
-| [wheel](https://wheelofnames.com/) | 💾 [Syllabus](https://github.com/MK316/Spring2024/raw/main/Engpro/Syllabus_Engpro_topost.pdf) | [roster](https://github.com/MK316/Spring2024/blob/main/Engpro/S24-engpro-roster.csv) | 🌀 [Padlet: inclass activity](https://padlet.com/mirankim316/S24Engpro) | 🌀 [MK316 APP Hub](https://mrkim21.github.io/classes/classmain.html) | 🌴 [Class log](https://github.com/MK316/Spring2024/blob/main/log-engpro.md) |
+| [⏰](https://time-stuff.com/embed.html) | [wheel](https://wheelofnames.com/) | 💾 [Syllabus](https://github.com/MK316/Spring2024/raw/main/Engpro/Syllabus_Engpro_topost.pdf) | [roster](https://github.com/MK316/Spring2024/blob/main/Engpro/S24-engpro-roster.csv) | 🌀 [Padlet: inclass activity](https://padlet.com/mirankim316/S24Engpro) | 🌀 [MK316 APP Hub](https://mrkim21.github.io/classes/classmain.html) | 🌴 [Class log](https://github.com/MK316/Spring2024/blob/main/log-engpro.md) |
 
 ## Weekly Schedule
 
