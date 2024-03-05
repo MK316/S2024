@@ -13,7 +13,7 @@ This graduate-level course, designed for in-service English teachers at the seco
 |W01|Introduction|Course overview, syllabus; What is corpus linguistics?|[CL01]|[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
 |W02|Python basics #1| Online Corpora: COCA, BNC, Types of corpora; NLTK|[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md), 🔸[nltk](https://www.nltk.org/book/ch01.html)||
 |W03|Python basics #2|Data types|🔸[nltk](https://www.nltk.org/book/ch01.html)||
-|W04|Project #1| 🔸[nltk](https://www.nltk.org/book/ch01.html),🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)||[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
+|W04|Project #1| 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)|🔸[nltk](https://www.nltk.org/book/ch01.html),|[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
 |W05|Lexical analysis|Type vs. token, lemmatization, 🔸[nltk](https://www.nltk.org/book/ch01.html)|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/TTR-and-lemmatization.ipynb)||
 |W06|Keywords|Text analysis, Words in context, concordance, collocations|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Words_in_context.ipynb)||
 |W07|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1]|[code](https://github.com/MK316/Spring2024/blob/main/Corpus/Lexical-Diversity.ipynb)|
