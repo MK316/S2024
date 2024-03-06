@@ -10,7 +10,7 @@ This graduate-level course, designed for in-service English teachers at the seco
 
 |Week|Key topic(s)|Description|Code page|Assignments|
 |--|--|--|--|--|
-|W01|Introduction|Course overview, syllabus; What is corpus linguistics?|[CL01]|[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
+|W01|Introduction|Course overview, syllabus; What is corpus linguistics?|[CL01](https://github.com/MK316/Spring2024/blob/main/Corpus/lecture/Ch01_What%20is%20corpus%20linguistics_part1.pdf)|[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
 |W02|Python basics #1| Online Corpora: COCA, BNC, Types of corpora; NLTK|[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md), 🔸[nltk](https://www.nltk.org/book/ch01.html)||
 |W03|Python basics #2|Data types, NLTK|🔸[nltk](https://www.nltk.org/book/ch01.html)||
 |W04|Project #1| NLTK, 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)|🔸[nltk](https://www.nltk.org/book/ch01.html)|[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
