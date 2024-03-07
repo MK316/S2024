@@ -6,7 +6,7 @@ This space is for guiding the given assignments and notes for the next class. Al
 + Web link to share
 + Grouping
 + Introduction (W01 notebook: bin, pin, spin,... between kor and eng)
-+ info: TOEIC test
++ info: TOEIC test (in 2 weeks)
 + 
 ## Week01
 ### Tuesday
