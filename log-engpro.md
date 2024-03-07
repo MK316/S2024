@@ -7,8 +7,9 @@ This space is for guiding the given assignments and notes for the next class. Al
 + Grouping
 + Introduction (W01 notebook: bin, pin, spin,... between kor and eng)
 + info: TOEIC test (in 2 weeks)
-+ 
-## Week01
++ HW01 (done) - Diagnostic recording (24)
+  
+## Week02
 ### Tuesday
 
 ### Thursday
