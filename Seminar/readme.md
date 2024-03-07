@@ -21,8 +21,8 @@ This one-credit Graduate Seminar in Frequency Data Analysis focuses on key stati
 |Week|Date | Key topic(s)|Description|Course materials|Suppl.|
 |--|--|--|--|--|--|
 |Meeting 01|Mar.14(Video)<br>Mar.21(Zoom)|Introduction, <br>Descriptive statistics I|Course overview, Why statistics? Steps of statistical approach, Types of data, Software|[Slide01]<br>[Coding01](https://github.com/MK316/Spring2024/blob/main/Seminar/Seminar01A.ipynb)|[dataformat](https://github.com/MK316/Spring2024/blob/main/Seminar/dataformat.md)|
-|Meeting 02|TBA|Descriptive Statistics II|Purpose, Key measures, Visualize data I|[Coding02](https://github.com/MK316/Spring2024/blob/main/Seminar/Seminar01B.ipynb)|[dataframe](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md)|
-|Meeting 03|TBA|Descriptive Statistics III, Frequency data|Visualize data II, Real data practice, Applications and limitations, Frequency data handling|[Practice](https://github.com/MK316/Spring2024/blob/main/Seminar/Seminar01C.ipynb)||
-|Meeting 04|TBA|Chi-squared test I|Purpose, Types of Chi-squared tests, Concepts|[Coding03](https://github.com/MK316/Spring2024/blob/main/Seminar/Chi_squared01.ipynb)|🔴[Dataframe](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md)|
-|Meeting 05|TBA|Chi-squared test II|Visualize frequency data results, Interpretation of results, Practice with examples, Assumptions and limitations|[Coding03: continue](https://github.com/MK316/Spring2024/blob/main/Seminar/Chi_squared01.ipynb)||
+|Meeting 02|Apr.4(V)<br>Apr.11(Zoom)|Descriptive Statistics II|Purpose, Key measures, Visualize data I|[Coding02](https://github.com/MK316/Spring2024/blob/main/Seminar/Seminar01B.ipynb)|[dataframe](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md)|
+|Meeting 03|Apr.25(V)<br>May9(Z)|Descriptive Statistics III, Frequency data|Visualize data II, Real data practice, Applications and limitations, Frequency data handling|[Practice](https://github.com/MK316/Spring2024/blob/main/Seminar/Seminar01C.ipynb)||
+|Meeting 04|May23(V)<br>May30(Z)|Chi-squared test I|Purpose, Types of Chi-squared tests, Concepts|[Coding03](https://github.com/MK316/Spring2024/blob/main/Seminar/Chi_squared01.ipynb)|🔴[Dataframe](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md)|
+|Meeting 05|Jun.6(V)<br>Jun.13(Z)|Chi-squared test II|Visualize frequency data results, Interpretation of results, Practice with examples, Assumptions and limitations|[Coding03: continue](https://github.com/MK316/Spring2024/blob/main/Seminar/Chi_squared01.ipynb)||
 
