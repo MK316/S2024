@@ -12,7 +12,7 @@ This course, designed for second-year college students, focuses on integrating d
 |Week|date|Key topic(s)|Code page|Assts.|
 |--|--|--|--|--|
 |W01|Mar.5|Introduction, Course overview, syllabus, grouping; the concept of digital literacy <br> Python Coding: Using online platforms (Github, Colab) to write, run, save codes|🌀[DLW01](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW01.ipynb), [pronouncenames](https://github.com/MK316/Spring2024/blob/main/DLTESOL/PronounceYourName.ipynb)|[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
-|W02|Mar.12|Basics of coding I: variables and operators, using Python packages|🌀[App demo](https://github.com/MK316/Spring2024/blob/main/apps/AppSample01.ipynb)<br>[DLW02](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW02.ipynb)| 🌺 [Class log](https://github.com/MK316/Spring2024/blob/main/log-dlee.md)|
+|W02|Mar.12|Basics of coding I: variables and operators, using Python packages|🌀[App demo](https://github.com/MK316/Spring2024/blob/main/apps/AppSample01.ipynb)<br>🌀[DLW02](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW02.ipynb)| 🌺 [Class log](https://github.com/MK316/Spring2024/blob/main/log-dlee.md)|
 |W03|Mar.19|(Continued)|(continued)|[^1]Tools to share (Due 3/31)|
 |W04|Mar.26|Basics of coding II: data types|🌀[DLW04](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW04.ipynb)||
 |W05|Apr.2|Basics of coding III: interactive process, TTS|[DLW05](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW05.ipynb)|Tools to share presentation (7 mins)|
