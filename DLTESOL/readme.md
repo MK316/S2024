@@ -20,7 +20,7 @@ This course is designed for TESOL graduate students to equip them with critical 
 |Wk|Date|Topic(s)|Lecture|Coding|Assignment|
 |--|--|--|--|--|--|
 |W01|Mar.5|Course overview|[Syllabus](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL_0304.pdf), [pronouncenames](https://github.com/MK316/Spring2024/blob/main/DLTESOL/PronounceYourName.ipynb)||🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)|
-|W02|Mar.12|Topic [1] Understanding digital literacy, Coding Intro|📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[Lesson01](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson01.ipynb),<br>[AppDemo#1](https://github.com/MK316/Spring2024/blob/main/apps/AppSample01.ipynb)|[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
+|W02|Mar.12|Topic [1] Understanding digital literacy, Coding Intro|📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[Lesson01 Review](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson01.ipynb),<br>[AppDemo#1](https://github.com/MK316/Spring2024/blob/main/apps/AppSample01.ipynb)|[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
 |W03|Mar.19|Topic [2] Python basics: input, output, variables|📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)||
 |W04|Mar.26|Topic [2] Python basics: operators, function||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|Mini project (TBA)|
 |W05|Apr.2|Topic [3] Python basics: data types, Interactive digital tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)||
