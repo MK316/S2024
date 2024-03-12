@@ -9,4 +9,12 @@ This space is for guiding the given assignments and notes for the next class. Al
 
 ## Week 02 (Mar. 12)
 
++ Coding4ET overview audio
++ AppDemo: saving a colab file to your Github
++ Create a repository "S24"
++ Padlet: Video generating AI demo
+
+## Week 03 (Mar. 19) Rm#334
+
 + Coding4ET Lesson 01 & Lesson 02 (HW is instructed in DIY in Lesson 02)
++ Tools to share video guideline
