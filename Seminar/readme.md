@@ -14,7 +14,7 @@ This one-credit Graduate Seminar in Frequency Data Analysis focuses on key stati
 2. Assignments (80%)
    
 ## Course board & links
-| 🌱 [Padlet: inclass activity](https://padlet.com/mirankim316/S24Seminar) | 🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-seminar.md) |
+| 🌱 [Padlet: inclass activity](https://padlet.com/mirankim316/S24Corpus) | 🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-seminar.md) |
 
 ## Weekly Schedule
 
