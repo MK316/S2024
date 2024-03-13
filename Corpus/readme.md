@@ -18,7 +18,7 @@ This graduate-level course, designed for in-service English teachers at the seco
 |W06|(Apr10)|Keywords|Text analysis, Words in context, concordance, collocations|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Words_in_context.ipynb)||
 |W07|Apr17|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1]|[code](https://github.com/MK316/Spring2024/blob/main/Corpus/Lexical-Diversity.ipynb)|
 |W08|Apr24|Midterm|Mini-project|||
-|W09|May1|Readability|Readability measures|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability.ipynb)||
+|W09|(May1)|Readability|Readability measures|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability.ipynb)||
 |W10|May8|Topic-modeling| NLP preprocessing, topic-modeling|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
 |W11|(May15)|Sentiment Analysis|Data collection, Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentAnalysis.ipynb)||
 |W12|May22|Clustering Analysis|Data collection, Clustering Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
