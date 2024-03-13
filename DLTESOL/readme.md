@@ -9,7 +9,7 @@ This course is designed for TESOL graduate students to equip them with critical 
 
 ### 🔸 Class Board (files & links)
 
-#### | [⏰](https://time-stuff.com/embed.html) | [wheel](https://wheelofnames.com/) | [roster](https://github.com/MK316/Spring2024/blob/main/DLTESOL/S24_Tofel_roster.csv) | ⛄ [Github IDs & Google Sheet](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | 👭 [Padlet](https://padlet.com/mirankim316/cdl-tesol-spring-2024-njwe895ytgl83hhu) | 📗 [Jump to Python (manual)](https://wikidocs.net/5) | 📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md) | 🌱 [App Hub](https://mrkim21.github.io) |
+#### | [⏰](https://time-stuff.com/embed.html) | [wheel](https://wheelofnames.com/) | [roster](https://github.com/MK316/Spring2024/blob/main/DLTESOL/S24_Tofel_roster.csv) | ⛄ [Github IDs & Google Sheet](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) | 👭 [Padlet](https://padlet.com/mirankim316/cdl-tesol-spring-2024-njwe895ytgl83hhu) | 📗 [Jump to Python (manual)](https://wikidocs.net/5) | 📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md) | 🌱 [App Hub](https://mrkim21.github.io) | 🔍 [Emoji](https://gist.github.com/rxaviers/7360908)
 
 
 ### 🔸 Weekly Topics 
