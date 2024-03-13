@@ -11,7 +11,7 @@ This graduate-level course, designed for in-service English teachers at the seco
 |Week|Date|Key topic(s)|Description|Code page|Assignments|
 |--|--|--|--|--|--|
 |W01|Mar6|Introduction|Course overview, syllabus; What is corpus linguistics?||[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
-|W02|Mar13|Python basics #1| Online Corpora: COCA, BNC, Types of corpora; NLTK|[CL01](https://github.com/MK316/Spring2024/blob/main/Corpus/lecture/Ch01_What%20is%20corpus%20linguistics_0313.pdf),[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md),🔸[nltk](https://www.nltk.org/book/ch01.html),[📗](https://github.com/MK316/Coding4ET/blob/main/README.md) ||
+|W02|Mar13|Python basics #1| Online Corpora: COCA, BNC, Types of corpora; NLTK|[CL01](https://github.com/MK316/Spring2024/blob/main/Corpus/lecture/Ch01_What%20is%20corpus%20linguistics_0313.pdf),[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md),🔸[nltk](https://www.nltk.org/book/ch01.html),[📗](https://github.com/MK316/Coding4ET/blob/main/README.md)||
 |W03|Mar20|Python basics #2|Data types, NLTK|🔸[nltk](https://www.nltk.org/book/ch01.html)||
 |W04|Mar27|Project #1| NLTK, 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)|🔸[nltk](https://www.nltk.org/book/ch01.html)|[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
 |W05|Apr3|Lexical analysis|Type vs. token, lemmatization |[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/TTR-and-lemmatization.ipynb), 🔸[nltk](https://www.nltk.org/book/ch01.html)||
