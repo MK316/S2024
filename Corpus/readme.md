@@ -8,23 +8,23 @@ This graduate-level course, designed for in-service English teachers at the seco
 
 ## Weekly Schedule
 
-|Week|Key topic(s)|Description|Code page|Assignments|
-|--|--|--|--|--|
-|W01|Introduction|Course overview, syllabus; What is corpus linguistics?||[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
-|W02|Python basics #1| Online Corpora: COCA, BNC, Types of corpora; NLTK|[CL01](https://github.com/MK316/Spring2024/blob/main/Corpus/lecture/Ch01_What%20is%20corpus%20linguistics_0313.pdf),[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md),🔸[nltk](https://www.nltk.org/book/ch01.html),[📗](https://github.com/MK316/Coding4ET/blob/main/README.md) ||
-|W03|Python basics #2|Data types, NLTK|🔸[nltk](https://www.nltk.org/book/ch01.html)||
-|W04|Project #1| NLTK, 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)|🔸[nltk](https://www.nltk.org/book/ch01.html)|[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
-|W05|Lexical analysis|Type vs. token, lemmatization |[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/TTR-and-lemmatization.ipynb), 🔸[nltk](https://www.nltk.org/book/ch01.html)||
-|W06|Keywords|Text analysis, Words in context, concordance, collocations|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Words_in_context.ipynb)||
-|W07|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1]|[code](https://github.com/MK316/Spring2024/blob/main/Corpus/Lexical-Diversity.ipynb)|
-|W08|Midterm|Mini-project|||
-|W09|Readability|Readability measures|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability.ipynb)||
-|W10|Topic-modeling| NLP preprocessing, topic-modeling|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
-|W11|Sentiment Analysis|Data collection, Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentAnalysis.ipynb)||
-|W12|Clustering Analysis|Data collection, Clustering Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
-|W13|Project #2|Idea brainstorming, individual project discussions, samples|||
-|W14|Project #3|individual project discussions, samples|||
-|W15|Final project|Presentations|||
+|Week|Date|Key topic(s)|Description|Code page|Assignments|
+|--|--|--|--|--|--|
+|W01|Mar6|Introduction|Course overview, syllabus; What is corpus linguistics?||[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
+|W02|Mar13|Python basics #1| Online Corpora: COCA, BNC, Types of corpora; NLTK|[CL01](https://github.com/MK316/Spring2024/blob/main/Corpus/lecture/Ch01_What%20is%20corpus%20linguistics_0313.pdf),[CL02](https://github.com/MK316/Spring2024/blob/main/Corpus/CL02.md),🔸[nltk](https://www.nltk.org/book/ch01.html),[📗](https://github.com/MK316/Coding4ET/blob/main/README.md) ||
+|W03|Mar20|Python basics #2|Data types, NLTK|🔸[nltk](https://www.nltk.org/book/ch01.html)||
+|W04|Mar27|Project #1| NLTK, 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)|🔸[nltk](https://www.nltk.org/book/ch01.html)|[Assign01](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
+|W05|Apr3|Lexical analysis|Type vs. token, lemmatization |[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/TTR-and-lemmatization.ipynb), 🔸[nltk](https://www.nltk.org/book/ch01.html)||
+|W06|(Apr10)|Keywords|Text analysis, Words in context, concordance, collocations|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Words_in_context.ipynb)||
+|W07|Apr17|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1]|[code](https://github.com/MK316/Spring2024/blob/main/Corpus/Lexical-Diversity.ipynb)|
+|W08|Apr24|Midterm|Mini-project|||
+|W09|May1|Readability|Readability measures|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability.ipynb)||
+|W10|May8|Topic-modeling| NLP preprocessing, topic-modeling|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
+|W11|(May15)|Sentiment Analysis|Data collection, Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentAnalysis.ipynb)||
+|W12|May22|Clustering Analysis|Data collection, Clustering Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
+|W13|May29|Project #2|Idea brainstorming, individual project discussions, samples|||
+|W14|June5|Project #3|individual project discussions, samples|||
+|W15|June12|Final project|Presentations|||
 
 ## 📙 How to handle frequency data
 
