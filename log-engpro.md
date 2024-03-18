@@ -11,5 +11,14 @@ This space is for guiding the given assignments and notes for the next class. Al
   
 ## Week02
 ### Tuesday
++ Introduction
+  
+### Thursday
++ Introduction (completed)
+
+## Week03 (Mar19, 21)
+### Tuesday
++ Lesson 1
 
 ### Thursday
++ 
