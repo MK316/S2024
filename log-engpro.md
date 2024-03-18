@@ -19,6 +19,7 @@ This space is for guiding the given assignments and notes for the next class. Al
 ## Week03 (Mar19, 21)
 ### Tuesday
 + Lesson 1
++ To announce: TOEIC score to post, TED talk to choose (https://rec.ac.kr/gnu)
 
 ### Thursday
 + 
