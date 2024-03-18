@@ -75,6 +75,7 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
   + Select digital tools that are applicable to TESOL settings.
   + Design an in-class activity (one or two) that effectively incorporates the chosen digital tools.
   + Produce a 5-minute video presenting the activity, highlighting its learning objectives, implementation steps, and expected outcomes.
+  + Present advantages/disadvantages/limitations
 
 🔵 Mini-project #2: Language Learning App Development
 + Objective: Groups will design language learning activities and then use Python to code and develop a functional language learning application based on these activities.
