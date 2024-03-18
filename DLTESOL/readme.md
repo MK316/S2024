@@ -73,7 +73,7 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 + Objective: In groups, students will create a 5-minute video clip that showcases how to integrate available digital tools into in-class activities. The goal is to share innovative methods for enhancing language learning through technology and to evaluate the technologies with which teachers are already familiar.
 + Requirements:
   + Select digital tools that are applicable to TESOL settings.
-  + Design an in-class activity that effectively incorporates the chosen digital tools.
+  + Design an in-class activity (one or two) that effectively incorporates the chosen digital tools.
   + Produce a 5-minute video presenting the activity, highlighting its learning objectives, implementation steps, and expected outcomes.
 
 🔵 Mini-project #2: Language Learning App Development
