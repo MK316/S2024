@@ -19,7 +19,7 @@ This space is for guiding the given assignments and notes for the next class. Al
 + Coding4ET Lesson 01 & Lesson 02 (HW is instructed in DIY in Lesson 02)
 + Tools to share video guideline (next time)
 + PM for each group: Create a repository named 'G1' (replace number with your group number) and add collaborator to the repository. Include the instructor (MK316) too.
-### Here's how to
+### Here's how to add collaborator to the new repository created by the PM of your group
 
 + After creating a repository, for example 'G1', find setting menu on the top right corner in your repository page.
 + On the left panel, there is a menu 'collaborators'. Click the menu.
