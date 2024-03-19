@@ -17,4 +17,11 @@ This space is for guiding the given assignments and notes for the next class. Al
 ## Week 03 (Mar. 19) Rm#334
 
 + Coding4ET Lesson 01 & Lesson 02 (HW is instructed in DIY in Lesson 02)
-+ Tools to share video guideline
++ Tools to share video guideline (next time)
++ PM for each group: Create a repository named 'G1' (replace number with your group number) and add collaborator to the repository. Include the instructor (MK316) too.
+### Here's how to
+
++ After creating a repository, for example 'G1', find setting menu on the top right corner in your repository page.
++ On the left panel, there is a menu 'collaborators'. Click the menu.
++ Add Github IDs of your group members and 'MK316' (which is mine).
++ When this is done, all the members can access, edit, and save files to the given repository.
