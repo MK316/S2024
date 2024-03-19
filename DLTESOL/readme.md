@@ -26,7 +26,7 @@ This course is designed for TESOL graduate students to equip them with critical 
 |W05|Apr.2|Topic [3] Python basics: data types, Interactive digital tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|Mini project presentation|
 |W06|Apr.9|Topic [3] Interactive digital tools, Exploring Contemporary AI Tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|||
 |W07|Apr.16|Topic [4] Markdown md file handling, Learner-centered activities|📗 [manual](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown.md)||||
-|W08|Apr.23|Midterm exam|||||
+|W08|Apr.23|Midterm exam (TBA)|||||
 |W09|Apr.30|(TBA) Topic [5] Learner-centered digital application|||||
 |W10|May 7|Topic [5] Learner-centered digital application<br>Topic [6] Application Design for Language Learning & Teaching; Guidelines for final project|||Mini project|
 |W11|May 14|Topic [6] Application Design for Language Learning & Teaching|Group activities|||
