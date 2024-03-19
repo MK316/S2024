@@ -20,7 +20,7 @@ We'll use two main Python libraries:
 Install them using pip:
 
 ```bash
-pip install wordcloud matplotlib
+!pip install wordcloud matplotlib
 ```
 ## Step-by-Step Guide
 ### Step 1: Prepare Your Text Data
