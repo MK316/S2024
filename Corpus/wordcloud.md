@@ -12,7 +12,7 @@ Before you begin, you should be familiar with:
 
 ## Required Libraries
 
-We'll use two main libraries:
+We'll use two main Python libraries:
 
 - **wordcloud**: A library for generating word cloud images.
 - **matplotlib**: For displaying the word cloud image.
