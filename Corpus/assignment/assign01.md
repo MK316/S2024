@@ -38,6 +38,6 @@ Create a Markdown (MD) file for a reading lesson using a selected text. Include 
 
 8. **Proofread and Format:** Review your MD file for errors in formatting, spelling, and grammar. Ensure it's well-organized.
 
-9. **Submission:** Submit your completed MD file link as your assignment on our Padlet page
+9. **Submission:** Submit your completed MD file link as your assignment on our [Padlet](https://padlet.com/mirankim316/S24Corpus) page
 
 **Note:** Reference external sources and tools used in your assignment.
