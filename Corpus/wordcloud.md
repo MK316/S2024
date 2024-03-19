@@ -59,6 +59,13 @@ plt.imshow(custom_wordcloud, interpolation='bilinear')
 plt.axis('off')
 plt.show()
 ```
+
+### Saving the image file
+
+```
+# Save the image in the current directory with the name 'wordcloud.png'
+plt.savefig('wordcloud.png', format='png')
+```
 ### Conclusion
 Creating a word cloud in Python is a straightforward process with the wordcloud library. It's a fantastic way to visually represent text data and can be customized extensively to suit your needs.
 
