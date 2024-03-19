@@ -68,14 +68,15 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 
 ## Course assignments
 
-🔵 Mini-Project #1: Digital Tool In-Class Activity Video
+🔵 Mini-Project #1: Digital Tool for In-Class Activity (A guide video)
 
 + Objective: In groups, students will create a 5-minute video clip that showcases how to integrate available digital tools into in-class activities. The goal is to share innovative methods for enhancing language learning through technology and to evaluate the technologies with which teachers are already familiar.
 + Requirements:
   + Select digital tools that are applicable to TESOL settings.
-  + Design an in-class activity (one or two) that effectively incorporates the chosen digital tools.
-  + Produce a 5-minute video presenting the activity, highlighting its learning objectives, implementation steps, and expected outcomes.
-  + Present advantages/disadvantages/limitations
+  + Design an in-class activity (one or two) that effectively incorporates the chosen digital tools. (How about we think about the activities traditionally done in language learning and consider how we can adapt them into classroom activities suitable for the digital age?)
+  + Produce a 5-minute video presenting (guiding) the activity, highlighting its learning objectives, implementation steps (if relevant), and expected outcomes (advantages/benefits).
+  + Address advantages/disadvantages/limitations (if relevant)
+  + You'll be giving a presentation in class (Apr.2 or 9)
 
 🔵 Mini-project #2: Language Learning App Development
 + Objective: Groups will design language learning activities and then use Python to code and develop a functional language learning application based on these activities.
