@@ -15,8 +15,8 @@ This course, designed for second-year college students, focuses on integrating d
 |W02|Mar.12|Basics of coding I: variables and operators, using Python packages|🌀[App demo](https://github.com/MK316/Spring2024/blob/main/apps/AppSample01.ipynb)<br>🌀[Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)<br>||
 |W03|Mar.19|(Continued), [^1]Tools to share (Due 3/31)|🌀[Coding4ET: Lesson2](https://github.com/MK316/Coding4ET/blob/main/README.md)<br>🌀[Review](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/W03_Review.pdf)|Todo: see 🌺 [Class log](https://github.com/MK316/Spring2024/blob/main/log-dlee.md)|
 |W04|Mar.26|Basics of coding II: data types|🌀[DLW02](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW02.ipynb),<br>🌀[DLW04](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW04.ipynb)|[Project 1 Guideline](https://github.com/MK316/Spring2024/blob/main/DLEE/project01.md)|
-|W05|Apr.2|Basics of coding III: interactive process, TTS|[DLW05](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW05.ipynb)|Tools to share presentation (5 mins)|
-|W06|Apr.9|Basics of coding IV: simple applications, TTS|||
+|W05|Apr.2|Basics of coding III: interactive process, TTS|[DLW05](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW05.ipynb)||
+|W06|Apr.9|Basics of coding IV: simple applications, TTS||Tools to share presentation (5 mins)|
 |W07|Apr.16|Coding summary, Getting a live link using Gradio|||
 |W08|Apr.23|||||
 |W09|Apr.30|**_Midterm_**|[GA: Discussion forum]||
