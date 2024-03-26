@@ -70,6 +70,9 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 
 🔵 Mini-Project #1: Digital Tool for In-Class Activity (A guide video)
 
+[Useful Tools to share](https://github.com/MK316/Spring2024/blob/main/DLTESOL/tools.md)
+
+
 + Objective: In groups, students will create a 5-minute video clip that showcases how to integrate available digital tools into in-class activities. The goal is to share innovative methods for enhancing language learning through technology and to evaluate the technologies with which teachers are already familiar.
 + Requirements:
   + Select digital tools that are applicable to TESOL settings.
