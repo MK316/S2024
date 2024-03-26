@@ -22,7 +22,7 @@ This course is designed for TESOL graduate students to equip them with critical 
 |W01|Mar.5|Course overview|[Syllabus](https://github.com/MK316/Spring2024/blob/main/data/S24_Syllabus_CDL_TESOL_0304.pdf), [pronouncenames](https://github.com/MK316/Spring2024/blob/main/DLTESOL/PronounceYourName.ipynb)<br>[Lesson01](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson01.ipynb),||🌱 [Class log](https://github.com/MK316/Spring2024/blob/main/log-cdl.md)|
 |W02|Mar.12|Topic [1] Understanding digital literacy, Coding Intro (getting started: Colab, Github)|📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[AppDemo#1](https://github.com/MK316/Spring2024/blob/main/apps/AppSample01.ipynb)<br>👭 [VideoMakingAI](https://padlet.com/mirankim316/cdl-tesol-spring-2024-njwe895ytgl83hhu)|[survey](https://forms.gle/xcNdf7gxZFCsxEH9A)|
 |W03|Mar.19|Topic [2] Python basics: input, output, variables|📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[Review](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/W03_Review.pdf)|[Group meeting](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/Add_collaborators.pdf) (20 mins)|
-|W04|Mar.26|Topic [2] Python basics: operators, function||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|[Mini project (due Apr.1)](#course-assignments)|
+|W04|Mar.26|Topic [2] Python basics: operators, function||[Lesson02](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|[Mini project (due Apr.7)](#course-assignments)|
 |W05|Apr.2|Topic [3] Python basics: data types, Interactive digital tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|Mini project presentation|
 |W06|Apr.9|Topic [3] Interactive digital tools, Exploring Contemporary AI Tools||[Lesson03](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|||
 |W07|Apr.16|Topic [4] Markdown md file handling, Learner-centered activities|📗 [manual](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown.md)||||
@@ -74,9 +74,10 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 + Requirements:
   + Select digital tools that are applicable to TESOL settings.
   + Design an in-class activity (one or two) that effectively incorporates the chosen digital tools. (How about we think about the activities traditionally done in language learning and consider how we can adapt them into classroom activities suitable for the digital age?)
-  + Produce a 5-minute video presenting (guiding) the activity, highlighting its learning objectives, implementation steps (if relevant), and expected outcomes (advantages/benefits).
+  + Produce a 3-minute video presenting (guiding) the activity, highlighting its learning objectives, implementation steps (if relevant), and expected outcomes (advantages/benefits).
   + Address advantages/disadvantages/limitations (if relevant)
-  + You'll be giving a presentation in class (Apr.2 or 9)
+  + Share the video [here](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) (Due by Apr.7)
+  + You'll be giving a presentation in class (Apr.9)
 
 🔵 Mini-project #2: Language Learning App Development
 + Objective: Groups will design language learning activities and then use Python to code and develop a functional language learning application based on these activities.
