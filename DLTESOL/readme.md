@@ -73,14 +73,14 @@ By the end of this course, TESOL graduates will be well-equipped with the fundam
 [Useful Tools to share](https://github.com/MK316/Spring2024/blob/main/DLTESOL/tools.md)
 
 
-+ Objective: In groups, students will create a 5-minute video clip that showcases how to integrate available digital tools into in-class activities. The goal is to share innovative methods for enhancing language learning through technology and to evaluate the technologies with which teachers are already familiar.
++ Objective: In groups, students will create a 3 to 5-minute video clip that showcases how to integrate available digital tools into in-class activities. The goal is to share innovative methods for enhancing language learning through technology and to evaluate the technologies with which teachers are already familiar. (The purpose is to share the idea with your colleagues.)
 + Requirements:
-  + Select digital tools that are applicable to TESOL settings.
+  + Select digital tools (at least one) that are applicable to TESOL settings.
   + Design an in-class activity (one or two) that effectively incorporates the chosen digital tools. (How about we think about the activities traditionally done in language learning and consider how we can adapt them into classroom activities suitable for the digital age?)
-  + Produce a 3-minute video presenting (guiding) the activity, highlighting its learning objectives, implementation steps (if relevant), and expected outcomes (advantages/benefits).
-  + Address advantages/disadvantages/limitations (if relevant)
-  + Share the video [here](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) (Due by Apr.7)
-  + You'll be giving a presentation in class (Apr.9)
+  + Produce a 3 to 5-minute video presenting (guiding) the activity, highlighting its learning objectives, implementation steps (if relevant), and expected outcomes (advantages/benefits).
+  + Address advantages/disadvantages/limitations (if relevant) while you're using the tool for the chosen activity.
+  + Share the video [here](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing) (Due by Apr.7); this is our outcome for future references; you can also share the video with other colleagues later on.
+  + You'll be giving a presentation in class (Apr.9); basically the same material with the video but the presentation will give us to share our ideas together in class. (Students will have a chance to review the video before the class. This is why the deadline for the video is Apr.7) 
 
 🔵 Mini-project #2: Language Learning App Development
 + Objective: Groups will design language learning activities and then use Python to code and develop a functional language learning application based on these activities.
