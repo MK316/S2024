@@ -37,7 +37,7 @@ For example,
 ```
 6. **Write Instructions:** In your MD file, provide instructions for using the word cloud and word frequency list in the lesson. Explain their purpose and suggest interactive activities or discussions.
 
-7. **Lesson Plan:** Develop a brief lesson plan that can show how to use the image and the list:
+7. **Lesson Plan (as a section in the MD file):** Develop a brief lesson plan that can show how to use the image and the list:
    - Introduction to the text and context.
    - Engaging activities or questions related to the text.
    - How to incorporate the word cloud and word frequency list.
