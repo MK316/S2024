@@ -9,7 +9,9 @@ Create a Markdown (MD) file for a reading lesson using a selected text. Include 
 
 2. **Create the Markdown File:** Start a new MD file using any text editor (e.g., Notepad, Github, or plain text file editor). Or you can upload the text file (.txt) to your repository and use hyperlink on the content
 ```
+Format
 [text to display](weblink)
+
 For example,
 [text to see](https://raw.githubusercontent.com/MK316/Spring2024/main/Corpus/data/story01.txt)
 ```
