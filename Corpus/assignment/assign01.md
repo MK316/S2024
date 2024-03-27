@@ -7,7 +7,9 @@ Create a Markdown (MD) file for a reading lesson using a selected text. Include 
 
 1. **Select the Reading Material:** Choose a short text from your preferred source (textbook, article, etc.), approximately one to two paragraphs long.
 
-2. **Create the Markdown File:** Start a new MD file using any text editor (e.g., Notepad, Github, or plain text file editor). Or you can upload the text file (.txt) to your repository and use hyperlink on the content
+2. **Create the Markdown File:** Start a new MD file using any text editor (e.g., Notepad, Github, or plain text file editor). 
+
+3. **Insert the Text:** Copy and paste the selected text into your MD file, formatting it as needed. Or you can upload the text file (.txt) to your repository and use hyperlink on the content.
 ```
 Format
 [text to display](weblink)
@@ -15,7 +17,6 @@ Format
 For example,
 [text to see](https://raw.githubusercontent.com/MK316/Spring2024/main/Corpus/data/story01.txt)
 ```
-3. **Insert the Text:** Copy and paste the selected text into your MD file, formatting it as needed.
 
 4. **Generate a Word Cloud:** Use a word cloud generator (e.g., WordClouds.com) to create a word cloud based on the text. Insert the generated image into your MD file.
 
