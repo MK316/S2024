@@ -1,6 +1,7 @@
 # 🌀 DLEE - Project 1 Digital tools for language teaching and learning
 
 ### Instructions
+Deadline: 4/16 (Tuesday)
 
 1. Explore online digital tools and artificial intelligence tools in groups, and select one or two that you believe would be effective for English learning activities.
 2. Discuss how the selected tools can be utilized during class activities, such as group activities. Describe in detail and objectively how the selected digital tool can assist in English learning.
