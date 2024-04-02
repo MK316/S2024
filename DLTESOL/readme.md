@@ -25,10 +25,10 @@ This course is designed for TESOL graduate students to equip them with critical 
 |W04|Mar.26|Topic [2] Python basics: variables, operators, function|📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md)|[Lesson03a](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb)|[Mini project guideline (due Apr.15)](#course-assignments), |
 |W05|Apr.2|Topic [3] Python basics: data types, Interactive digital tools||[Lesson03b](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb), <br>[Lesson04](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md): variables, operators, functions|
 |W06|Apr.9|Topic [3] Python basics: datatypes, gTTS, Interactive digital tools||[Lesson04](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)||
-|W07|Apr.16|Topic [4] Markdown md file handling, , Exploring Contemporary AI Tools, Learner-centered activities|📗 [manual](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown.md)|||Mini project presentation (10 minutes)|
+|W07|Apr.16|Topic [4] Markdown md file handling, , Exploring Contemporary AI Tools, Learner-centered activities|📗 [manual](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown.md)||Mini project presentation (10 minutes)|
 |W08|Apr.23|Midterm exam (TBA)|||||
 |W09|Apr.30|(TBA) Topic [5] Learner-centered digital application|||||
-|W10|May 7|Topic [5] Learner-centered digital application<br>Topic [6] Application Design for Language Learning & Teaching; Guidelines for final project|||Mini project|
+|W10|May 7|Topic [5] Learner-centered digital application<br>Topic [6] Application Design for Language Learning & Teaching; Guidelines for final project|||Mini project#2|
 |W11|May 14|Topic [6] Application Design for Language Learning & Teaching|Group activities|||
 |W12|May 21|Topic [7] Application Development for Language Learning & Teaching|Group activities||||
 |W13|May 28|Topic [7] Application Development for Language Learning & Teaching|Group activities||||
