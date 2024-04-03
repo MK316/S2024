@@ -1,4 +1,4 @@
-# Reading Lesson Assignment
+# Reading Lesson Assignment (Due by Apr. 17)
 
 ## Objective
 Create a Markdown (MD) file for a reading lesson using a selected text. Include a word cloud of the text, a word frequency list, and instructions on how to use them in your lesson. The lesson should last 7 to 10 minutes with brief inclass activities.
