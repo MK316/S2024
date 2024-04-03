@@ -50,4 +50,4 @@ For example,
 
 9. **Submission:** Submit your completed MD file link as your assignment on our [Padlet](https://padlet.com/mirankim316/S24Corpus) page
 
-**Note:** Reference external sources and tools used in your assignment.
+**Note:** Provide references of external sources and tools used in your assignment at the end of the page.
