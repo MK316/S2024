@@ -1,4 +1,4 @@
-# Reading Lesson Assignment (Due by Apr. 17)
+# Assignment 1: Reading Lesson (Due by Apr. 17)
 
 ## Objective
 + Create a Markdown (MD) file for a reading lesson using a selected text.
