@@ -11,7 +11,7 @@ The following questions are designed to guide students in creating presentations
 
 ## 📗 10 Guiding questions
 
-### 1. What digital tool are you exploring, and what is its primary function? (Mendatory to answer in your presentation)
+### 1. What digital tool are you exploring, and what is its primary function? (📌 Mendatory to answer in your presentation)
 
 Provide a brief overview of the tool, mentioning its name, main features, and its purpose in English learning or teaching. Include a specific example of how it's used.
 
