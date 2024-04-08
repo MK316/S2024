@@ -4,6 +4,8 @@ The following questions are designed to guide students in creating presentations
 
 💙 Note: Among the guiding questions provided, **question 1 is mandatory**, and you should consider including answers to **at least 4 additional questions of your choice** in your presentation content. This approach ensures a well-rounded exploration of a digital tool's impact on English education, highlighting its practical application, advantages, user engagement, and future potential, among other aspects.
 
+[![Video link](https://img.youtube.com/vi/cQVTU4krsrQ/0.jpg)](https://www.youtube.com/watch?v=cQVTU4krsrQ)
+
 ### 1. What digital tool are you exploring, and what is its primary function?
 
 Provide a brief overview of the tool, mentioning its name, main features, and its purpose in English learning or teaching. Include a specific example of how it's used.
