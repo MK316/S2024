@@ -9,6 +9,8 @@ The following questions are designed to guide students in creating presentations
 
 [![Video link](https://img.youtube.com/vi/cQVTU4krsrQ/0.jpg)](https://www.youtube.com/watch?v=cQVTU4krsrQ)
 
+## 10 Guiding questions
+
 ### 1. What digital tool are you exploring, and what is its primary function?
 
 Provide a brief overview of the tool, mentioning its name, main features, and its purpose in English learning or teaching. Include a specific example of how it's used.
