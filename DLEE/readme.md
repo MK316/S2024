@@ -16,8 +16,8 @@ This course, designed for second-year college students, focuses on integrating d
 |W03|Mar.19|(Continued), [^1]Tools to share (Due 3/31)|🌀[Coding4ET: Lesson2](https://github.com/MK316/Coding4ET/blob/main/README.md)<br>🌀[Review](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/W03_Review.pdf)|Todo: see 🌺 [Class log](https://github.com/MK316/Spring2024/blob/main/log-dlee.md)|
 |W04|Mar.26|Basics of coding II: variables, functions|🌀[DLW02](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW02A.ipynb)|[Project 1 Guideline](https://github.com/MK316/Spring2024/blob/main/DLEE/project01.md)|
 |W05|Apr.2|Basics of coding III: data types, interactive process, TTS|🌀[DLW03](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW04.ipynb)||
-|W06|Apr.9|Basics of coding IV: simple applications, TTS|[DLW04](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW05.ipynb)|Group activity (1 hr)|
-|W07|Apr.16|Coding summary, Getting a live link using Gradio||Tools to share presentation (5 mins), [GuideQs](https://github.com/MK316/Spring2024/blob/main/DLEE/dlee-project01.md)|
+|W06|Apr.9|Basics of coding IV: simple applications, TTS|🌀[DLW03](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW04.ipynb)|Group activity (1 hr)|
+|W07|Apr.16|Coding summary, Getting a live link using Gradio|[DLW04](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW05.ipynb)|Tools to share presentation (5 mins), [GuideQs](https://github.com/MK316/Spring2024/blob/main/DLEE/dlee-project01.md)|
 |W08|Apr.23|Markdown language, review||||
 |W09|Apr.30|**_Midterm_**|[GA: Discussion forum]||
 |W10|May7|Markdown: Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation.||Individual project|
