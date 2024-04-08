@@ -17,7 +17,7 @@ This course, designed for second-year college students, focuses on integrating d
 |W04|Mar.26|Basics of coding II: variables, functions|🌀[DLW02](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW02A.ipynb)|[Project 1 Guideline](https://github.com/MK316/Spring2024/blob/main/DLEE/project01.md)|
 |W05|Apr.2|Basics of coding III: data types, interactive process, TTS|🌀[DLW03](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW04.ipynb)||
 |W06|Apr.9|Basics of coding IV: simple applications, TTS|[DLW04](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW05.ipynb)|Group activity (1 hr)|
-|W07|Apr.16|Coding summary, Getting a live link using Gradio||Tools to share presentation (5 mins)|
+|W07|Apr.16|Coding summary, Getting a live link using Gradio||Tools to share presentation (5 mins), [GuideQs](https://github.com/MK316/Spring2024/blob/main/DLEE/dlee-project01.md)|
 |W08|Apr.23|||||
 |W09|Apr.30|**_Midterm_**|[GA: Discussion forum]||
 |W10|May7|Markdown: Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation.||Individual project|
