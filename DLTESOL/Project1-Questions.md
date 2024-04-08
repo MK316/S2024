@@ -5,7 +5,7 @@ The following questions are designed to guide students in creating presentations
 💙 Note: Among the guiding questions provided, **question 1 is mandatory**, and you should consider including answers to **at least 4 additional questions of your choice** in your presentation content. This approach ensures a well-rounded exploration of a digital tool's impact on English education, highlighting its practical application, advantages, user engagement, and future potential, among other aspects.
 
 📌 Click the image to watch the video: ([Here's how to link youtube video on your md file](https://ardalis.com/how-to-embed-youtube-video-in-github-readme-markdown/))
-+ This video is generated at [https://steve.ai](https://steve.ai)
++ This video is generated using STEVE AI at [https://steve.ai](https://steve.ai)
 
 [![Video link](https://img.youtube.com/vi/cQVTU4krsrQ/0.jpg)](https://www.youtube.com/watch?v=cQVTU4krsrQ)
 
