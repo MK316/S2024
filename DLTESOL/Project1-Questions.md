@@ -1,4 +1,4 @@
-# 🌿 Guiding questions for digital tool investigation in English Education.
+# 🌿 10 Guideline questions for digital tool investigation in English Education.
 
 The following questions are designed to guide students in creating presentations that are not only informative but also practical, providing concrete examples and detailed instructions to vividly illustrate the potential uses and benefits of digital tools in English education.
 
