@@ -26,7 +26,7 @@ This course is designed for TESOL graduate students to equip them with critical 
 |W05|Apr.2|Topic [3] Python basics: data types, Interactive digital tools||[Lesson03b](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb), <br>[Lesson04](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|📗 [Coding4ET](https://github.com/MK316/Coding4ET/blob/main/README.md): variables, operators, functions|
 |W06|Apr.9|Topic [3] Python basics: datatypes, gTTS, Interactive digital tools||[Lesson03b](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson02.ipynb),<br>[Lesson04](https://github.com/MK316/Spring2024/blob/main/DLTESOL/CDL_Lesson03.ipynb)|[mini-project guideline questions](https://github.com/MK316/Spring2024/blob/main/DLTESOL/Project1-Questions.md)|
 |W07|Apr.16|Topic [4] Markdown md file handling, , Exploring Contemporary AI Tools, Learner-centered activities|📗 [manual](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown.md)||Mini project presentation (10 minutes),<br>[Rubric](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project1-rubric.md)|
-|W08|Apr.23|Review|Video will be uploaded||||
+|W08|Apr.23|Midterm recess|No class will be held during this time to allow students to prepare for the midterm exams||||
 |W09|Apr.30|Midterm|||||
 |W10|May 7|Topic [5] Learner-centered digital application<br>Topic [6] Application Design for Language Learning & Teaching; Guidelines for final project|||Mini project#2|
 |W11|May 14|Topic [6] Application Design for Language Learning & Teaching|Group activities|||
