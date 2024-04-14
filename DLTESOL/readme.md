@@ -28,7 +28,7 @@ This course is designed for TESOL graduate students to equip them with critical 
 |W07|Apr.16|Topic [4] Markdown md file handling, , Exploring Contemporary AI Tools, Learner-centered activities|📗 [Markdown manual](https://github.com/MK316/Coding4ET/blob/main/Lessons/markdown.md)|[Presentation video links](https://padlet.com/mirankim316/introduction-to-coding-and-language-app-design-tesol-spring--njwe895ytgl83hhu)|Mini project presentation (10 minutes),<br>[Rubric](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project1-rubric.md)|
 |W08|Apr.23|Midterm recess|No class will be held during this time to allow students to prepare for the midterm exams|A short review video will be uploaded||
 |W09|Apr.30|Midterm|||Midterm link will be here|
-|W10|May 7|Topic [5] Learner-centered digital application; Guidelines for final project|[Wordcloud](https://github.com/MK316/Spring2024/blob/main/DLTESOL/wordcloud.ipynb)||Mini project#2 design|
+|W10|May 7|Topic [5] Learner-centered digital application; Guidelines for final project|[wordcloud manual](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md)|[WC code](https://github.com/MK316/Spring2024/blob/main/DLTESOL/wordcloud.ipynb)|Mini project#2 design|
 |W11|May 14|Topic [6] Application Design for Language Learning & Teaching|Group activities|||
 |W12|May 21|Topic [7] Application Development for Language Learning & Teaching|Group activities||||
 |W13|May 28|Topic [7] Application Development for Language Learning & Teaching|Group activities||||
