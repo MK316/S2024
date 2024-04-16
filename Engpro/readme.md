@@ -19,6 +19,6 @@
 |W10||English stops|English consonants I||HW#3|
 |W11||English fricatives|English consonants II|||
 |W12||Consonant rules|English consonants III|||
-|W13||Rhythm|Consonant clusters, sound linking|||
+|W13||Rhythm|Consonant clusters, sound linking||HW#4|
 |W14|||Review|||
-|W15|||Final presentation: 3 minute presentation|||
+|W15|||Final presentation: 3 minute presentation||HW#5|
