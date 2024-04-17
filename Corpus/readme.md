@@ -16,7 +16,7 @@ This graduate-level course, designed for in-service English teachers at the seco
 |W04|Mar27|Project #1| NLTK, 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)|🔸[nltk](https://www.nltk.org/book/ch01.html)||
 |W05|Apr3|Lexical analysis|Type vs. token, lemmatization |[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/TTR-and-lemmatization.ipynb), 🔸[nltk](https://www.nltk.org/book/ch01.html)|[Assign01 (Apr17)](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
 |W06|(Apr10)|Keywords|Text analysis, Words in context, concordance, collocations|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Words_in_context.ipynb)||
-|W07|Apr17|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1],<br>[code](https://github.com/MK316/Spring2024/blob/main/Corpus/Lexical-Diversity.ipynb)|Assign1 Presentation (15mins)|
+|W07|Apr17|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1][^2][^3],<br>[code](https://github.com/MK316/Spring2024/blob/main/Corpus/Lexical-Diversity.ipynb)|Assign1 Presentation (15mins)|
 |W08|Apr24|lexical diversity measures|Midterm discussion|||
 |W09|(May1)|Midterm |(take-home)|||
 |W10|May8|Readability, Topic-modeling| Readability measures, NLP preprocessing, topic-modeling|[Code1](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability.ipynb), <br>[Code2](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
@@ -79,3 +79,5 @@ This graduate-level course, designed for in-service English teachers at the seco
 
 ---
 [^1]: Reference reading for lexical diversity of KSAT reading passages [link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002898744#none)
+[^2]: 'Back to basics: how measures of lexical diversity can help discriminate between CEFR levels'[link](https://core.ac.uk/download/pdf/42153994.pdf)
+[^3]: 'MTLD, vocd-D, and HD-D: A validation study of sophisticated approaches to lexical diversity assessment' [link](https://www.researchgate.net/publication/44608173_MTLD_vocd-D_and_HD-D_A_validation_study_of_sophisticated_approaches_to_lexical_diversity_assessment)
