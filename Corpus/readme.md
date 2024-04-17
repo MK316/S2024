@@ -17,9 +17,9 @@ This graduate-level course, designed for in-service English teachers at the seco
 |W05|Apr3|Lexical analysis|Type vs. token, lemmatization |[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/TTR-and-lemmatization.ipynb), 🔸[nltk](https://www.nltk.org/book/ch01.html)|[Assign01 (Apr17)](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
 |W06|(Apr10)|Keywords|Text analysis, Words in context, concordance, collocations|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Words_in_context.ipynb)||
 |W07|Apr17|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1],<br>[code](https://github.com/MK316/Spring2024/blob/main/Corpus/Lexical-Diversity.ipynb)|Assign1 Presentation (15mins)|
-|W08|Apr24|Midterm|Mini-project|||
-|W09|(May1)|Readability|Readability measures|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability.ipynb)||
-|W10|May8|Topic-modeling| NLP preprocessing, topic-modeling|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
+|W08|Apr24|lexical diversity measures|Midterm discussion|||
+|W09|(May1)|Midterm (take-home)||||
+|W10|May8|Readability, Topic-modeling| Readability measures, NLP preprocessing, topic-modeling|[Code1](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability.ipynb), <br>[Code2](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
 |W11|(May15)|Sentiment Analysis|Data collection, Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentAnalysis.ipynb)||
 |W12|May22|Clustering Analysis|Data collection, Clustering Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
 |W13|May29|Project #2|Idea brainstorming, individual project discussions, samples|||
