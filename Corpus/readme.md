@@ -20,7 +20,7 @@ This graduate-level course, designed for in-service English teachers at the seco
 |W08|Apr24|lexical diversity measures|Midterm discussion|[LD-practice](https://github.com/MK316/Spring2024/blob/main/Corpus/LD_practice.ipynb),<br>[N-gramCode](https://github.com/MK316/Spring2024/blob/main/Corpus/Words_in_context.ipynb)||
 |W09|(May1)|Midterm |(take-home)|||
 |W10|May8|Readability, Topic-modeling| Readability measures, NLP preprocessing, topic-modeling|[Readability](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability01.ipynb)|Reading discussion|
-|W11|(May15)|Sentiment Analysis|Data collection, Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentAnalysis.ipynb)||
+|W11|(May15)|Sentiment Analysis|Data collection, Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentAnalysis.ipynb)| Individual project submission|
 |W12|May22|Clustering Analysis|Data collection, Clustering Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)||
 |W13|May29|Project #2|Idea brainstorming, individual project discussions, samples|||
 |W14|June5|Project #3|individual project discussions, samples|||
