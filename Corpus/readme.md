@@ -15,9 +15,9 @@ This graduate-level course, designed for in-service English teachers at the seco
 |W03|Mar20|Python basics #2|Data types, NLTK (section 1)|🔸[nltk](https://www.nltk.org/book/ch01.html), [NLTK01](https://github.com/MK316/Spring2024/blob/main/Corpus/NLTK01.ipynb)||
 |W04|Mar27|Project #1| NLTK, 🔸[Word cloud](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), 🔸[Word Frequency list](https://github.com/MK316/Spring2024/blob/main/Corpus/NLP01.ipynb)|🔸[nltk](https://www.nltk.org/book/ch01.html)||
 |W05|Apr3|Lexical analysis|Type vs. token, lemmatization |[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/TTR-and-lemmatization.ipynb), 🔸[nltk](https://www.nltk.org/book/ch01.html)|[Assign01 (Apr17)](https://github.com/MK316/Spring2024/blob/main/Corpus/assignment/assign01.md)|
-|W06|(Apr10)|Keywords|Text analysis, Words in context, concordance, collocations|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/Words_in_context.ipynb)||
+|W06|(Apr10)|Keywords|Text analysis, Words in context, concordance, collocations|[NgramCode](https://github.com/MK316/Spring2024/blob/main/Corpus/Words_in_context.ipynb)||
 |W07|Apr17|Lexical diversity|Type-Token-Ratio (TTR) and other lexical diversity measures|Reading[^1][^2][^3],<br>[wordlist-stopwords](https://github.com/MK316/Spring2024/blob/main/Corpus/NLTK_FreqList.ipynb),<br>[code](https://github.com/MK316/Spring2024/blob/main/Corpus/Lexical-Diversity.ipynb)|Assign1 Presentation (15mins)|
-|W08|Apr24|lexical diversity measures|Midterm discussion|||
+|W08|Apr24|lexical diversity measures|Midterm discussion|[N-gramCode](https://github.com/MK316/Spring2024/blob/main/Corpus/Words_in_context.ipynb)||
 |W09|(May1)|Midterm |(take-home)|||
 |W10|May8|Readability, Topic-modeling| Readability measures, NLP preprocessing, topic-modeling|[Code1](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability.ipynb), <br>[Code2](https://github.com/MK316/Spring2024/blob/main/Corpus/ClusterAnalysis.ipynb)|Reading discussion|
 |W11|(May15)|Sentiment Analysis|Data collection, Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentAnalysis.ipynb)||
