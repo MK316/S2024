@@ -28,7 +28,7 @@ This course, designed for second-year college students, focuses on integrating d
 |W15|June11|**_Final_**|_Project presentation_|||
 
 ## Course Evaluation
-
+[💛](https://forms.gle/3X85GacUzUHEq9GXA)
 |Category| Weight|
 |:--:|:--:|
 |Attendance & Class participation| 10% |
