@@ -19,7 +19,7 @@ This course, designed for second-year college students, focuses on integrating d
 |W06|Apr.9|Basics of coding IV: simple applications, TTS|🌀[DLW03](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW04.ipynb)|Group activity (1 hr)|
 |W07|Apr.16|Coding summary, Getting a live link using Gradio|[DLW04](https://github.com/MK316/Spring2024/blob/main/DLEE/DLW05.ipynb)|Tools to share presentation (5 mins), [GuideQs](https://github.com/MK316/Spring2024/blob/main/DLEE/dlee-project01.md)|
 |W08|Apr.23|Markdown language, review||[EVAL](https://forms.gle/iFtXn62b9Df8pyT16)|
-|W09|Apr.30|**_Midterm_**|[GA: Discussion forum]||
+|W09|Apr.30|**_Midterm_**|[GA: Discussion forum]|[Codebook](https://github.com/MK316/DL/blob/main/Codebook.ipynb)|
 |W10|May7|Markdown: Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation.||Individual project|
 |W11|May14|Multimedia and English Learning <br> Using videos and podcasts for language improvement <br> Creating multimedia content in English, (group activities)|||
 |W12|May21|Final project preview (inclass presentation)|||
