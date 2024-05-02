@@ -28,7 +28,7 @@ from transformers import pipeline
 ```
 
 ### 2. Load a Pre-trained Model: 
-We'll use a pre-trained model for language translation. For example, let's use the MarianMT model for translation.
+We'll use a pre-trained model for language translation. For example, let's use the MarianMT model[^1] for translation.
 
 ```
 translator = pipeline("translation_en_to_fr")
@@ -57,6 +57,9 @@ Once your app is running, try entering different English texts to see how well i
 
 ## Step 5: Deploying Your App (Optional)
 If you want to share your app with others, you can deploy it on platforms like Heroku or PythonAnywhere. Gradio provides easy-to-use deployment options to streamline this process.
+
+---
+[^1]: The MarianMT model is a machine translation model developed by the Marian Neural Machine Translation team. 
 
 
 
