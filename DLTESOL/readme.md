@@ -39,7 +39,7 @@ This course is designed for TESOL graduate students to equip them with critical 
 
 [💛]
 [💙]
-[CB](https://github.com/MK316/DL/blob/main/Codebook.ipynb)
+[CB]
 
 ## Class tools (supplementary; To be updated)
 
