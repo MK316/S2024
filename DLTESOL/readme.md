@@ -29,9 +29,9 @@ This course is designed for TESOL graduate students to equip them with critical 
 |W08|Apr.23|Midterm recess|No class will be held during this time to allow students to prepare for the midterm exams|A short guideline video will be uploaded|
 |W09|Apr.30|Midterm |[ZOOM meeting](https://gnu-ac-kr.zoom.us/my/englishedu.gnu)||[GoogleForm]<br>[QR]<br>[Codebook]|
 |W10|May 7|Topic [5] Learner-centered digital application; Guidelines for final project|[wordcloud manual](https://github.com/MK316/Spring2024/blob/main/Corpus/wordcloud.md), [🎯APP](https://mrkim21.github.io/appfolder/wordcloud.html)|[1.WC code](https://github.com/MK316/Spring2024/blob/main/DLTESOL/wordcloud.ipynb), [2.Wordlist](https://github.com/MK316/Spring2024/blob/main/DLTESOL/NLTK_FreqList.ipynb)|Mini project#2 design|
-|W11|May 14|Topic [6] Application Design for Language Learning & Teaching|Group activities|||
-|W12|May 21|Topic [7] Application Development for Language Learning & Teaching|Group activities||||
-|W13|May 28|Topic [7] Application Development for Language Learning & Teaching|Group activities||||
+|W11|May 14|Topic [6] Application Design for Language Learning & Teaching|[Hugging Face](https://github.com/MK316/Class_Spring2022/blob/main/AppDesignIntro01.ipynb)||Group activities|
+|W12|May 21|Topic [7] Application Development for Language Learning & Teaching|||Group activities|
+|W13|May 28|Topic [7] Application Development for Language Learning & Teaching|Group activities|||Group activities|
 |W14|June 4|Topic [8] TBA (Ethical Considerations)|||||
 |W15|June 11|Language Learning Applications |||Final project discussion|
 |W16|June 18|(Final presentation)|||Final project|
