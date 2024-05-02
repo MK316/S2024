@@ -1,4 +1,4 @@
-# Designing a language app using Python coding, Gradio, and Hugging Face
+# 🌿 Designing a language app using Python coding, Gradio, and Hugging Face
 
 
 ## Step 1: Setting Up Your Environment
@@ -58,7 +58,7 @@ Once your app is running, try entering different English texts to see how well i
 ## Step 5: Deploying Your App (Optional)
 If you want to share your app with others, you can deploy it on platforms like Heroku or PythonAnywhere. Gradio provides easy-to-use deployment options to streamline this process.
 
----
+
 [^1]: The MarianMT model is a machine translation model developed by the Marian Neural Machine Translation team. 
 
 
