@@ -27,7 +27,7 @@ It would have been great to showcase more specific examples of learning material
 |R13|	Thank you for presenting in my absence!|
 |R14|	I understand what this is, and it is useful to release stress when beginners practice English, but it would be more efficient if they showed the various ways to adjust it to classes.|
 
-## [3] Evaulation scores (G1 = 4.66 on average)
+## [3] Evaulation scores (G1: The average of five items is 4.66 on.)
 
 ### Radar plot
 ![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/radar-total.png)
