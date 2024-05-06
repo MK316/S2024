@@ -6,7 +6,7 @@ In this project, the group introduced a digital app for creating stories. It's a
 
 ## [1] Visual summary of the Peer comments (14 cases in total)
 
-![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/WC02.png)
+![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/WCG2.png)
 
 ## [2] Individual Comments from peers
 
