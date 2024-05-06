@@ -32,4 +32,6 @@ It would have been great to showcase some examples of learning materials created
 ### Radar plot
 ![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/radar-total.png)
 
+![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/radar-G1.png)
+
 
