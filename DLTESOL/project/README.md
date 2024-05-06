@@ -5,7 +5,7 @@
 + For example, consider various activities such as teaching vocabulary, learning expressions, explaining grammar, reading aloud, writing reviews, and quizzes.
 
 ## 🍃 Final presentation (6/11, 6/18)
-+ Duration: max. 40 minutes (20 minutes presentation + 10 minutes Q&A + 10 minutes evaluation)
++ Duration: (max.) 40 minutes (20 minutes presentation + 10 minutes Q&A + 10 minutes evaluation)
 + Format: Each group presents their developed app and its relevance to learning English through text. 
 + Content: Include learning objectives, detailed app features, demonstration, shared link for the audience, expected timeframes for activities, types of activities, instructions for use, etc.
 + Q&A Session: Allow for questions from the audience to clarify any aspects of the presented apps.
