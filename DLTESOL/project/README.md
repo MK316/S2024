@@ -20,9 +20,9 @@
 
 ## 📙 Submission format (md files)
 
-### [1] Create a repository named 'G1-finalproject' (PM). Under this repository:  
+### [1] Create a repository named 'G1-finalproject' (PM). 
 _Note that you should add me as a collaborator to this repository._
-### [2] Create files:
+### [2] Under this repository, create the following files:
 
 1. Create a readme.md file. This is the main page of your project: PM
 2. Create link(s) of your Coding pages in the main page  (.ipynb): 2 Coders
