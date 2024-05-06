@@ -1,4 +1,4 @@
-# Voki in Class (review)
+# 💙 Voki in Class (review)
 
 Voki seems to be a highly useful learning tool because it allows for the use of visual avatars and generates voice, plus you can create presentations directly within the app. However, since it offers a lot of features, it seems like the real benefits would come with a paid subscription. So, let's keep questioning what parts of this app can be utilized through coding, and also explore alternative methods or approaches that may not offer the exact same features but could still yield similar effects.
 
