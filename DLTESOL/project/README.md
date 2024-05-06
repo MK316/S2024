@@ -4,7 +4,8 @@
 + The language objectives include four language skills: reading, writing, speaking, and listening. You can choose from these to structure your learning activities.
 + For example, consider various activities such as teaching vocabulary, learning expressions, explaining grammar, reading aloud, writing reviews, and quizzes.
 
-## 🍃 Final presentation (6/11, 6/18) [Scheduling](https://wheelofnames.com/)
+## 🍃 Final presentation (6/11, 6/18) 
++[Schedule: Go to](https://wheelofnames.com/)
 
 |Date|Groups|Text material|
 |--|--|--|
