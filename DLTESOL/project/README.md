@@ -44,6 +44,7 @@ In a small coastal town, the aging lighthouse keeper, Mr. Elias, and his grandso
 |Category|Question|Pts available|
 |--|--|--|
 |**Alignment**| How well does the app align with the specified learning objectives?|6|
+|**Integration**| How well does the app incorporate various language learning aspects, rather than just providing simple activities?|6|
 |**Engagement**| To what extent does the app facilitate student-centered activities?|3|
 |**Stimulation**| How effectively does the app stimulate interest and motivation for learning?|3|
 |**Support**| Is there sufficient and appropriate guidance provided within the app for student use?|3|
