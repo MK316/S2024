@@ -4,6 +4,10 @@ Voki seems to be a highly useful learning tool because it allows for the use of 
 
 It would have been great to showcase some examples of learning materials created using Voki, so the audience could see them even outside of the presentation time. Also, considering the app is in English, it's worth discussing whether it's accessible to students at their proficiency level and analyzing specifically what language skills students might develop through this activity.
 
+## Visual summary of the Peer comments
+
+![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/WC01.png)
+
 ## Comments from peers
 
 |Response	|Comments|
