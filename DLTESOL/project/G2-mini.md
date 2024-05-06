@@ -27,7 +27,7 @@ In this project, the group introduced a digital app for creating stories. It's a
 |R13|	Great video!|
 |R14|	Through this, students can get an opportunity to get used to online tools ,and it looks fun making their own stories!|
 
-## [3] Evaulation scores (4.73 on average)
+## [3] Evaulation scores (G2 = 4.73 on average)
 
 ### Radar plot
 ![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/radar-total.png)
