@@ -21,7 +21,7 @@ It would have been great to showcase some examples of learning materials created
 |R11|	It was good, however for the young learners, giving concrete time might make the students nervous (e.g. discourse marker)|
 |R12|	It was good to know. Thank you for your nice presentation.|
 |R13|	Thank you for presenting in my absence!|
-|R14|	I understand what this is, and it is useful to release stress when beginners practice English, but it would be more efficient if they showed the various ways to adjust it to classes.![image](https://github.com/MK316/Spring2024/assets/99416359/2822e26d-079c-49a2-983f-15ca83bc5490)|
+|R14|	I understand what this is, and it is useful to release stress when beginners practice English, but it would be more efficient if they showed the various ways to adjust it to classes.|
 
 
 
