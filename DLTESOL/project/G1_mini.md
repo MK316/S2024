@@ -6,7 +6,7 @@ It would have been great to showcase some examples of learning materials created
 
 ## [1] Visual summary of the Peer comments (14 cases in total)
 
-![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/WC01.png)
+![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/WCG1.png)
 
 ## [2] Individual Comments from peers
 
