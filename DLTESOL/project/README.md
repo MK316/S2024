@@ -1,11 +1,11 @@
-# Final project
+# 🌿 Final project
 
 + The final project involves each group designing a class using provided materials and planning creative activities. Throughout the process, various digital tools must be used, with **each group required to use at least two coding apps.** The texts are middle school-level story materials, which will be assigned to each group.
 + The language objectives include four language skills: reading, writing, speaking, and listening. You can choose from these to structure your learning activities.
 + For example, consider various activities such as teaching vocabulary, learning expressions, explaining grammar, reading aloud, writing reviews, and quizzes.
 
 
-## Story text
+## 📗 Story text
 Each group will select one of the following four stories to proceed with their final project.
 
 ![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/stories.png)
@@ -39,7 +39,7 @@ In a quaint village surrounded by rolling hills, young Tom struggled with the to
 **<Synopsis>**
 In a small coastal town, the aging lighthouse keeper, Mr. Elias, and his grandson, Jamie, faced a crisis when the town council decided to replace the old lighthouse lamp with a modern electronic navigation system. During a fierce storm, the new system failed, jeopardizing the safety of ships at sea. In desperation, Elias handed Jamie an old lantern to signal the ships, a dim but steadfast light. Jamie's brave effort with the lantern successfully guided a ship to safety, proving the old lighthouse's worth. The council restored and enhanced the lighthouse, learning the value of blending tradition with innovation. Inspired, Jamie eventually became the lighthouse keeper, merging old and new navigational methods to ensure the lighthouse remained a reliable beacon. This story underscored the enduring importance of wisdom and tradition in modern times.
 
-## Evaluation criteria (35 pts in total)
+## 🍃 Evaluation criteria (35 pts in total)
 
 |Category|Question|Pts available|
 |--|--|--|
