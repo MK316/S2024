@@ -18,7 +18,7 @@
 + Content: Include learning objectives, detailed app features, demonstration, shared link for the audience, expected timeframes for activities, types of activities, instructions for use, etc.
 + Q&A Session: Allow for questions from the audience to clarify any aspects of the presented apps.
 
-## Submission format (md files)
+## 📙 Submission format (md files)
 
 Create a repository named 'G1-finalproject' (PM). Under this repository:
 
