@@ -43,8 +43,8 @@ In a small coastal town, the aging lighthouse keeper, Mr. Elias, and his grandso
 
 |Category|Question|Pts available|
 |--|--|--|
-|**Alignment**| How well does the app align with the specified learning objectives?|6|
-|**Integration**| How well does the app incorporate various language learning aspects, rather than just providing simple activities?|6|
+|**Alignment**| How well does the app align with the specified learning objectives?|5|
+|**Integration**| How well does the app incorporate various language learning aspects, rather than just providing simple activities?|5|
 |**Engagement**| To what extent does the app facilitate student-centered activities?|3|
 |**Stimulation**| How effectively does the app stimulate interest and motivation for learning?|3|
 |**Support**| Is there sufficient and appropriate guidance provided within the app for student use?|3|
@@ -52,8 +52,8 @@ In a small coastal town, the aging lighthouse keeper, Mr. Elias, and his grandso
 |**Interaction**| Do the learning activities actively engage students?|3|
 |**Autonomy**| How does the app support students in conducting activities independently?|3|
 |**Adaptability**| Does the app accommodate learning at various proficiency levels?|3|
-|**Presentation**|How clear and understandable are the visual and textual presentations in the app?|3|
-
+|**Presentation**| How clear and understandable are the visual and textual presentations in the app?|3|
+|**Contribution**| How effectively did each group member contribute to the overall task? (PM, Coder, MD)|3|
 
 
 
