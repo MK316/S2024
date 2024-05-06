@@ -1,4 +1,5 @@
 # 🌿 Final project
+_The project plan is subject to change based on suggestions or necessary adjustments over time._
 
 + The final project involves each group designing a class using provided materials and planning creative activities. Throughout the process, various digital tools must be used, with **each group required to use at least two coding apps.** The texts are middle school-level story materials, which will be assigned to each group.
 + The language objectives include four language skills: reading, writing, speaking, and listening. You can choose from these to structure your learning activities.
