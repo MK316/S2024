@@ -39,6 +39,19 @@ In a quaint village surrounded by rolling hills, young Tom struggled with the to
 **<Synopsis>**
 In a small coastal town, the aging lighthouse keeper, Mr. Elias, and his grandson, Jamie, faced a crisis when the town council decided to replace the old lighthouse lamp with a modern electronic navigation system. During a fierce storm, the new system failed, jeopardizing the safety of ships at sea. In desperation, Elias handed Jamie an old lantern to signal the ships, a dim but steadfast light. Jamie's brave effort with the lantern successfully guided a ship to safety, proving the old lighthouse's worth. The council restored and enhanced the lighthouse, learning the value of blending tradition with innovation. Inspired, Jamie eventually became the lighthouse keeper, merging old and new navigational methods to ensure the lighthouse remained a reliable beacon. This story underscored the enduring importance of wisdom and tradition in modern times.
 
+## Evaluation criteria
+
+|Category|Question|Pts available|
+|--|--|--|
+|**Alignment**| How well does the app align with the specified learning objectives?|6|
+|**Engagement**| To what extent does the app facilitate student-centered activities?|3|
+|**Stimulation**| How effectively does the app stimulate interest and motivation for learning?|3|
+|**Support**| Is there sufficient and appropriate guidance provided within the app for student use?|3|
+|**Accessibility**| How easily can students access the app?|3|
+|**Interaction**| Do the learning activities actively engage students?|3|
+|**Autonomy**| How does the app support students in conducting activities independently?|3|
+|**Adaptability**| Does the app accommodate learning at various proficiency levels?|3|
+|**Presentation**|How clear and understandable are the visual and textual presentations in the app?|3|
 
 
 
