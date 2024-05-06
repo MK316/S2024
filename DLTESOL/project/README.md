@@ -5,7 +5,7 @@
 + For example, consider various activities such as teaching vocabulary, learning expressions, explaining grammar, reading aloud, writing reviews, and quizzes.
 
 ## 🍃 Final presentation (6/11, 6/18) 
-+[Schedule: Go to](https://wheelofnames.com/)
++ [Schedule: Go to](https://wheelofnames.com/)
 
 |Date|Groups|Text material|
 |--|--|--|
