@@ -45,6 +45,8 @@ _Note that you should add me as a collaborator to this repository._
 |**Presentation**| How clear and understandable are the visual and textual presentations in the app?|3|
 |**Contribution**| How effectively did each group member contribute to the overall task? (PM, Coder, MD)|3|
 
+*Note: There will be a self-evaluation expression individuals' contribution on the overall activities over the course. All combined, your final grade for the project will be determined.
+
 ## 📗 Story text
 Each group will select one of the following four stories to proceed with their final project.
 
