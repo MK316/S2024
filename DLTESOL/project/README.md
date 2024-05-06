@@ -6,7 +6,7 @@
 
 ## 🍃 Final presentation (6/11, 6/18) [Scheduling](https://wheelofnames.com/)
 
-|Date|Groups|Text|
+|Date|Groups|Text material|
 |--|--|--|
 |6/11||Story01; Story02|
 |6/18||Story03; Story04|
