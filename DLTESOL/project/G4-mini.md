@@ -25,7 +25,7 @@ This group used an artificial intelligence digital tool for video production, wh
 |R13|I love how you showed how to integrate more than one digital tool!	|
 |R14|One thing different from others is they tried to integrate various tools to organize a class. It's clear to understand, but using chat GPT4 would not be easy to use it right now because we have to pay for it.	|
 
-## [3] Evaulation scores
+## [3] Evaulation scores (G4 = 4.76 on average)
 
 ### Radar plot
 ![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/radar-total.png)
