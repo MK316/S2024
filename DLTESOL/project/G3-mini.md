@@ -26,7 +26,7 @@ As interesting as the app was, there were many questions and there were desires 
 |R13|I've used this tool before so it was interesting to see how another group would use it. It's great for interactive content in the classroom!	|
 |R14|At first, it was a little bit unclear about how to use it, but that looks nice tool for organizing classes and I'd like to try it in my class some day.|
 
-## [3] Evaulation scores
+## [3] Evaulation scores (G3 = 4.54 on average)
 
 ### Radar plot
 ![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/radar-total.png)
