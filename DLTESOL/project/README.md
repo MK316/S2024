@@ -8,8 +8,8 @@
 
 |Date|Groups|Text|
 |--|--|--|
-|6/11||Story01, Story02|
-|6/18||Story03, Story04|
+|6/11||Story01; Story02|
+|6/18||Story03; Story04|
 
 + Duration: (max.) 40 minutes (20 minutes presentation + 10 minutes Q&A + 10 minutes evaluation)
 + Format: Each group presents their developed app and its relevance to learning English through text. 
