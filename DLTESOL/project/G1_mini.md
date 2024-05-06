@@ -2,7 +2,7 @@
 
 Voki seems to be a highly useful learning tool because it allows for the use of visual avatars and generates voice, plus you can create presentations directly within the app. However, since it offers a lot of features, it seems like the real benefits would come with a paid subscription. So, let's keep questioning what parts of this app can be utilized through coding, and also explore alternative methods or approaches that may not offer the exact same features but could still yield similar effects.
 
-It would have been great to showcase some examples of learning materials created using Voki, so the audience could see them even outside of the presentation time. Also, considering the app is in English, it's worth discussing whether it's accessible to students at their proficiency level and analyzing specifically what language skills students might develop through this activity.
+It would have been great to showcase more specific examples of learning materials created using Voki, so the audience could see them even outside of the presentation time. Also, considering the app is in English, it's worth discussing whether it's accessible to students at their proficiency level and analyzing specifically what language skills students might develop through this activity.
 
 ## [1] Visual summary of the Peer comments (14 cases in total)
 
