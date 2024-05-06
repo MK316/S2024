@@ -1,4 +1,4 @@
-# We Made a Story (review)
+# 💙 We Made a Story (review)
 
 Overall, the group provided an interesting presentation and a video. It was a good opportunity for everyone to be introduced to a nice digital tool for teachers and students:-)
 
@@ -6,7 +6,7 @@ In this project, the group introduced a digital app for creating stories. It's a
 
 ## [1] Visual summary of the Peer comments (14 cases in total)
 
-![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/WC01.png)
+![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/WC02.png)
 
 ## [2] Individual Comments from peers
 
