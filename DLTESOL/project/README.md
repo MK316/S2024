@@ -6,6 +6,7 @@
 
 ## 🍃 Final presentation (6/11, 6/18) 
 + [Schedule: Go to](https://wheelofnames.com/)
++ Class demo: This is a demonstration where you explain how a class is conducted (with concrete examples) to the audience rather than directly teaching the class. In our presentation, the audience consists of fellow teachers, so you just need to summarize as specifically as possible what kind of class is possible with your language applications.
 
 |Date|Groups|Text material|
 |--|--|--|
@@ -17,6 +18,13 @@
 + Content: Include learning objectives, detailed app features, demonstration, shared link for the audience, expected timeframes for activities, types of activities, instructions for use, etc.
 + Q&A Session: Allow for questions from the audience to clarify any aspects of the presented apps.
 
+## Submission format (md files)
+
+Create a repository named 'G1-finalproject' (PM). Under this repository:
+
+1. Create a readme.md file. This is the main page of your project: PM
+2. Create link(s) of your Coding pages in the main page  (.ipynb): 2 Coders
+3. Create link(s) of your lesson plan details (lesson.md): MD
   
 ## 🍃 Evaluation Criteria Guideline (35 pts in total)
 
