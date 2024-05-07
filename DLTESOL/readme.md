@@ -37,10 +37,6 @@ This course is designed for TESOL graduate students to equip them with critical 
 |W16|June 18|(Final presentation)|Group3, Group2||Final project|
 
 
-[💛]
-[💙]
-[CB]
-
 ## Class tools (supplementary; To be updated)
 
 
