@@ -7,29 +7,28 @@ _This project plan might change depending on any suggestions or adjustments we n
 + To make this presentation more engaging, let's **assign roles**: One of the members should be **the main presenter**, taking the audience through the content; we'll have **a teacher role**, who can provide insights and answer questions, demonstrating instructions for specific activities; and we'll also have **two students roles**, who can actively participate in the given activities, raise potential questions, and share their perspectives. This way, we can ensure that everyone is involved and that we get diverse viewpoints on the topic. (Decide on role assignments within your groups.)
   
 ## 🍃 Final presentation (6/11, 6/18) 
-+ [Scheduling](https://wheelofnames.com/)
++ 🎈Todo [Scheduling](https://wheelofnames.com/)
 + Class demo: This is a demonstration where you explain how a class is conducted (with concrete examples) to the audience rather than directly teaching the class. In our presentation, the audience consists of fellow teachers, so you just need to summarize as specifically as possible what kind of class is possible with your language applications.
 
 |Date|Groups|Text material|
 |--|--|--|
-|6/11||Story01; Story02|
-|6/18||Story03; Story04|
+|6/11|🎈|Story01; Story02|
+|6/18|🎈|Story03; Story04|
 
 + Duration: (max.) 30 minutes (20 minutes presentation + 10 minutes Q&A). There'll be a 5 minutes evaluation break afterward.
 + Format: Each group presents their developed app and its relevance to learning English through text. 
-+ Content: Include learning objectives, detailed app features, demonstration, shared link for the audience, expected timeframes for activities, types of activities, instructions for use, etc.
-+ Choose a story (Six story texts are provided. See below)
++ Content: Include learning objectives, detailed app features and demonstration, shared a live link (e.g., gradio) for the audience, expected timeframes for activities, types of activities, instructions for use, etc.
 + Q&A Session: Allow for questions from the audience to clarify any aspects of the presented apps.
 
 ## 📙 Submission format (md files)
 
-### [1] Create a repository named 'G1-finalproject' (PM). 
+### [1] 🎈Create a repository named 'G1-finalproject' (PM). (Don't foreget to check 'README.md' file to create.
 _Note that you should add me as a collaborator to this repository._
-### [2] Under this repository, create the following files:
+### [2] 🎈Under this repository, create the following files:
 
-1. Create a readme.md file. This is the main page of your project: PM
+1. README.md file is the main page of your project: PM
 2. Create link(s) of your Coding pages in the main page  (.ipynb): 2 Coders
-3. Create link(s) of your lesson plan details (lesson.md): MD
+3. Optionally: If you want, create link(s) of your lesson plan details separately (e,g, lesson.md; markdown file): MD
   
 ## 🍃 Evaluation Criteria Guideline (35 pts in total)
 
@@ -47,7 +46,7 @@ _Note that you should add me as a collaborator to this repository._
 |**Presentation**| How clear and understandable are the visual and textual presentations in the app?|3|
 |**Contribution**| How effectively did each group member contribute to the overall task? (PM, Coder, MD)|3|
 
-*Note: There will be a self-evaluation expressing individuals' contribution on the overall activities over the course. All combined, your final grade for the project will be determined.
+**Note**: Lastly, you will submit a personal evaluation essay (about one paragraph). You'll be asked to include the percentage of your contribution and the contributions of other members related to group activities.
 
 ## 📗 Story text
 Each group will select one of the following four stories to proceed with their final project.
