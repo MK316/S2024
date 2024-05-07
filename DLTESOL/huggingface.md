@@ -1,6 +1,6 @@
 # Hugging Face (An AI model platform)
 
-Hugging Face is a transformative tool in artificial intelligence that offers an extensive library of pre-trained models and a collaborative platform for developers to enhance and deploy natural language processing applications.
+Hugging Face is a transformative tool in artificial intelligence that offers an extensive library of pre-trained models and a collaborative platform **for developers to enhance and deploy natural language processing applications.**
 
 + Hugging Face is a technology company specializing in natural language processing (NLP) and artificial intelligence (AI). It has gained prominence for its innovative contributions to the field, particularly through its **open-source library**, Transformers. This library offers state-of-the-art **pre-trained models** that can perform a wide range of NLP tasks, such as text classification, translation, and summarization.
 
