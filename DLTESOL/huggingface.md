@@ -1,4 +1,5 @@
 # Hugging Face (An AI model platform)
 
 ### Video to watch
-![](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+
+[![Generative AI in a nutshell](thumbnail_image_url)](https://www.youtube.com/watch?v=2IK3DFHRFfw)
