@@ -7,7 +7,7 @@ _This project plan might change depending on any suggestions or adjustments we n
 + To make this presentation more engaging, let's **assign roles**: One of the members should be **the main presenter**, taking the audience through the content; we'll have **a teacher role**, who can provide insights and answer questions, demonstrating instructions for specific activities; and we'll also have **two students roles**, who can actively participate in the given activities, raise potential questions, and share their perspectives. This way, we can ensure that everyone is involved and that we get diverse viewpoints on the topic. (Decide on role assignments within your groups.)
   
 ## 🍃 Final presentation (6/11, 6/18) 
-+ Choose a story (Six story texts are provided. See below)
++ [Scheduling](https://wheelofnames.com/)
 + Class demo: This is a demonstration where you explain how a class is conducted (with concrete examples) to the audience rather than directly teaching the class. In our presentation, the audience consists of fellow teachers, so you just need to summarize as specifically as possible what kind of class is possible with your language applications.
 
 |Date|Groups|Text material|
@@ -18,6 +18,7 @@ _This project plan might change depending on any suggestions or adjustments we n
 + Duration: (max.) 40 minutes (20 minutes presentation + 10 minutes Q&A + 10 minutes evaluation)
 + Format: Each group presents their developed app and its relevance to learning English through text. 
 + Content: Include learning objectives, detailed app features, demonstration, shared link for the audience, expected timeframes for activities, types of activities, instructions for use, etc.
++ Choose a story (Six story texts are provided. See below)
 + Q&A Session: Allow for questions from the audience to clarify any aspects of the presented apps.
 
 ## 📙 Submission format (md files)
@@ -51,7 +52,9 @@ _Note that you should add me as a collaborator to this repository._
 ## 📗 Story text
 Each group will select one of the following four stories to proceed with their final project.
 
-![](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/stories-all.png)
+
+
+![](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/stories.png)
 
 [characters](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/characters.png)
 ### Story 1: The Tree of Dreams 
@@ -83,20 +86,6 @@ In a quaint village surrounded by rolling hills, young Tom struggled with the to
 **<Synopsis>**
 In a small coastal town, the aging lighthouse keeper, Mr. Elias, and his grandson, Jamie, faced a crisis when the town council decided to replace the old lighthouse lamp with a modern electronic navigation system. During a fierce storm, the new system failed, jeopardizing the safety of ships at sea. In desperation, Elias handed Jamie an old lantern to signal the ships, a dim but steadfast light. Jamie's brave effort with the lantern successfully guided a ship to safety, proving the old lighthouse's worth. The council restored and enhanced the lighthouse, learning the value of blending tradition with innovation. Inspired, Jamie eventually became the lighthouse keeper, merging old and new navigational methods to ensure the lighthouse remained a reliable beacon. This story underscored the enduring importance of wisdom and tradition in modern times.
 
-### Story 5: The Lighthouse Keeper’s Lantern 
-+ [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLEE/Project/story05.txt)
-+ [image link](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/Story05.png)
-
-**<Synopsis>**
-In the small town of Willow Creek, four friends discover an ancient map in a library book that leads them to the fabled Cave of Whispers. Eager for adventure, they embark on a journey through the forest to find the cave, which is rumored to contain a hidden treasure. Inside the cave, they uncover a chest filled with jewels and a poignant message emphasizing that the true treasure is the journey and the friendships formed along the way. Realizing the value of their experience, they decide to leave the treasure for future adventurers, returning home enriched by their adventure and the unbreakable bonds they've strengthened.
-
-### Story 6: The Circle of Discovery 
-+ [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLEE/Project/story06.txt)
-+ [image link](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/Story06.png)
-
-**<Synopsis>**
-
-In ancient Baghdad, young scholar Idris discovers the concept of zero ("śūnya") in Indian manuscripts at the House of Wisdom. Fascinated by its potential, Idris studies its origins and impacts on mathematics and astronomy. He then dedicates his life to teaching others about zero, profoundly influencing mathematical thought across the Islamic world and eventually Europe. Reflecting in his later years, Idris appreciates how zero transformed scientific and numerical understanding, leaving a lasting legacy that would inspire countless future scholars.
 
 
 
