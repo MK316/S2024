@@ -1,4 +1,4 @@
-# 🌿 Final project
+# 🌿 Final project overview
 _This project plan might change depending on any suggestions or adjustments we need to make along the way. But don't worry, any changes will be kept to a minimum, if there are any at all._
 
 + The final project involves each group designing a class using provided materials and planning creative activities. Most importantly, **each group required to use at least two coding apps.** Throughout the process, feel free to use additional digital tools, but refrain from introducing any new ones to the audience.
