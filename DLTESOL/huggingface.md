@@ -1,12 +1,15 @@
 # Hugging Face (An AI model platform)
 ![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/huggingfacelogo.png)
+
++ [Weblink: huggingface.co](https://huggingface.co)
+  
 Hugging Face is a transformative tool in artificial intelligence that offers an extensive library of pre-trained models and a collaborative platform **for developers to enhance and deploy natural language processing applications.**
 
 + Hugging Face is a technology company specializing in natural language processing (NLP) and artificial intelligence (AI). It has gained prominence for its innovative contributions to the field, particularly through its **open-source library**, Transformers. This library offers state-of-the-art **pre-trained models** that can perform a wide range of NLP tasks, such as text classification, translation, and summarization.
 
 + For beginners, the appeal of Hugging Face lies in its accessibility. The company provides tools that are easy to use, even for those with minimal experience in AI. Its platform also fosters a vibrant community where developers and researchers share models, collaborate on projects, and exchange ideas. Additionally, Hugging Face actively supports ethical AI research and development, ensuring that their advancements are both innovative and responsibly crafted. Whether you're a researcher, developer, or simply an AI enthusiast, Hugging Face offers resources that can help deepen your understanding and application of AI in natural language contexts.
 
-+ [Weblink: huggingface.co](https://huggingface.co)
+
   
 ### Video to watch
 
