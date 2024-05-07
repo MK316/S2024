@@ -51,7 +51,7 @@ _Note that you should add me as a collaborator to this repository._
 ## 📗 Story text
 Each group will select one of the following four stories to proceed with their final project.
 
-![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/stories-all.png)
+![](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/stories-all.png)
 
 [characters](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/characters.png)
 
