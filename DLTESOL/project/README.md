@@ -54,7 +54,7 @@ Each group will select one of the following four stories to proceed with their f
 
 
 
-![](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/stories.png)
+![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/stories.png)
 
 [characters](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/characters.png)
 ### Story 1: The Tree of Dreams 
