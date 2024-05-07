@@ -33,8 +33,8 @@ This course is designed for TESOL graduate students to equip them with critical 
 |W12|May 21|Topic [7] Application Development for Language Learning & Teaching|||Group activities|
 |W13|May 28|Topic [7] Application Development for Language Learning & Teaching|||Group activities|
 |W14|June 4|Topic [8] TBA (Ethical Considerations)|||||
-|W15|June 11|Language Learning Applications |||Final project discussion|
-|W16|June 18|(Final presentation)|||Final project|
+|W15|June 11|Presentation |Group1, Group4||Final project|
+|W16|June 18|(Final presentation)|Group3, Group2||Final project|
 
 
 [💛]
