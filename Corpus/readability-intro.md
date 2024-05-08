@@ -14,9 +14,9 @@ $$
 $$
 
 > Where:  
-> **words** is the total number of words in the text.  
-> **sentences** is the total number of sentences in the text.  
-> **complex words** are words with three or more syllables, excluding proper nouns, familiar jargon, and compound words.
+> - **words** is the total number of words in the text.  
+> - **sentences** is the total number of sentences in the text.  
+> - **complex words** are words with three or more syllables, excluding proper nouns, familiar jargon, and compound words.
 
 + Grade levels:
 
