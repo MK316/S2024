@@ -53,87 +53,46 @@ $$
 
 + Flesch-Kincaid Grade Level: Provides a U.S. school grade level; the calculation is based on word length and sentence length.
 
-   $$
-   \text{Flesch-Kincaid Grade Level} = 0.39 \left(\frac{\text{total words}}{\text{total sentences}}\right) + 11.8 \left(\frac{\text{total syllables}}{\text{total words}}\right) - 15.59
-   $$
+$$
+\text{Flesch-Kincaid Grade Level} = 0.39 \left(\frac{\text{total words}}{\text{total sentences}}\right) + 11.8 \left(\frac{\text{total syllables}}{\text{total words}}\right) - 15.59
+$$
 
 + Gunning Fog Index: Estimates the years of formal education a person needs to understand the text on the first reading. It considers word complexity and sentence complexity.
 
-   $$
-   \text{Gunning Fog Index} = 0.4 \left( \left(\frac{\text{total words}}{\text{total sentences}}\right) + 100 \left(\frac{\text{complex words}}{\text{total words}}\right) \right)
-   $$
+$$
+\text{Gunning Fog Index} = 0.4 \left( \left(\frac{\text{total words}}{\text{total sentences}}\right) + 100 \left(\frac{\text{complex words}}{\text{total words}}\right) \right)
+$$
 
 + SMOG Index (Simple Measure of Gobbledygook): Calculates the number of years of education needed to understand a text, focusing on the number of polysyllabic words.
 
-   $$
-   \text{SMOG Index} = 1.043 \sqrt{\text{number of polysyllabic words} \times \frac{30}{\text{total sentences}}} + 3.1291
-   $$
+$$
+\text{SMOG Index} = 1.043 \sqrt{\text{number of polysyllabic words} \times \frac{30}{\text{total sentences}}} + 3.1291
+$$
 
 + Automated Readability Index (ARI): Uses character counts to predict the grade level required to comprehend the text.
 
-   $$
-   \text{ARI} = 4.71 \left(\frac{\text{total characters}}{\text{total words}}\right) + 0.5 \left(\frac{\text{total words}}{\text{total sentences}}\right) - 21.43
-   $$
+$$
+\text{ARI} = 4.71 \left(\frac{\text{total characters}}{\text{total words}}\right) + 0.5 \left(\frac{\text{total words}}{\text{total sentences}}\right) - 21.43
+$$
 
 + Coleman-Liau Index: Relies on character counts instead of syllables per word, providing an estimation of the U.S. grade level needed to understand the text.
 
-   $$
-   \text{Coleman-Liau Index} = 0.0588 \left(\frac{\text{total letters}}{\text{total words}} \times 100\right) - 0.296 \left(\frac{\text{total sentences}}{\text{total words}} \times 100\right) - 15.8
-   $$
+$$
+\text{Coleman-Liau Index} = 0.0588 \left(\frac{\text{total letters}}{\text{total words}} \times 100\right) - 0.296 \left(\frac{\text{total sentences}}{\text{total words}} \times 100\right) - 15.8
+$$
 
 + Linsear Write Formula: A formula that is simple and was originally designed for U.S. Air Force texts. It provides an estimate based on sentence and word length, focusing particularly on how many words have three or more syllables.
 
-   $$
-   \text{Linsear Write} = \left(\frac{\text{easy words} + (\text{difficult words} \times 3)}{\text{sentences}}\right) / 2
-   $$
+$$
+\text{Linsear Write} = \left(\frac{\text{easy words} + (\text{difficult words} \times 3)}{\text{sentences}}\right) / 2
+$$
 
 + Dale-Chall Readability Score: Uses a list of familiar words and calculates a score based on sentence length and the percentage of difficult words not on the familiar words list.
 
-   $$
-   \text{Dale-Chall Score} = 0.1579 \left(\frac{\text{difficult words}}{\text{total words}} \times 100\right) + 0.0496 \left(\frac{\text{total words}}{\text{total sentences}}\right)
-   $$
-   Where difficult words are those not found on a predefined list of commonly understood words.
+$$
+\text{Dale-Chall Score} = 0.1579 \left(\frac{\text{difficult words}}{\text{total words}} \times 100\right) + 0.0496 \left(\frac{\text{total words}}{\text{total sentences}}\right)
+$$
+
+Where difficult words are those not found on a predefined list of commonly understood words.
 
 
-### Readability Formulas
-
-1. **Flesch Reading Ease**
-   $$
-   \text{Flesch Reading Ease} = 206.835 - 1.015 \left(\frac{\text{total words}}{\text{total sentences}}\right) - 84.6 \left(\frac{\text{total syllables}}{\text{total words}}\right)
-   $$
-
-2. **Flesch-Kincaid Grade Level**
-   $$
-   \text{Flesch-Kincaid Grade Level} = 0.39 \left(\frac{\text{total words}}{\text{total sentences}}\right) + 11.8 \left(\frac{\text{total syllables}}{\text{total words}}\right) - 15.59
-   $$
-
-3. **Gunning Fog Index**
-   $$
-   \text{Gunning Fog Index} = 0.4 \left( \left(\frac{\text{total words}}{\text{total sentences}}\right) + 100 \left(\frac{\text{complex words}}{\text{total words}}\right) \right)
-   $$
-
-4. **SMOG Index (Simple Measure of Gobbledygook)**
-   $$
-   \text{SMOG Index} = 1.043 \sqrt{\text{number of polysyllabic words} \times \frac{30}{\text{total sentences}}} + 3.1291
-   $$
-
-5. **Automated Readability Index (ARI)**
-   $$
-   \text{ARI} = 4.71 \left(\frac{\text{total characters}}{\text{total words}}\right) + 0.5 \left(\frac{\text{total words}}{\text{total sentences}}\right) - 21.43
-   $$
-
-6. **Coleman-Liau Index**
-   $$
-   \text{Coleman-Liau Index} = 0.0588 \left(\frac{\text{total letters}}{\text{total words}} \times 100\right) - 0.296 \left(\frac{\text{total sentences}}{\text{total words}} \times 100\right) - 15.8
-   $$
-
-7. **Linsear Write Formula**
-   $$
-   \text{Linsear Write} = \left(\frac{\text{easy words} + (\text{difficult words} \times 3)}{\text{sentences}}\right) / 2
-   $$
-
-8. **Dale-Chall Readability Score**
-   $$
-   \text{Dale-Chall Score} = 0.1579 \left(\frac{\text{difficult words}}{\text{total words}} \times 100\right) + 0.0496 \left(\frac{\text{total words}}{\text{total sentences}}\right)
-   $$
-   Where difficult words are those not found on a predefined list of commonly understood words.
