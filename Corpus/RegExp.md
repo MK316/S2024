@@ -28,4 +28,4 @@ Regular expressions (regex) are a powerful tool used in programming for matching
 8. Alternation:
 > The pipe symbol | acts like a logical OR. For example, cat|dog will match "cat" or "dog".
 9. Escape Special Characters:
-> Backslash '\' is used to escape special characters in regex. For example, to match 'a' literally, you use '\.'.
+> Backslash '\\' is used to escape special characters in regex. For example, to match 'a' literally, you use '\\.'.
