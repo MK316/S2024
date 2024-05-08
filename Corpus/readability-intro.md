@@ -93,6 +93,6 @@ $$
 \text{Dale-Chall Score} = 0.1579 \left(\frac{\text{difficult words}}{\text{total words}} \times 100\right) + 0.0496 \left(\frac{\text{total words}}{\text{total sentences}}\right)
 $$
 
-Where difficult words are those not found on a predefined list of commonly understood words.
+> Where difficult words are those not found on a predefined list of commonly understood words.
 
 
