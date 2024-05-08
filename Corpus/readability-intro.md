@@ -5,7 +5,7 @@
 + The Gunning Fog formula generates a grade level between 0 and 20. It estimates the education level required to understand the text.
 + A Gunning Fog score of 6 is easily readable for sixth-graders. Text aimed at the public should aim for a grade level of around 8. Text above a 17 has a graduate level.
 
-[Calculating GF index online](http://gunning-fog-index.com/)
++ [Calculating GF index online](http://gunning-fog-index.com/)
 
 + The **Gunning Fog Index** is calculated using the following formula:
 
