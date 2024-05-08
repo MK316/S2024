@@ -1,4 +1,4 @@
-# Readability measures
+# 🌱 Readability measures
 
 Readability refers to the ease with which a reader can understand written text. In a scientific context, readability is quantitatively assessed using various metrics that evaluate the text's complexity based on factors such as sentence length, word length, syllable count, and vocabulary difficulty. These metrics estimate the educational level required to comprehend the text, often reported as a grade level or age group.
 
@@ -40,7 +40,7 @@ $$
   + Level 13-16 – College 
   + Level 17-20 – Graduate and beyond
 
-## Readabiliity Consensus-based upon multiple measures
+# 🔍 Readabiliity Consensus-based upon multiple measures
 + Using {teststat} library
 
 Multiple Readability Formulas: textstat.text_standard applies several readability formulas such as the Flesch Reading Ease, Flesch-Kincaid Grade Level, Gunning Fog Index, SMOG Index, Automated Readability Index (ARI), and others.
