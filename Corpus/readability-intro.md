@@ -1,5 +1,9 @@
 # Readability measures
 
+Readability refers to the ease with which a reader can understand written text. In a scientific context, readability is quantitatively assessed using various metrics that evaluate the text's complexity based on factors such as sentence length, word length, syllable count, and vocabulary difficulty. These metrics estimate the educational level required to comprehend the text, often reported as a grade level or age group.
+
+The purpose of readability assessments is to ensure that written materials match the cognitive and reading skills of their intended audience, thus improving comprehension and accessibility. Readability tests are utilized across diverse fields including education, healthcare, legal, and commercial sectors to tailor content appropriately for specific audiences. This facilitates effective communication, enhances learning outcomes, and ensures that information is accessible to all readers, regardless of their background or reading proficiency.
+
 ## Example) The Gunning Fog Index
 
 + The Gunning Fog formula generates a grade level between 0 and 20. It estimates the education level required to understand the text.
