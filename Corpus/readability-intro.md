@@ -47,9 +47,9 @@ General Usage: This function is quite useful when you need a general estimation 
 
 + Flesch Reading Ease: Evaluates text based on sentence length and word length. Higher scores indicate easier readability.
 
-   $$
-   \text{Flesch Reading Ease} = 206.835 - 1.015 \left(\frac{\text{total words}}{\text{total sentences}}\right) - 84.6 \left(\frac{\text{total syllables}}{\text{total words}}\right)
-   $$
+$$
+\text{Flesch Reading Ease} = 206.835 - 1.015 \left(\frac{\text{total words}}{\text{total sentences}}\right) - 84.6 \left(\frac{\text{total syllables}}{\text{total words}}\right)
+$$
 
 + Flesch-Kincaid Grade Level: Provides a U.S. school grade level; the calculation is based on word length and sentence length.
 
