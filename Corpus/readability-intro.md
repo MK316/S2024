@@ -13,9 +13,9 @@ $$
 \text{Gunning Fog Index} = 0.4 \left( \left(\frac{\text{words}}{\text{sentences}}\right) + 100 \left(\frac{\text{complex words}}{\text{words}}\right) \right)
 $$
 
-> Where:
-> **words** is the total number of words in the text.
-> **sentences** is the total number of sentences in the text.
+> Where:  
+> **words** is the total number of words in the text.  
+> **sentences** is the total number of sentences in the text.  
 > **complex words** are words with three or more syllables, excluding proper nouns, familiar jargon, and compound words.
 
 + Grade levels:
