@@ -26,3 +26,6 @@ This one-credit Graduate Seminar in Frequency Data Analysis focuses on key stati
 |Meeting 04|May16(V)<br>May23(Z)|Chi-squared test I|Purpose, Types of Chi-squared tests, Concepts|[Coding03](https://github.com/MK316/Spring2024/blob/main/Seminar/Chi_squared01.ipynb)|🔴[Dataframe](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md)|
 |Meeting 05|Jun.6(V)<br>Jun.13(Z)|Chi-squared test II|Visualize frequency data results, Interpretation of results, Practice with examples, Assumptions and limitations|[Coding03: continue](https://github.com/MK316/Spring2024/blob/main/Seminar/Chi_squared01.ipynb)||
 
+### Chi-Squared distribution table
+
++ [link](https://www.math.arizona.edu/~jwatkins/chi-square-table.pdf)
