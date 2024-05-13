@@ -21,7 +21,7 @@ This course, designed for second-year college students, focuses on integrating d
 |W08|Apr.23|Markdown language, review||[EVAL](https://forms.gle/iFtXn62b9Df8pyT16)|
 |W09|Apr.30|**_Midterm_**|[GA: Discussion forum]|[Codebook](https://github.com/MK316/DL/blob/main/Codebook.ipynb)|
 |W10|May7|Markdown: Markdown in GitHub streamlines the process of creating and maintaining clear, readable, and structured documentation.|[WordCloud-manual](https://github.com/MK316/Spring2024/blob/main/DLEE/wordcloud-manual.md), [🎯APP](https://mrkim21.github.io/appfolder/wordcloud.html)|[1.WC code](https://github.com/MK316/Spring2024/blob/main/DLTESOL/wordcloud.ipynb), [2.Wordlist](https://github.com/MK316/Spring2024/blob/main/DLTESOL/NLTK_FreqList.ipynb),[FPguide](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/README.md)|
-|W11|May14|Multimedia and English Learning <br> Using videos and podcasts for language improvement <br> Creating multimedia content in English, (group activities)|||
+|W11|May14|Multimedia and English Learning <br> Using videos and podcasts for language improvement <br> Creating multimedia content in English, (group activities)||[Lesson sample](https://github.com/MK316/Spring2024/blob/main/Sample/LessonSample.ipynb)|
 |W12|May21|Final project preview (inclass presentation)|||
 |W13|May28|English learning app development: Coding based Learner-centered learning applications|||
 |W14|June4|English learning app development: Coding based Learner-centered learning applications|||
