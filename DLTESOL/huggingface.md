@@ -11,7 +11,9 @@ Hugging Face is a transformative tool in artificial intelligence that offers an 
 
 ### Example model: Text summarization
 
-[Huggingface model: e.g., Falconsai/text_summarization](https://huggingface.co/Falconsai/text_summarization)
+[Huggingface model 1: e.g., Falconsai/text_summarization](https://huggingface.co/Falconsai/text_summarization)
+
+[Huggingface model 2: e.g., stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
   
 ### Video to watch
 
