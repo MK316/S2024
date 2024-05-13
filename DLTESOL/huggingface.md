@@ -9,7 +9,9 @@ Hugging Face is a transformative tool in artificial intelligence that offers an 
 
 + For beginners, the appeal of Hugging Face lies in its accessibility. The company provides tools that are easy to use, even for those with minimal experience in AI. Its platform also fosters a vibrant community where developers and researchers share models, collaborate on projects, and exchange ideas. Additionally, Hugging Face actively supports ethical AI research and development, ensuring that their advancements are both innovative and responsibly crafted. Whether you're a researcher, developer, or simply an AI enthusiast, Hugging Face offers resources that can help deepen your understanding and application of AI in natural language contexts.
 
+### Example model: Text summarization
 
+[Huggingface model: e.g., Falconsai/text_summarization](https://huggingface.co/Falconsai/text_summarization)
   
 ### Video to watch
 
