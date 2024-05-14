@@ -12,8 +12,8 @@ _This project plan might change depending on any suggestions or adjustments we n
 
 |Date|Groups|Text material|
 |--|--|--|
-|6/11||Story01; Story02|
-|6/18||Story03; Story04|
+|6/11|G1, G5, G6|Story 1, 5, 6|
+|6/18|G2, G3, G4|Story 2, 3, 4|
 
 + Duration: (max.) 40 minutes (20 minutes presentation + 10 minutes Q&A + 10 minutes evaluation)
 + Format: Each group presents their developed app and its relevance to learning English through text. 
