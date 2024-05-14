@@ -85,12 +85,13 @@ In a quaint village surrounded by rolling hills, young Tom struggled with the to
 In a small coastal town, the aging lighthouse keeper, Mr. Elias, and his grandson, Jamie, faced a crisis when the town council decided to replace the old lighthouse lamp with a modern electronic navigation system. During a fierce storm, the new system failed, jeopardizing the safety of ships at sea. In desperation, Elias handed Jamie an old lantern to signal the ships, a dim but steadfast light. Jamie's brave effort with the lantern successfully guided a ship to safety, proving the old lighthouse's worth. The council restored and enhanced the lighthouse, learning the value of blending tradition with innovation. Inspired, Jamie eventually became the lighthouse keeper, merging old and new navigational methods to ensure the lighthouse remained a reliable beacon. This story underscored the enduring importance of wisdom and tradition in modern times.
 
 
-### Story 5:  
+### Story 5: The Cave of Whisper
 + [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLEE/Project/story05.txt)
 + [image link](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/Story05.png)
 
 **<Synopsis>**
- is the journey and the friendships formed along the way. Realizing the value of their experience, they decide to leave the treasure for future adventurers, returning home enriched by their adventure and the unbreakable bonds they've strengthened.
+In the quaint town of Willow Creek, four friends—Emma, Jake, Mia, and Liam—discover an ancient map hidden in a library book, leading them to the mysterious Cave of Whispers. Believed to contain a lost treasure, the cave beckons the friends into an adventure through dense woods and hidden paths. Inside the cave, amidst the cool, echoing chambers, they find not only ancient carvings and symbols but also a wooden chest filled with gold and jewels. However, the true discovery lies in a parchment within the chest, offering wisdom that real treasure is found in the journey and friendships formed rather than material wealth. Choosing to leave the treasure for future explorers, the friends return home, enriched with experiences and memories of courage, camaraderie, and the thrill of adventure, forever cherishing their expedition to the Cave of Whispers.
+
 
 ### Story 6: The Circle of Discovery 
 + [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLEE/Project/story06.txt)
