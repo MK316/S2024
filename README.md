@@ -14,6 +14,13 @@ Continuously updated as needed.
 |**[4. Corpus Linguistics and English Education](https://github.com/MK316/Spring2024/blob/main/Corpus/readme.md)** |📘 Grad (MA, PhD)|Wed|3|This is an introductory course exploring corpus analysis methods to innovate English teaching and curriculum design. Graduate students will engage with real-world language data, applying findings to enhance teaching methodologies, material development and assessment strategies in language education.|
 |**[5. Seminar](https://github.com/MK316/Spring2024/blob/main/Seminar/readme.md)**|📘 Grad (MA, PhD)|Thur (Mon)|1|This seminar focuses on frequency data handling and relevant basic statistics, offering lectures and practical sessions to develop foundational skills in statistical analysis and data interpretation. Using Python coding, students will learn how to summarize the frequency data visually (e.g., pie, bar, associate plots), frequency data tables, Chi-Squared tests, and related quantitative analysis methods. |
 
+### Final Presenation (25 mins max + 10 mins Q&As)
+
+|Date | Groups|
+|--|--|
+|June 11| G1, G5, G6|
+|June 18| G2, G3, G4|
+
 
 
 
