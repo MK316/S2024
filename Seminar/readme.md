@@ -25,7 +25,7 @@ This one-credit Graduate Seminar in Frequency Data Analysis focuses on key stati
 |Meeting 03|Apr.25(V)<br>May9(Z)|Descriptive Statistics III, Frequency data|Visualize data II, Real data practice|[Video](https://youtu.be/nHDBzQDwbjI),<br> [Chi-Squared test slides](https://github.com/MK316/Spring2024/blob/main/Seminar/S24_Seminar_0509slides.pdf)|[Practice Apr.25](https://github.com/MK316/Spring2024/blob/main/Seminar/Seminar01C.ipynb)|
 |Meeting 04|May16(V)<br>May23(Z)|Chi-squared test I|Purpose, Types of Chi-squared tests, Concepts|[Independence](https://github.com/MK316/Spring2024/blob/main/Seminar/Chi_Squared_Independence.ipynb)<br>[Goodness](https://github.com/MK316/Spring2024/blob/main/Seminar/Chi_Squared_GoodnessOfFit.ipynb),<br>[Coding03](https://github.com/MK316/Spring2024/blob/main/Seminar/Chi_squared01.ipynb)|🔴[Dataframe](https://github.com/MK316/Coding4ET/blob/main/Lessons/Lesson07a.md)|
 |Meeting 05|Jun.6(V)<br>Jun.13(Z)|Chi-squared test II|Visualize frequency data results, Interpretation of results, Practice with examples, Assumptions and limitations|[Coding03: continue](https://github.com/MK316/Spring2024/blob/main/Seminar/Chi_squared01.ipynb)||
-|Final|Jun. 20|A squib to submit||||
+|Final|Jun. 20|A squib to submit| Data will be provided|||
 
 ### Chi-Squared distribution table
 
