@@ -36,6 +36,13 @@ This course, designed for second-year college students, focuses on integrating d
 |Final project|30%|
 |Assignments|20%|
 
++ Assignment#1: Survey 1
++ Assignment#2: Mini-project evaluation
++ Assignment#3: Final project evaluation
++ Assignment#4: Group project review (1 page)
+
+
+
 
 [^1]: Digital tools to share: 
 
