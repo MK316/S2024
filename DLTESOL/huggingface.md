@@ -1,6 +1,8 @@
 # Hugging Face (An AI model platform)
 ![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/huggingfacelogo.png)
 
++ Weblink: https://{username}.hf.space
+
 + [Weblink: huggingface.co](https://huggingface.co): Open a free account by next week. (best if you use the same Google Email account for Github)
   
 Hugging Face is a transformative tool in artificial intelligence that offers an extensive library of pre-trained models and a collaborative platform **for developers to enhance and deploy natural language processing applications.**
