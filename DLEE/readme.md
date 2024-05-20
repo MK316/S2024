@@ -26,6 +26,7 @@ This course, designed for second-year college students, focuses on integrating d
 |W13|May28|English learning app development: Coding based Learner-centered learning applications|||
 |W14|June4|English learning app development: Coding based Learner-centered learning applications|||
 |W15|June11|**_Final_**|_Project presentation_|||
+|W16|June18|**_Final_**|_Project presentation_, Group project review (1 page)|||
 
 ## Course Evaluation 
 
