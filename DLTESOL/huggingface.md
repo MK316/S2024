@@ -1,7 +1,7 @@
 # Hugging Face (An AI model platform)
 ![](https://github.com/MK316/Spring2024/blob/main/DLTESOL/huggingfacelogo.png)
 
-+ Weblink: https://{username}.hf.space
++ Applink format: https://{username}.hf.space
 
 + [Weblink: huggingface.co](https://huggingface.co): Open a free account by next week. (best if you use the same Google Email account for Github)
   
