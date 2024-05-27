@@ -24,7 +24,7 @@ This course, designed for second-year college students, focuses on integrating d
 |W11|May14|Multimedia and English Learning <br> Using videos and podcasts for language improvement <br> Creating multimedia content in English, (group activities)|[Hugging Face intro](https://github.com/MK316/Spring2024/blob/main/DLTESOL/huggingface.md)|[Lesson sample01](https://github.com/MK316/Spring2024/blob/main/Sample/LessonSample01.ipynb),<br>[Lesson sample02](https://github.com/MK316/Spring2024/blob/main/Sample/LessonSample02.ipynb)|
 |W12|May21|Final project preview (inclass presentation)|Spelling proficiency through audio-assisted learning|[Lesson sample03](https://github.com/MK316/Spring2024/blob/main/Sample/LessonSample03_Spelling.ipynb),<br>[MakingQuizz](https://github.com/MK316/Spring2024/blob/main/Sample/MakingQuizzes.ipynb)|
 |W13|May28|English learning app development: Coding based Learner-centered learning applications|[Hugging Face 2](https://github.com/MK316/Spring2024/blob/main/Sample/AppDesignIntro01.ipynb)|[YourOwnTTS](https://github.com/MK316/Spring2024/blob/main/Sample/Huggingface_Deploy.ipynb), <br> Group discussioin|
-|W14|June4|English learning app development: Coding based Learner-centered learning applications|||
+|W14|June4|English learning app development: Coding based Learner-centered learning applications|Final project discussion|Group activities|
 |W15|June11|**_Final_**|_Project presentation_|||
 |W16|June18|**_Final_**|_Project presentation_, Group project review (1 page)|||
 
