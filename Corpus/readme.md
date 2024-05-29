@@ -22,7 +22,7 @@ This graduate-level course, designed for in-service English teachers at the seco
 |W10|May8|Readability, Topic-modeling| Readability measures, NLP preprocessing, topic-modeling|[Intro](https://github.com/MK316/Spring2024/blob/main/Corpus/readability-intro.md), [Readability](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability01.ipynb), [App](https://github.com/MK316/Spring2024/blob/main/Corpus/Readability_textstat_app.ipynb)|[sampletext](https://www.corpusdata.org/formats.asp), [RE](https://github.com/MK316/Spring2024/blob/main/Corpus/RE01.ipynb), [ArticleUse](https://github.com/MK316/Spring2024/blob/main/Corpus/Articles.ipynb)|
 |W11|(May15)|Sentiment Analysis|Data collection, | Individual project submission|
 |W12|May22|Clustering Analysis|Data collection, (Clustering Analysis), Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentalAnalysis.ipynb)|||
-|W13|May29|Project #2|Idea brainstorming, individual project discussions, samples|||
+|W13|May29|Project #2|Idea brainstorming, individual project discussions, samples||[TEDdata](https://docs.google.com/spreadsheets/d/1HCmWn9U0kpJFxpVVr0SticO9mwhsqetcyULJpDW8pfw/edit?usp=sharing)|
 |W14|June5|Project #3|individual project discussions, samples|||
 |W15|June12|Final project|Presentations|||
 
