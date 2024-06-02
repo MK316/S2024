@@ -32,7 +32,7 @@ This course is designed for TESOL graduate students to equip them with critical 
 |W11|May 14|Topic [6] Application Design for Language Learning & Teaching|[Hugging Face intro](https://github.com/MK316/Spring2024/blob/main/DLTESOL/huggingface.md)|[2.Wordlist](https://github.com/MK316/Spring2024/blob/main/DLTESOL/NLTK_FreqList.ipynb)|[Sample01](https://github.com/MK316/Spring2024/blob/main/Sample/LessonSample01.ipynb),<br>Group activities|
 |W12|May 21|Topic [7] Application Development for Language Learning & Teaching||Spelling proficiency through audio-assisted learning|[Sample02](https://github.com/MK316/Spring2024/blob/main/Sample/LessonSample03_Spelling.ipynb),<br>[MakingQuizzes](https://github.com/MK316/Spring2024/blob/main/Sample/MakingQuizzes.ipynb),<br>Group activities|
 |W13|May 28|Topic [7] Application Development for Language Learning & Teaching|[Hugging Face 2](https://github.com/MK316/Spring2024/blob/main/Sample/AppDesignIntro01.ipynb)|More lesson samples, [YourOwnTTS](https://github.com/MK316/Spring2024/blob/main/Sample/Huggingface_Deploy.ipynb)|Group activities|
-|W14|June 4|Topic [8] TBA (Group project discussion)||[PronunciationFeedback](https://github.com/MK316/Spring2024/blob/main/DLTESOL/0604SpeechRecognition.ipynb)|[FinalEvalForm](https://forms.gle/mDsk2oMcVq5Xr1SQA)||
+|W14|June 4|Topic [8] TBA (Group project discussion)||APP sample: [PronunciationFeedback](https://github.com/MK316/Spring2024/blob/main/DLTESOL/0604SpeechRecognition.ipynb)|[FinalEvalForm](https://forms.gle/mDsk2oMcVq5Xr1SQA)||
 |W15|June 11|Presentation |Group1, Group4||Final project|
 |W16|June 18|(Final presentation)|Group3, Group2||Final project|
 
