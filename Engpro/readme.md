@@ -20,5 +20,5 @@
 |W11||English fricatives|English consonants II||HW#3-Song|
 |W12||Consonant rules|English consonants III|||
 |W13||Rhythm|Consonant clusters, sound linking||HW#4-Recording(6/8)|
-|W14|||Review|||
+|W14|||Review|Sound linking, Pronunciation practice application|[App](https://github.com/MK316/Spring2024/blob/main/Engpro/APP_SpeakingYourText.ipynb)|
 |W15|||Final presentation: 3 minute presentation||HW#5|
