@@ -23,7 +23,7 @@ This graduate-level course, designed for in-service English teachers at the seco
 |W11|(May15)|Sentiment Analysis|Data collection, | Individual project submission|
 |W12|May22|Clustering Analysis|Data collection, (Clustering Analysis), Sentiment Analysis|[Code](https://github.com/MK316/Spring2024/blob/main/Corpus/SentimentalAnalysis.ipynb)|||
 |W13|May29|Project #2|Idea brainstorming, individual project discussions, samples||[TEDdata](https://docs.google.com/spreadsheets/d/1HCmWn9U0kpJFxpVVr0SticO9mwhsqetcyULJpDW8pfw/edit?usp=sharing)|
-|W14|June5|Project #3|individual project discussions, samples|Removing timestamps, parenthetical notes|[01_Text preprocess 01](https://github.com/MK316/Spring2024/blob/main/Corpus/TEDdata/TED_preprocess.ipynb),<br>[02_TEDdata process shared](https://github.com/MK316/Spring2024/blob/main/Corpus/TEDdata/TED100_dataprocess_shared.ipynb)|
+|W14|June5|Project #3|individual project discussions, samples|Removing timestamps, parenthetical notes|[01_Text preprocess sample](https://github.com/MK316/Spring2024/blob/main/Corpus/TEDdata/TED_preprocess.ipynb),<br>[02_TEDdata process shared](https://github.com/MK316/Spring2024/blob/main/Corpus/TEDdata/TED100_dataprocess_shared.ipynb)|
 |W15|June12|Final project|Presentations|||
 
 ## 📙 How to handle frequency data
