@@ -9,8 +9,7 @@ Please include the following 2 parts:
 ### Guideline
 
 + Due by June 21 (Midnight of Fiday)
-+ 1.5 full page (A4), font size 11, line space 1.2: including the content 1) and 2) in the above, as a single file.
-+ Submission (To be linked June 18): Submit your essay as a PDF or Word document via this link (There are 8 multiple survey questions too.). You'll be asked to upload a file at the end of the survey.
++ 1.5 full page (A4), font size 11, a single line space
++ Submission (**To be linked June 18**): Submit a single file as a PDF or HWP, Word document via this link (The link will also contain 8 multiple survey questions.). You'll be asked to upload a file at the end of the survey.
 + Language: You may write your essay in English or Korean.
-+ Content: Reflect on your personal experiences during the semester while learning about language application design and Python coding.
-Discuss your thoughts on the use of coding in the context of language learning and teaching. You can also consider any challenges, benefits, or insights you gained from this approach.
++ Content: Reflect on your personal experiences during the semester while learning about language application design and Python coding. Discuss your thoughts on the use of coding in the context of language learning and teaching. Also, consider any challenges, benefits, or insights you gained from this approach.
