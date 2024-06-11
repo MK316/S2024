@@ -34,7 +34,7 @@ This course is designed for TESOL graduate students to equip them with critical 
 |W13|May 28|Topic [7] Application Development for Language Learning & Teaching|[Hugging Face 2](https://github.com/MK316/Spring2024/blob/main/Sample/AppDesignIntro01.ipynb)|More lesson samples, [YourOwnTTS](https://github.com/MK316/Spring2024/blob/main/Sample/Huggingface_Deploy.ipynb)|Group activities|
 |W14|June 4|Topic [8] TBA (Group project discussion)|APP sample: [PronunciationFeedback](https://github.com/MK316/Spring2024/blob/main/DLTESOL/0604SpeechRecognition.ipynb)|[FinalEvalForm](https://forms.gle/mDsk2oMcVq5Xr1SQA)|[ShareYourApplink](https://docs.google.com/spreadsheets/d/11TMSMm_0xzBc5lYAJx9oDwwrgeeAqKR1CEULl-eR6w0/edit?usp=sharing)|
 |W15|June 11|Presentation |Group1, Group4||Final project|
-|W16|June 18|(Final presentation)|Group3, Group2||Final project|
+|W16|June 18|(Final presentation)|Group3, Group2|Final project|[Reflection essay](https://github.com/MK316/Spring2024/blob/main/DLTESOL/reflectionessay.md)|
 
 
 ## Class tools (supplementary; To be updated)
