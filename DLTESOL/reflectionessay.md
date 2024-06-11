@@ -8,7 +8,7 @@ Please include the following 2 parts:
 
 ### Guideline
 
-+ Due by June 21 (Midnight of Fiday)
++ Due by June 20 (Midnight of Thursday)
 + 1.5 full page (A4), font size 11, a single line space
 + Submission (**To be linked June 18**): Submit a single file as a PDF or HWP, Word document via this link (The link will also contain 8 multiple survey questions.). You'll be asked to upload a file at the end of the survey.
 + Language: You may write your essay in English or Korean.
