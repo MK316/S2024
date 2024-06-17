@@ -1,6 +1,6 @@
 # Final assignment: 1.5 paged Reflection Essay on your Experiences and Perspectives on Coding in Language Learning and Teaching
 
-Please include the following 2 parts:
+Please include the following 2 parts in a single document (pdf, hwp, doc):
 
 1. (1 page) The purpose of this final essay is to reflect on your experiences with the coding approach in language application design and share your perspectives on its implications for language learning and teaching. Your essay will contribute to a research study examining different viewpoints on the integration of coding in language education.
 
@@ -10,6 +10,6 @@ Please include the following 2 parts:
 
 + Due by June 20 (Midnight of Thursday)
 + 1.5 full page (A4), font size 11, a single line space
-+ Submission (**To be linked June 18**): Submit a single file as a PDF or HWP, Word document via this link (The link will also contain 8 multiple survey questions.). You'll be asked to upload a file at the end of the survey.
-+ Language: You may write your essay in English or Korean.
-+ Content: Reflect on your personal experiences during the semester while learning about language application design and Python coding. Discuss your thoughts on the use of coding in the context of language learning and teaching. Also, consider any challenges, benefits, or insights you gained from this approach.
++ Submission [link](https://forms.gle/XsgJjek7ucQMwBTt6): After answering reflection questions (multiple and short answers), you'll be asked to upload a file at the end of the survey. (Approximately 10 to 15 minutes to complete the survey)
++ Language: You may write your essay **in English or Korean.**
++ Content: Reflect on your personal experiences during the semester while learning about Python coding for language application development. Discuss your thoughts on the use of coding in the context of language learning and teaching. You may consider any challenges, benefits, or insights you gained from this approach.
