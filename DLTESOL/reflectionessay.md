@@ -1,6 +1,6 @@
-# Final assignment [5 pts.]: 1.5 paged Reflection Essay on your Experiences and Perspectives on Coding in Language Learning and Teaching
+# 💦 Final assignment: Reflection Essay on your Experiences and Perspectives on Coding in Language Learning and Teaching
 
-Please include the following 2 parts in a single document (pdf, hwp, doc):
+Please include the following 2 parts in a single document (pdf, hwp, doc): 5 points allocated.
 
 1. (1 page) The purpose of this final essay is to reflect on your experiences with the coding approach in language application design and share your perspectives on its implications for language learning and teaching. Your essay will contribute to a research study examining different viewpoints on the integration of coding in language education.
 
