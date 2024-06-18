@@ -6,7 +6,7 @@ Please include the following 2 parts in a single document (pdf, hwp, doc) [5 poi
 
 2. (0.5 page) Group activity evaluation: Your contributions, member contributions in percentage, with supporting details.
 
-### Guideline
+### Guideline to submit
 
 + Due by June 20 (Midnight of Thursday)
 + 1.5 full page (A4), font size 11, a single line space
