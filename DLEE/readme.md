@@ -26,7 +26,7 @@ This course, designed for second-year college students, focuses on integrating d
 |W13|May28|English learning app development: Coding based Learner-centered learning applications|[Hugging Face 2](https://github.com/MK316/Spring2024/blob/main/Sample/AppDesignIntro01.ipynb)|[YourOwnTTS](https://github.com/MK316/Spring2024/blob/main/Sample/Huggingface_Deploy.ipynb), <br> Group discussioin|
 |W14|June4|English learning app development: Coding based Learner-centered learning applications|Final project discussion|Group activities|
 |W15|June11|**_Final_**|_Project presentation_|||
-|W16|June18|**_Final_**|_Project presentation_, Group project review (1 page)|[ReflectionEssay621](https://github.com/MK316/Spring2024/blob/main/DLEE/reflectionessay.md)|
+|W16|June18|**_Final_**|_Project presentation_, Group project review (1 page)|[ReflectionEssay623](https://github.com/MK316/Spring2024/blob/main/DLEE/reflectionessay.md)|
 
 ## Course Evaluation 
 
