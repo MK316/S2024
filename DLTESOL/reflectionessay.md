@@ -8,8 +8,8 @@ Please include the following 2 parts in a single document (pdf, hwp, doc) [5 poi
 
 ### Guideline to submit
 
-+ Due by June 20 (Midnight of Thursday)
++ Due by June 21 (Midnight of Friday)
 + 1.5 full page (A4), font size 11, a single line space
-+ **Submission 📌 💦 [Through this survey link](https://forms.gle/XsgJjek7ucQMwBTt6)**: After answering reflection questions (multiple and short answers), you'll be asked to upload a file at the end of the survey. (Approximately 10 to 15 minutes to complete the survey)
++ **Submission 📌 💦 [Through this survey link by Midnight Sunday](https://forms.gle/XsgJjek7ucQMwBTt6)**: After answering reflection questions (multiple and short answers), you'll be asked to upload a file at the end of the survey. (Approximately 10 to 15 minutes to complete the survey)
 + Language: You may write your essay **in English or Korean.**
 + Content: Reflect on your personal experiences during the semester while learning about Python coding for language application development. Discuss your thoughts on the use of coding in the context of language learning and teaching. You may consider any challenges, benefits, or insights you gained from this approach.
