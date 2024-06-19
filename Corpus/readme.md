@@ -7,7 +7,7 @@ This graduate-level course, designed for in-service English teachers at the seco
 | 💾 [Syllabus](https://github.com/MK316/Spring2024/blob/main/Corpus/data/S24_Syllabus_Corpus_Linguistics.pdf) | 👭 [Padlet: inclass activity](https://padlet.com/mirankim316/S24Corpus) | 📗[Python basics manual](https://github.com/MK316/Coding4ET/blob/main/README.md) | 🌳 [Class log](https://github.com/MK316/Spring2024/blob/main/log-corpus.md) |🌳 [TEDdata-collection](https://docs.google.com/spreadsheets/d/1HCmWn9U0kpJFxpVVr0SticO9mwhsqetcyULJpDW8pfw/edit?usp=sharing)
 
 
-## 💠Github IDs
+## 💠 Github IDs
 
 ||Github ID| Final project link|
 |--|--|--|
@@ -17,7 +17,7 @@ This graduate-level course, designed for in-service English teachers at the seco
 
 
 
-## Weekly Schedule
+## 💠 Weekly Schedule
 
 |Week|Date|Key topic(s)|Description|Code page|Assignments|
 |--|--|--|--|--|--|
